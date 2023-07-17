@@ -1,0 +1,40 @@
+<!--
+	style.css
+	
+	Color Pallete: // https://www.w3schools.com/tags/ref_colornames.asp
+	https://www.w3schools.com/html/html_colors.asp
+	#C4F0FF = sky blue
+	-->
+{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+}
+
+h2 {
+	color: black;
+}
+
+h3 {
+	color: black;
+	background-color: white;
+}
+
+h4 {
+	color: black;
+	border: 2px solid gold;
+	padding: 10px;
+	margin: 50px;
+}
+
+p {
+	color: red;
+}
