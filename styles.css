@@ -1,10 +1,22 @@
-<!--
+/*
 	style.css
 	
 	Color Pallete: // https://www.w3schools.com/tags/ref_colornames.asp
 	https://www.w3schools.com/html/html_colors.asp
 	#C4F0FF = sky blue
-	-->
+	
+	FontFamily = https://www.w3schools.com/css/css_font.asp
+	FontStyle = https://www.w3schools.com/css/css_font_style.asp
+	FontSize = https://www.w3schools.com/css/css_font_size.asp
+	
+	Commenting Principles
+	a) https://www.w3schools.com/css/css_comments.asp
+	b) https://github.com/necolas/idiomatic-css
+	c) https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
+	
+	Rob Smith
+	18 Jul 2023
+	*/
 {
     margin:0px;
     padding: 0px;
@@ -13,28 +25,29 @@
 
 body {
 	background-color: white;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h1 {
 	color: black;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h2 {
 	color: black;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h3 {
 	color: black;
 	background-color: white;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h4 {
 	color: black;
 	border: 2px solid gold;
-	padding: 10px;
-	margin: 50px;
-}
-
-p {
-	color: red;
+	padding: 5px;
+	margin: 30px;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
