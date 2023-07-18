@@ -23,6 +23,13 @@
     box-sizing: border-box;
 }
 
+table, th, td {
+  border: 2x solid black;
+  /*border-collapse: collapse; */
+  padding: 5px;
+  text-align: center;
+}
+
 body {
 	background-color: white;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
