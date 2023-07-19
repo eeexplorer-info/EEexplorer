@@ -24,11 +24,20 @@
 }
 
 table, th, td {
-  border: 2x solid black;
-  /*border-collapse: collapse; */
+  border: 1px solid black;
   padding: 5px;
   text-align: center;
 }
+/* zebra table row markings */
+tr:nth-child(even) { background-color: #f2f2f2;}	/*lightgrey;}*/
+
+table {
+	border-collapse: collapse;
+	width:80%;
+	z-index:1;
+	/*border: 2px;*/
+}
+
 
 body {
 	background-color: white;
@@ -53,7 +62,7 @@ h3 {
 
 h4 {
 	color: black;
-	border: 2px solid gold;
+	border: 3px solid gold;
 	padding: 5px;
 	margin: 30px;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
