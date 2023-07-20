@@ -33,9 +33,10 @@ tr:nth-child(even) { background-color: #f2f2f2;}	/*lightgrey;}*/
 
 table {
 	border-collapse: collapse;
-	width:80%;
+	width:85%;
 	z-index:1;
 	/*border: 2px;*/
+	font-size: 0.875em;		//* 14px/16 = 0.875em */
 }
 
 
