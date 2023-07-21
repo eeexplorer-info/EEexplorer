@@ -31,18 +31,25 @@ table, th, td {
 /* zebra table row markings */
 tr:nth-child(even) { background-color: #f2f2f2;}	/*lightgrey;}*/
 
+
+
 table {
 	border-collapse: collapse;
-	width:85%;
+	
+	table-layout: auto;	/*width:80%;*/ /*needs to be commented out */
+	
 	z-index:1;
 	/*border: 2px;*/
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 0.875em;		//* 14px/16 = 0.875em */
+	
 }
 
 
 body {
 	background-color: white;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 0.875em;		//* 14px/16 = 0.875em */
 }
 
 h1 {
@@ -63,8 +70,25 @@ h3 {
 
 h4 {
 	color: black;
+	background-color: gold;
 	border: 3px solid gold;
 	padding: 5px;
-	margin: 30px;
+	margin: 10%;	/* where tbl = 80% ; was 30px;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+nav {
+	background-color: lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 0.875em;	//* 14px/16 = 0.875em */	
+	color: black;
+}
+
+section
+{
+	font-size: 0.875em;	//* 14px/16 = 0.875em */	
+	background-color: lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	text-align: left;
+	background-color: lightyellow;	/*lemonchiffon = FFFF00;
+}
 }
