@@ -21,6 +21,8 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
+	background-color: white;
+	/*&color: black;*/
 }
 
 table, th, td {
@@ -78,17 +80,20 @@ h4 {
 }
 
 nav {
-	background-color: lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 0.875em;	//* 14px/16 = 0.875em */	
 	color: black;
+	/* testing 123
+	background-color: cyan;
+	padding-top: 5px;
+	padding-bottom: 5 px;
+	*/
 }
 
-section
-{
+section {
 	font-size: 0.875em;	//* 14px/16 = 0.875em */	
-	background-color: lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: gold; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	text-align: left;
-	background-color: lightyellow;	/*lemonchiffon = FFFF00;
-}
+	background-color: lightyellow;	/*lemonchiffon = FFFF00; */
 }
