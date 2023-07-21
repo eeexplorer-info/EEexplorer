@@ -21,16 +21,14 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-	/*background-color: white;
-	color: black;*/
-	color: white;
-	background-color: black;
-	/*&color: black;*/
+	
+	color: black; background-color: white;
+	/*nbg color: white; background-color: black;*/
 }
 
 table, th, td {
-  /*border: 1px solid black;*/
-  border: 1px solid white;
+  border: 1px solid black;
+  /*nbg border: 1px solid white;*/
   padding: 5px;
   text-align: center;
 }
@@ -41,62 +39,54 @@ tr:nth-child(even) { background-color: #f2f2f2;}	/*lightgrey;}*/
 
 table {
 	border-collapse: collapse;
-	
 	table-layout: auto;	/*width:80%;*/ /*needs to be commented out */
-	
 	z-index:1;
-	/*border: 2px;*/
+	/*border: 2px;*//* for now */
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 0.875em;		//* 14px/16 = 0.875em */
-	
 }
 
 
 body {
-	/*background-color: white;*/
-	background-color: black;
+	background-color: white;
+	/*nbg* background-color: black;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 0.875em;		//* 14px/16 = 0.875em */
 }
 
 h1 {
-	/*color: black;*/
-	color: white;
+	color: black; background-color: white;
+	/*nbg color: white;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h2 {
-	/*color: black;*/
-	color: white;
+	color: black; background-color: white;
+	/*nbg color: white;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h3 {
-	/*color: black;*/
-	/*background-color: white;*/
-	color: white;
-	background-color: black;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	color: black; background-color: white;
+	/*nbg color: white;*/
+		font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h4 {
-	/*color: black;*/
-	/*background-color: white;*/
-	color: white;
-	background-color: black;
-	background-color: gold;
-	border: 3px solid gold;
+	color: black; background-color: gold;
+	/*nbg color: white;*/
+		
+	/* border: 3px solid gold;*/
 	padding: 5px;
 	margin: 10%;	/* where tbl = 80% ; was 30px;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 nav {
-	/*color: black;*/
-	/*background-color: white;*/
-	color: white;
-	background-color: black;
+	color: black;
+	/*nbg color: white; background-color: black;*/
 	background-color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 0.875em;	//* 14px/16 = 0.875em */	
 	/*color: black;*/
@@ -112,5 +102,4 @@ section {
 	font-size: 0.875em;	//* 14px/16 = 0.875em */	
 	background-color: gold; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	text-align: left;
-	background-color: lightyellow;	/*lemonchiffon = FFFF00; */
 }
