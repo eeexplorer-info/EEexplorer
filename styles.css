@@ -33,7 +33,9 @@ table, th, td {
   text-align: center;
 }
 /* zebra table row markings */
-tr:nth-child(even) { background-color: #f2f2f2;}	/*lightgrey;}*/
+/*gainsboro; #f2f2f2; #d9d9d9; lightgrey; silver; darkgrey; dimgrey*/
+tr:nth-child(even) { background-color: #d9d9d9;}
+/* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
 
 
 
@@ -43,7 +45,7 @@ table {
 	z-index:1;
 	/*border: 2px;*//* for now */
 	font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 0.875em;		//* 14px/16 = 0.875em */
+	font-size: 1em; /*0.875em;		//* 14px/16 = 0.875em */
 }
 
 
@@ -69,11 +71,13 @@ h2 {
 h3 {
 	color: black; background-color: white;
 	/*nbg color: white;*/
-		font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
 }
 
 h4 {
-	color: black; background-color: gold;
+	color: black; background-color: yellow; /*gold;*/
+	border: 1px solid black;
 	/*nbg color: white;*/
 		
 	/* border: 3px solid gold;*/
@@ -88,7 +92,7 @@ nav {
 	background-color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	
 	font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 0.875em;	//* 14px/16 = 0.875em */	
+	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
 	/*color: black;*/
 	
 	/* testing 123
@@ -96,10 +100,11 @@ nav {
 	padding-top: 5px;
 	padding-bottom: 5 px;
 	*/
+	text-align:left;
 }
 
 section {
-	font-size: 0.875em;	//* 14px/16 = 0.875em */	
-	background-color: gold; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
+	background-color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	text-align: left;
 }
