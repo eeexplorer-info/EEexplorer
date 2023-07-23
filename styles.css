@@ -33,17 +33,17 @@ table, th, td {
   text-align: center;
 }
 /* zebra table row markings */
-/*gainsboro; #f2f2f2; #d9d9d9; lightgrey; silver; darkgrey; dimgrey*/
-tr:nth-child(even) { background-color: #d9d9d9;}
+/*gainsboro; #f2f2f2; #e6e6e6 #d9d9d9; lightgrey; silver; darkgrey; dimgrey*/
+tr:nth-child(even) { background-color: #e6e6e6;}
 /* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
 
 
 
 table {
 	border-collapse: collapse;
-	table-layout: auto;	/*width:80%;*/ /*needs to be commented out */
-	z-index:1;
 	/*border: 2px;*//* for now */
+	table-layout: auto;	/*width:80%;*/ /*needs to be commented out */
+	z-index:1;	/* sit on top */
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 1em; /*0.875em;		//* 14px/16 = 0.875em */
 }
