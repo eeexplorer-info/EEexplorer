@@ -21,20 +21,38 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
+	/* no go */
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 	
-	color: black; background-color: white;
-	/*nbg color: white; background-color: black;*/
+	/*color: black; background-color: white;*/
+	/* nbg 
+	background-color: #0000; /*black;
+	color: #ffff; /*white; */
 }
 
+/* attempt at using gradient */
+/* only shades between photo and menu */
+/*
+.container{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(45deg, #4f639b, #ffff);
+}
+*/
+
+
+
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid white; /*black;*/
+  color: black; /*white;*/
+  /*background-color: grey;*/
   /*nbg border: 1px solid white;*/
   padding: 5px;
   text-align: center;
 }
 /* zebra table row markings */
 /*gainsboro; #f2f2f2; #e6e6e6 #d9d9d9; lightgrey; silver; darkgrey; dimgrey*/
-tr:nth-child(even) { background-color: #e6e6e6;}
+tr:nth-child(even) { background-color: #cccccc;} /*#d9d9d9;} /*#bfbfbf;} /*#e6e6e6;}
 /* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
 
 
@@ -46,31 +64,34 @@ table {
 	z-index:1;	/* sit on top */
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 1em; /*0.875em;		//* 14px/16 = 0.875em */
+	color: black; background-color: white;
+	color: white; background-color: #e6e6e6; /*grey; /*black;*/
 }
 
 
 body {
-	background-color: white;
-	/*nbg* background-color: black;*/
+	color: black; background-color: white;
+	color: white; background-color: black;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 0.875em;		//* 14px/16 = 0.875em */
 }
 
 h1 {
 	color: black; background-color: white;
-	/*nbg color: white;*/
+	color: white; background-color: black;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h2 {
 	color: black; background-color: white;
+	color: white; background-color: black;
 	/*nbg color: white;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 h3 {
 	color: black; background-color: white;
-	/*nbg color: white;*/
+	color: white; background-color: black;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
 }
@@ -89,7 +110,8 @@ h4 {
 nav {
 	color: black;
 	/*nbg color: white; background-color: black;*/
-	background-color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: #e6e6e6; /*grey;
+	color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
@@ -105,6 +127,7 @@ nav {
 
 section {
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
-	background-color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
-	text-align: left;
+	color: black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: #e6e6e6;
+	text-align: right;
 }
