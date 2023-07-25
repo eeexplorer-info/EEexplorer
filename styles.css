@@ -122,12 +122,12 @@ nav {
 	padding-top: 5px;
 	padding-bottom: 5 px;
 	*/
-	text-align:left;
+	text-align:center;	/*left;*/
 }
 
 section {
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
 	color: black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	background-color: #e6e6e6;
-	text-align: right;
+	text-align: center;	/*right;*/
 }
