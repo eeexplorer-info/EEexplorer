@@ -17,7 +17,7 @@
 	Rob Smith
 	18 Jul 2023
 	*/
-{
+* {
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
@@ -73,7 +73,7 @@ body {
 	color: black; background-color: white;
 	color: white; background-color: black;
 	font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 0.875em;		//* 14px/16 = 0.875em */
+	font-size: 0.875em;		/* 14px/16 = 0.875em */
 }
 
 h1 {
@@ -87,6 +87,8 @@ h2 {
 	color: white; background-color: black;
 	/*nbg color: white;*/
 	font-family: Arial, Verdana, Helvetica, sans-serif;
+	padding: 15px;
+	/*margin: 100px;*/
 }
 
 h3 {
