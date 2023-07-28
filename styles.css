@@ -22,7 +22,7 @@
     padding: 0px;
     box-sizing: border-box;
 	/* no go */
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 	
 	/*color: black; background-color: white;*/
 	/* nbg 
@@ -44,11 +44,17 @@
 
 table, th, td {
   border: 1px solid white; /*black;*/
+  border-collapse: collapse;
   color: black; /*white;*/
   /*background-color: grey;*/
   /*nbg border: 1px solid white;*/
   padding: 5px;
   text-align: center;
+  font-size: 0.875rem;
+  table-layout: auto;
+  z-index:1;	/* sit on top */
+  table-layout: auto;
+  
 }
 /* zebra table row markings */
 /*gainsboro; #f2f2f2; #e6e6e6 #d9d9d9; lightgrey; silver; darkgrey; dimgrey*/
@@ -58,35 +64,43 @@ tr:nth-child(even) { background-color: #cccccc;} /*#d9d9d9;} /*#bfbfbf;} /*#e6e6
 
 
 table {
-	border-collapse: collapse;
+	/*border-collapse: collapse;
 	/*border: 2px;*//* for now */
-	table-layout: 95%; /*auto;	/*width:80%;*/ /*needs to be commented out */
-	z-index:1;	/* sit on top */
-	font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 1em; /*0.875em;		//* 14px/16 = 0.875em */
-	color: black; background-color: white;
-	color: white; background-color: #e6e6e6; /*grey; /*black;*/
+	/*width:95%; /*needs to be commented out */
+	/*z-index:1;	/* sit on top */
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	/*font-size: 0.875rem;		/* 14px/16 = 0.875em */
+	color: black; /*background-color: white;
+	color: white; 
+	*/
+	background-color: #e6e6e6; /*grey; /*black;*/
+	table-layout: auto;
 }
+
+caption {
+	display: table-caption;
+	text-align: center;
+  }
 
 
 body {
 	color: black; background-color: white;
 	color: white; background-color: black;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 	font-size: 0.875em;		/* 14px/16 = 0.875em */
 }
 
 h1 {
 	color: black; background-color: white;
 	color: white; background-color: black;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
 
 h2 {
 	color: black; background-color: white;
 	color: white; background-color: black;
 	/*nbg color: white;*/
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 	padding: 15px;
 	/*margin: 100px;*/
 }
@@ -94,19 +108,20 @@ h2 {
 h3 {
 	color: black; background-color: white;
 	color: white; background-color: black;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
 }
 
 h4 {
 	color: black; background-color: yellow; /*gold;*/
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	/*nbg color: white;*/
-		
 	/* border: 3px solid gold;*/
-	padding: 5px;
+	padding: 10px;
 	margin: 10%;	/* where tbl = 80% ; was 30px;*/
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	border-radius: 2rem;
+	
 }
 
 nav {
@@ -115,7 +130,7 @@ nav {
 	background-color: #e6e6e6; /*grey;
 	color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 	
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
 	/*color: black;*/
 	
