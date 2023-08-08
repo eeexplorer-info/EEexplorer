@@ -17,19 +17,163 @@
 	Rob Smith
 	18 Jul 2023
 	*/
+
+/* apply to all */
 * {
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-	/* no go */
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	
 	/*color: black; background-color: white;*/
 	/* nbg 
-	background-color: #0000; /*black;
-	color: #ffff; /*white; */
+	background-color: #0000; /*black; */
+	/* color: #ffff; /*white; */
 }
 
+
+table, th, td {
+  border: 1px solid white; /*black;*/
+  border-collapse: collapse;
+  color: black; /*white;*/
+  /*background-color: grey;*/
+
+  padding: 5px;
+  text-align: center;
+  font-size: 0.875rem;
+  table-layout: auto;
+  z-index:1;	/* sit on top */
+  table-layout: auto;
+}
+
+
+/* zebra table row markings */
+tr:nth-child(even) { background-color: #cccccc;} /*#d9d9d9;} /*#bfbfbf;} /*#e6e6e6;} */
+/* gainsboro; #f2f2f2; #e6e6e6 #d9d9d9; lightgrey; silver; darkgrey; dimgrey */
+/* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
+
+
+table {
+	color: black;
+	background-color: #e6e6e6; /*grey; /*black;*/
+	table-layout: auto;
+
+	/* orphans */
+	/*border-collapse: collapse;
+	/*border: 2px;*//* for now */
+	/*width:95%; /*needs to be commented out */
+	/*z-index:1;	/* sit on top */
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	/*font-size: 0.875rem;		/* 14px/16 = 0.875em */
+}
+
+
+caption {
+	display: table-caption;
+	text-align: center;
+}
+
+
+body {
+	color: black; background-color: white;
+	color: white; background-color: black;
+	font-size: 0.875em;		/* 14px/16 = 0.875em */
+	
+	/* orphans */
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+}
+
+
+h1 {
+	color: black; background-color: white;
+	color: white; background-color: black;
+
+	/* orphans */
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+}
+
+
+h2 {
+	color: black; background-color: white;
+	color: white; background-color: black;
+	padding: 15px;
+
+	/* orphans */
+	/*margin: 100px;*/
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+}
+
+
+h3 {
+	color: black; background-color: white;
+	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
+
+	/* orphans */
+	/* color: white; background-color: black;*/
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+}
+
+
+h4 {
+	color: black; background-color: gold;/* #ffff4d; /*yellow; /*gold;*/
+	padding: 10px;
+	margin: 10%;	/* where tbl = 80% ; was 30px;*/
+	border-radius: 2rem;
+	font-size: 1.25em;
+
+	/* orphans */
+	/*border: 1px solid black;*/
+	/*nbg color: white;*/
+	/* border: 3px solid gold;*/
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+}
+
+
+/* trying an alternate background colour to h4 level heading */
+h5 {
+	color: black; background-color: cyan;/* #ffff4d; /*yellow; /*gold;*/
+	padding: 10px;
+	margin: 10%;	/* where tbl = 80% ; was 30px;*/
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	border-radius: 2rem;
+	font-size: 1.25em;
+	
+	/* orphans */
+	/*border: 1px solid black;*/
+	/*nbg color: white;*/
+	/* border: 3px solid gold;*/
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+}
+
+nav {
+	color: black;
+	background-color: #e6e6e6; /*grey;
+	color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+		
+	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
+	text-align:center;	/*left;*/
+
+	/* orphans */
+	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	/*nbg color: white; background-color: black;*/
+	/*color: black;*/
+	/* testing 123
+	background-color: cyan;
+	padding-top: 5px;
+	padding-bottom: 5 px;
+	*/
+}
+
+
+section {
+	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
+	color: black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: #e6e6e6;
+	text-align: center;	/*right;*/
+}
+
+
+/* orphan */
 /* attempt at using gradient */
 /* only shades between photo and menu */
 /*
@@ -39,112 +183,3 @@
 	background-image: linear-gradient(45deg, #4f639b, #ffff);
 }
 */
-
-
-
-table, th, td {
-  border: 1px solid white; /*black;*/
-  border-collapse: collapse;
-  color: black; /*white;*/
-  /*background-color: grey;*/
-  /*nbg border: 1px solid white;*/
-  padding: 5px;
-  text-align: center;
-  font-size: 0.875rem;
-  table-layout: auto;
-  z-index:1;	/* sit on top */
-  table-layout: auto;
-  
-}
-/* zebra table row markings */
-/*gainsboro; #f2f2f2; #e6e6e6 #d9d9d9; lightgrey; silver; darkgrey; dimgrey*/
-tr:nth-child(even) { background-color: #cccccc;} /*#d9d9d9;} /*#bfbfbf;} /*#e6e6e6;}
-/* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
-
-
-
-table {
-	/*border-collapse: collapse;
-	/*border: 2px;*//* for now */
-	/*width:95%; /*needs to be commented out */
-	/*z-index:1;	/* sit on top */
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	/*font-size: 0.875rem;		/* 14px/16 = 0.875em */
-	color: black; /*background-color: white;
-	color: white; 
-	*/
-	background-color: #e6e6e6; /*grey; /*black;*/
-	table-layout: auto;
-}
-
-caption {
-	display: table-caption;
-	text-align: center;
-  }
-
-
-body {
-	color: black; background-color: white;
-	color: white; background-color: black;
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	font-size: 0.875em;		/* 14px/16 = 0.875em */
-}
-
-h1 {
-	color: black; background-color: white;
-	color: white; background-color: black;
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-}
-
-h2 {
-	color: black; background-color: white;
-	color: white; background-color: black;
-	/*nbg color: white;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	padding: 15px;
-	/*margin: 100px;*/
-}
-
-h3 {
-	color: black; background-color: white;
-	color: white; background-color: black;
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
-}
-
-h4 {
-	color: black; background-color: gold;/* #ffff4d; /*yellow; /*gold;*/
-	/*border: 1px solid black;*/
-	/*nbg color: white;*/
-	/* border: 3px solid gold;*/
-	padding: 10px;
-	margin: 10%;	/* where tbl = 80% ; was 30px;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	border-radius: 2rem;
-	
-}
-
-nav {
-	color: black;
-	/*nbg color: white; background-color: black;*/
-	background-color: #e6e6e6; /*grey;
-	color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
-	
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
-	/*color: black;*/
-	
-	/* testing 123
-	background-color: cyan;
-	padding-top: 5px;
-	padding-bottom: 5 px;
-	*/
-	text-align:center;	/*left;*/
-}
-
-section {
-	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
-	color: black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
-	background-color: #e6e6e6;
-	text-align: center;	/*right;*/
-}
