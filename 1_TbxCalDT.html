@@ -11,6 +11,7 @@ File: 1_TbxCalDT.html
 	<title>Toolbox\ Calendar DateTime</title>
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" href="styles.css">
+	
 	<head>
 		<nav>
 			<a name="Top"></a>	
@@ -25,6 +26,7 @@ File: 1_TbxCalDT.html
 			<a href="0_HmSiteMap.html">SiteMap </a> : 
 			<a href="0_HmAbout.html">About</a>
 			<hr>
+			
 		</nav>
 		<center>
 			<figure>
@@ -32,6 +34,11 @@ File: 1_TbxCalDT.html
 				<img ID=photo  SRC= "Img_CalDateTime_360p.jpg" width="50%" height="50%" alt="Img_CalDateTime.jpg">
 				<figCaption>CALENDAR / DATE / TIME</figCaption>
 			</figure>
+		<!-- nbg
+			<include src="./1_TrailerTbx.html"></include>
+		nbg
+		<div w3-include-html="1_TrailerTbx.html"></div>
+	-->			
 		</center>
 	</head>
 
@@ -74,6 +81,46 @@ File: 1_TbxCalDT.html
 				<tr><td></td><td><a href="https://www.timeanddate.com/worldclock/">Worldwide</a></td></tr>
 			</table>
 		</center>
+		<!-- nbg
+			<include src="./1_TrailerTbx.html"></include>
+		nbg
+		<div w3-include-html="1_TrailerTbx.html"></div>
+	-->
+	<script>
+		function includeHTML() {
+			var z, i, elmnt, file, xhttp;
+			/*loop through a collection of all HTML elements:*/
+			z = document.getElementsByTagName("*");
+			for (i = 0; i < z.length; i++) {
+			elmnt = z[i];
+			/*search for elements with a certain attribute:*/
+			file = elmnt.getAttribute("w3-include-html");
+			if (file) {
+				/*make an HTTP request using the attribute value as the file name:*/
+				xhttp = new XMLHttpRequest();
+				xhttp.onreadystatechange = function() {
+				if (this.readyState == 4) {
+					if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+					if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+					/*remove the attribute, and call this function once more:*/
+					elmnt.removeAttribute("w3-include-html");
+					includeHTML();
+				}
+				}      
+				xhttp.open("GET", file, true);
+				xhttp.send();
+				/*exit the function:*/
+				return;
+			}
+			}
+		};
+	</script>
+	<br>html include (test): 
+	<div w3-include-html="1_TrailerTbx.html"></div> 
+	<script>
+		includeHTML();
+	</script>
+
 	</body>
 	<br><br>
 	
@@ -82,6 +129,15 @@ File: 1_TbxCalDT.html
 			<hr>
 			<!--Jump to: -->
 			:<br>Parallel: 
+			<!--
+				<include src="./1_TrailerTbx.html"></include>
+			-->
+					<!-- nbg
+			<include src="./1_TrailerTbx.html"></include>
+		nbg
+		<div w3-include-html="1_TrailerTbx.html"></div>
+	-->
+			
 			<a href="0_HmToolbox.html">Toolbox (</a> + 
 			<a href="1_TbxCalc.html">Calculators</a>, + 
 			<a href="1_TbxCalDT.html">CalendarDT</a>, + 
@@ -102,7 +158,10 @@ File: 1_TbxCalDT.html
 			<a href="1_TbxYTClip.html">YT Clips</a>, + 
 			<a href="1_TbxYTChnHob.html">YT Hobbies )</a> : 
 			<a href="0_HmSiteMap.html">SiteMap</a>
+		
+
 			<hr>
 		</nav>
 	</footer>
+	
 </html>

@@ -23,11 +23,11 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-	font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
 	
 	/*color: black; background-color: white;*/
 	/* nbg 
-	background-color: #0000; /*black; */
+    background-color: #0000; /*black; */
 	/* color: #ffff; /*white; */
 }
 
@@ -87,7 +87,7 @@ body {
 h1 {
 	color: black; background-color: white;
 	color: white; background-color: black;
-
+	
 	/* orphans */
 	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
@@ -120,6 +120,7 @@ h4 {
 	margin: 10%;	/* where tbl = 80% ; was 30px;*/
 	border-radius: 2rem;
 	font-size: 1.25em;
+	width:500px;
 
 	/* orphans */
 	/*border: 1px solid black;*/
@@ -137,6 +138,7 @@ h5 {
 	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 	border-radius: 2rem;
 	font-size: 1.25em;
+	width:500px;
 	
 	/* orphans */
 	/*border: 1px solid black;*/
