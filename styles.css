@@ -87,9 +87,6 @@ body {
 h1 {
 	color: black; background-color: white;
 	color: white; background-color: black;
-	
-	/* orphans */
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
 
 
@@ -100,7 +97,6 @@ h2 {
 
 	/* orphans */
 	/*margin: 100px;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
 
 
@@ -110,23 +106,21 @@ h3 {
 
 	/* orphans */
 	/* color: white; background-color: black;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
 
 
 h4 {
 	color: black; background-color: gold;/* #ffff4d; /*yellow; /*gold;*/
 	padding: 10px;
-	margin: 10%;	/* where tbl = 80% ; was 30px;*/
+	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
-	width:500px;
+	width:50%;
 
 	/* orphans */
 	/*border: 1px solid black;*/
 	/*nbg color: white;*/
 	/* border: 3px solid gold;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
 
 
@@ -134,31 +128,41 @@ h4 {
 h5 {
 	color: black; background-color: cyan;/* #ffff4d; /*yellow; /*gold;*/
 	padding: 10px;
-	margin: 10%;	/* where tbl = 80% ; was 30px;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
+	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
-	width:500px;
+	width:50%;
 	
 	/* orphans */
 	/*border: 1px solid black;*/
 	/*nbg color: white;*/
 	/* border: 3px solid gold;*/
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
 }
+
+@media only screen and (max-width:800px) {
+	/* For tablets: */
+	h4, h5 {
+	  width: 50%;
+	}
+  }
+  @media only screen and (max-width:500px) {
+	/* For mobile phones: */
+	h4, h5 {
+	  width: 60%;
+	}
+}
+
 
 nav {
 	color: black;
-	background-color: #e6e6e6; /*grey;
-	color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: #e6e6e6; /*grey; */
+	/*color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 		
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
 	text-align:center;	/*left;*/
 
 	/* orphans */
-	/*font-family: Arial, Verdana, Helvetica, sans-serif;*/
-	/*nbg color: white; background-color: black;*/
-	/*color: black;*/
+
 	/* testing 123
 	background-color: cyan;
 	padding-top: 5px;
@@ -185,3 +189,5 @@ section {
 	background-image: linear-gradient(45deg, #4f639b, #ffff);
 }
 */
+
+
