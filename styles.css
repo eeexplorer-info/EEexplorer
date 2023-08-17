@@ -221,4 +221,5 @@ section {
 iframe {
 	width: 90%;
 	height: 500px;
-}, height)
+	background-color: #e6e6e6;
+}
