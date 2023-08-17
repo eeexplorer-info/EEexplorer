@@ -137,6 +137,21 @@ h5 {
 	/* border: 3px solid gold;*/
 }
 
+/* trying an alternate background colour to h4 level heading */
+h6 {
+	color: black; background-color: lightgreen;/* #ffff4d; /*yellow; /*gold;*/
+	padding: 10px;
+	margin: 30px;
+	border-radius: 2rem;
+	font-size: 1.25em;
+	width:50%;
+	
+	/* orphans */
+	/*border: 1px solid black;*/
+	/*nbg color: white;*/
+	/* border: 3px solid gold;*/
+}
+
 img {
 	width:50%;
 	/*height:10%;*/
@@ -144,7 +159,7 @@ img {
 
 @media only screen and (max-width:800px) {
 	/* For tablets: */
-	h4, h5 {
+	h4, h5, h6 {
 	  width: 50%;
 	}
 	img {
@@ -155,7 +170,7 @@ img {
 
 @media only screen and (max-width:500px) {
 	/* For mobile phones: */
-	h4, h5 {
+	h4, h5, h6 {
 	  width: 60%;
 	}
 	img {
