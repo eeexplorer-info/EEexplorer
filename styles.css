@@ -24,20 +24,15 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Arial, Verdana, Helvetica, sans-serif;
-	
-	/*color: black; background-color: white;*/
-	/* nbg 
-    background-color: #0000; /*black; */
-	/* color: #ffff; /*white; */
 }
 
 
 table, th, td {
-  border: 1px solid white; /*black;*/
+  border: 1px solid white; /*#262626; /* black; /*1px solid white; /*black;*/
   border-collapse: collapse;
-  color: black; /*white;*/
-  /*background-color: grey;*/
-
+  color: white; /* lightgreen; /*black; /*white;*/
+  /*background-color: #262626;/* grey;*/
+  
   padding: 5px;
   text-align: center;
   font-size: 0.875rem;
@@ -48,22 +43,18 @@ table, th, td {
 
 
 /* zebra table row markings */
-tr:nth-child(even) { background-color: #cccccc;} /*#d9d9d9;} /*#bfbfbf;} /*#e6e6e6;} */
-/* gainsboro; #f2f2f2; #e6e6e6 #d9d9d9; lightgrey; silver; darkgrey; dimgrey */
+/* https://www.w3schools.com/colors/colors_picker.asp?colorhex=000000 */
+tr:nth-child(even) { background-color: #404040;} /* dark grey */
+tr:nth-child(odd) { background-color: #4d4d4d;}  /* slightly lighter grey */
+
 /* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
 
 
 table {
-	color: black;
+	color: white; /* black;*/
 	background-color: #e6e6e6; /*grey; /*black;*/
 	table-layout: auto;
-
-	/* orphans */
-	/*border-collapse: collapse;
-	/*border: 2px;*//* for now */
-	/*width:95%; /*needs to be commented out */
-	/*z-index:1;	/* sit on top */
-	/*font-size: 0.875rem;		/* 14px/16 = 0.875em */
+	border: blue;
 }
 
 
@@ -74,88 +65,95 @@ caption {
 
 
 body {
-	color: black; background-color: white;
-	color: white; background-color: black;
+	color: white;
+	/* a couple whiter shades away from pitch black*/
+	background-color: #262626;	/*black;*/
 	font-size: 0.875em;		/* 14px/16 = 0.875em */
-	
-	/* orphans */
 }
 
 
 h1 {
-	color: black; background-color: white;
-	color: white; background-color: black;
+	/*color: black; background-color: white;*/
+	color: white;
+	background-color: black;
 }
 
 
 h2 {
-	color: black; background-color: white;
-	color: white; background-color: black;
+	/*color: black; background-color: white;*/
+	color: white;
+	background-color: black;
 	padding: 15px;
-
-	/* orphans */
-	/*margin: 100px;*/
 }
 
 
 h3 {
-	color: black; background-color: white;
+	/* For Laptop or Desktop: */
+	color: black;
+	background-color: white;
 	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
-
-	/* orphans */
-	/* color: white; background-color: black;*/
 }
 
 
 h4 {
-	color: black; background-color: gold;/* #ffff4d; /*yellow; /*gold;*/
+	/* For Laptop or Desktop: */
+	color: black;
+	background-color: gold;/* #ffff4d; /*yellow; /*gold;*/
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
-	width:50%;
 
-	/* orphans */
-	/*border: 1px solid black;*/
-	/*nbg color: white;*/
-	/* border: 3px solid gold;*/
+	/* For Laptop or Desktop: */
+	width:50%;
 }
 
 
 /* trying an alternate background colour to h4 level heading */
 h5 {
-	color: black; background-color: cyan;/* #ffff4d; /*yellow; /*gold;*/
+	/* For Laptop or Desktop: */
+	color: black;
+	background-color: cyan;/* #ffff4d; /*yellow; /*gold;*/
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
 	width:50%;
-	
-	/* orphans */
-	/*border: 1px solid black;*/
-	/*nbg color: white;*/
-	/* border: 3px solid gold;*/
 }
 
 /* trying an alternate background colour to h4 level heading */
 h6 {
-	color: black; background-color: lightgreen;/* #ffff4d; /*yellow; /*gold;*/
+	/* For Laptop or Desktop: */
+	color: black;
+	background-color: lightgreen;/* #ffff4d; /*yellow; /*gold;*/
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
 	width:50%;
-	
-	/* orphans */
-	/*border: 1px solid black;*/
-	/*nbg color: white;*/
-	/* border: 3px solid gold;*/
 }
 
 img {
+	/* For Laptop or Desktop: */
 	width:50%;
-	/*height:10%;*/
 }
+
+figcaption {
+	width:50%;	/* same a for image */
+	border: 1px white solid;
+	border-radius: 1.5rem;
+	padding: 2px;
+}
+
+
+iframe {
+	/* For Laptop or Desktop: */
+	background-color: #e6e6e6;
+	width:50%;
+	height:400px;
+	border:none;
+}
+
 
 @media only screen and (max-width:800px) {
 	/* For tablets: */
@@ -163,8 +161,15 @@ img {
 	  width: 50%;
 	}
 	img {
-		/*height:10%;*/
 		width:62%;
+	}	
+	figcaption {
+		width:62%;	/* same a for image */
+		border: 1px white solid;
+		border-radius: 2rem;
+	}
+	iframe {
+		width: 80%;
 	}
   }
 
@@ -177,31 +182,31 @@ img {
 		/*height:10%;*/
 		width:62%;
 	}
+	figcaption {
+		width:62%;	/* same a for image */
+		border: 1px white solid;
+		border-radius: 2rem;
+	}
+	iframe {
+		width:80%;
+	}
 }
 
 
 nav {
-	color: black;
-	background-color: #e6e6e6; /*grey; */
+	color: white; /*#404040;/* black;*/
+	background-color: #262626; /*#e6e6e6; /*grey; */
 	/*color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 		
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
 	text-align:center;	/*left;*/
-
-	/* orphans */
-
-	/* testing 123
-	background-color: cyan;
-	padding-top: 5px;
-	padding-bottom: 5 px;
-	*/
 }
 
 
 section {
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
-	color: black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
-	background-color: #e6e6e6;
+	color: white;/* #262626; /*black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: #262626; /*#e6e6e6;*/
 	text-align: center;	/*right;*/
 }
 
@@ -218,8 +223,14 @@ section {
 */
 
 
-iframe {
-	width: 90%;
-	height: 500px;
-	background-color: #e6e6e6;
+/* Link color default: unvisited = blue; visited = purple; active = red */
+a:link {
+	color:lightgreen; /* #3399ff;/* == mid blue */ /*blue;*/
 }
+a:visited {
+	color: pink;
+}
+a:active {
+	color: yellow;
+}
+
