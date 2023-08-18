@@ -1,8 +1,10 @@
 /*
 	style.css
 	
-	Color Pallete: // https://www.w3schools.com/tags/ref_colornames.asp
-	https://www.w3schools.com/html/html_colors.asp
+	Color Pallete:
+	// https://www.w3schools.com/colors/colors_groups.asp
+	// https://www.w3schools.com/tags/ref_colornames.asp
+	//https://www.w3schools.com/html/html_colors.asp
 	#C4F0FF = sky blue
 	
 	FontFamily = https://www.w3schools.com/css/css_font.asp
@@ -32,6 +34,7 @@ table, th, td {
   border-collapse: collapse;
   color: white; /* lightgreen; /*black; /*white;*/
   /*background-color: #262626;/* grey;*/
+  background-color: #404040;	/* to match the lime green links */
   
   padding: 5px;
   text-align: center;
@@ -40,13 +43,10 @@ table, th, td {
   z-index:1;	/* sit on top */
   table-layout: auto;
 }
-
-
 /* zebra table row markings */
 /* https://www.w3schools.com/colors/colors_picker.asp?colorhex=000000 */
-tr:nth-child(even) { background-color: #404040;} /* dark grey */
-tr:nth-child(odd) { background-color: #4d4d4d;}  /* slightly lighter grey */
-
+/* tr:nth-child(even) { background-color: #404040;} /* dark grey */
+/* tr:nth-child(odd) { background-color: #404040; } /*#4d4d4d;}  /* slightly lighter grey */
 /* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
 
 
@@ -125,7 +125,7 @@ h5 {
 h6 {
 	/* For Laptop or Desktop: */
 	color: black;
-	background-color: lightgreen;/* #ffff4d; /*yellow; /*gold;*/
+	background-color: lime; /* lightgreen;/* #ffff4d; /*yellow; /*gold;*/
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
@@ -225,10 +225,10 @@ section {
 
 /* Link color default: unvisited = blue; visited = purple; active = red */
 a:link {
-	color:lightgreen; /* #3399ff;/* == mid blue */ /*blue;*/
+	color:lime; /*lightgreen; /* #3399ff;/* == mid blue */ /*blue;*/
 }
 a:visited {
-	color: pink;
+	color: hotpink; /* pink;*/
 }
 a:active {
 	color: yellow;
