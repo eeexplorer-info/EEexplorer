@@ -105,7 +105,7 @@ h4 {
 	font-size: 1.25em;
 
 	/* For Laptop or Desktop: */
-	width:50%;
+	width:25%;
 }
 
 
@@ -118,7 +118,7 @@ h5 {
 	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
-	width:50%;
+	width:25%;
 }
 
 /* trying an alternate background colour to h4 level heading */
@@ -130,16 +130,16 @@ h6 {
 	margin: 30px;
 	border-radius: 2rem;
 	font-size: 1.25em;
-	width:50%;
+	width:25%;
 }
 
 img {
 	/* For Laptop or Desktop: */
-	width:50%;
+	width:25%;
 }
 
 figcaption {
-	width:50%;	/* same a for image */
+	width:25%;	/* same a for image */
 	border: 1px white solid;
 	border-radius: 1.5rem;
 	padding: 2px;
