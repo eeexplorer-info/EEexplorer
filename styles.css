@@ -25,7 +25,7 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-family: Courier, Verdana, Helvetica, sans-serif;
 }
 
 
@@ -225,10 +225,10 @@ section {
 
 /* Link color default: unvisited = blue; visited = purple; active = red */
 a:link {
-	color:lime; /*lightgreen; /* #3399ff;/* == mid blue */ /*blue;*/
+	color:lightgreen; /*lightgreen; /* #3399ff;/* == mid blue */ /*blue;*/
 }
 a:visited {
-	color: hotpink; /* pink;*/
+	color: pink; /*hotpink; /* pink;*/
 }
 a:active {
 	color: yellow;
