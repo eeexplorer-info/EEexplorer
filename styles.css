@@ -37,7 +37,8 @@ table, th, td {
   background-color: #404040;	/* to match the lime green links */
   
   padding: 5px;
-  text-align: center;
+  /* text-align: center; */ /* ON HOLD */
+  text-align: left;
   font-size: 0.875rem;
   table-layout: auto;
   z-index:1;	/* sit on top */
@@ -69,6 +70,7 @@ body {
 	/* a couple whiter shades away from pitch black*/
 	background-color: #262626;	/*black;*/
 	font-size: 0.875em;		/* 14px/16 = 0.875em */
+	text-align:left;
 }
 
 
