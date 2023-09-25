@@ -237,3 +237,19 @@ a:active {
 	color: yellow;
 }
 
+/* test of class definition */
+/* 
+7news
+3x = bk/wt = TownName
+1x = wt/bk = MinTemp
+1x = wt/rd = MaxTemp
+1x = Wt/Bu = Icon
+*/
+.red{
+	color: red;
+	background-color: yellow;
+}
+
+.center{
+	text-align: center;
+}
