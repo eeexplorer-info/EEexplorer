@@ -253,3 +253,8 @@ a:active {
 .center{
 	text-align: center;
 }
+
+.centerYW{
+	text-align: center;
+	color: yellow;
+}
