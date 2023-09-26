@@ -245,10 +245,7 @@ a:active {
 1x = wt/rd = MaxTemp
 1x = Wt/Bu = Icon
 */
-.red{
-	color: red;
-	background-color: yellow;
-}
+
 
 .center{
 	text-align: center;
@@ -256,5 +253,23 @@ a:active {
 
 .centerYW{
 	text-align: center;
-	color: yellow;
+	color: gold; /*white; /* black;*/
+	background-color: #262626; /* gray;*/
+	font-size: 1.25em;
+}
+
+
+.centerCY{
+	text-align: center;
+	color: cyan;
+	background-color: #262626; /* gray;*/
+	font-size: 1.25em;
+}
+
+
+.centerLM{
+	text-align: center;
+	color: lime;
+	background-color: #262626; /* gray;*/
+	font-size: 1.25em;
 }
