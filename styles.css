@@ -255,7 +255,7 @@ a:active {
 	text-align: center;
 	color: gold; /*white; /* black;*/
 	background-color: #262626; /* gray;*/
-	font-size: 1.25em;
+	font-size: 0.875rem;	/* same size as table */
 }
 
 
@@ -263,7 +263,7 @@ a:active {
 	text-align: center;
 	color: cyan;
 	background-color: #262626; /* gray;*/
-	font-size: 1.25em;
+	font-size: 0.875rem;
 }
 
 
@@ -271,5 +271,5 @@ a:active {
 	text-align: center;
 	color: lime;
 	background-color: #262626; /* gray;*/
-	font-size: 1.25em;
+	font-size: 0.875rem;
 }
