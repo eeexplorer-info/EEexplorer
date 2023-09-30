@@ -164,10 +164,10 @@ iframe {
 	  width: 50%;
 	}
 	img {
-		width:62%;
+		width:80%; /* 62%; */
 	}	
 	figcaption {
-		width:62%;	/* same a for image */
+		width: 80%;/* 62%;	/* same a for image */
 		border: 1px white solid;
 		border-radius: 2rem;
 	}
