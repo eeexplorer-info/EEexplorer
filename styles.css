@@ -93,6 +93,7 @@ h3 {
 	/* For Laptop or Desktop: */
 	color: black;
 	background-color: white;
+	
 	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
 }
 
@@ -135,8 +136,8 @@ h6 {
 	width:25%;
 }
 
+/* For Laptop or Desktop: */
 img {
-	/* For Laptop or Desktop: */
 	width:25%;
 }
 
@@ -148,9 +149,9 @@ figcaption {
 	font-size:1rem;
 }
 
-
+/* For Laptop or Desktop: */
 iframe {
-	/* For Laptop or Desktop: */
+	
 	background-color: #e6e6e6;
 	width:50%;
 	height:400px;
@@ -183,10 +184,10 @@ iframe {
 	}
 	img {
 		/*height:10%;*/
-		width: 62%;
+		width: 80%;
 	}
 	figcaption {
-		width:62%;	/* same a for image */
+		width:80%;	/* same a for image */
 		border: 1px white solid;
 		border-radius: 2rem;
 	}
