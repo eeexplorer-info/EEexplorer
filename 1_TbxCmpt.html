@@ -14,7 +14,8 @@ File: 1_TbxWebPro.html
 	<head>	
 		<nav>
 			<a name="Top"></a>	
-			<hr><!--Jump to: -->
+			<!--
+				<hr>
 			<a href="index.html">SWITCHBOARD</a> : 
 			<a href="0_HmAlumni.html">ALUMNI</a> : 
 			<a href="0_HmElsoc.html">ELSOC</a> : 
@@ -25,13 +26,20 @@ File: 1_TbxWebPro.html
 			<a href="0_HmSiteMap.html">SITEMAP </a> : 
 			<a href="0_HmAbout.html">ABOUT</a>
 			<hr>
+			-->
 		</nav>
 		<center>
 			<figure>
 				<h2>ElecEng EXPLORER</h2>
 				<!--<img ID=photo  SRC= "Img_Under Construction.jpg" width="25%" height="50%" alt="Under Construction">-->
 				<img ID=photo  SRC= "./Images/Img_Under Construction.jpg" alt="Under Construction">
-				<figcaption>Toolbox > COMPONENTS</figcaption>
+				<figcaption>
+					<a href="index.html">Home</a> >
+					<a href="0_HmToolbox.html">Toolbox</a> > COMPONENTS
+				</figcaption>
+				<br>
+				<a href="#dsection">DATA SECTION</a> : <a href="#dsheets">DATA SHEETS</a> : <a href="#supp">SUPPLIERS</a>
+				<br><br>
 			</figure>
 		</center>
 	</head>
@@ -42,38 +50,56 @@ File: 1_TbxWebPro.html
 			<a name="dsection">
 			<h5>DATA SECTION</h5>
 			<table>
-				<tr><td class="center">COMPANY</td><td class="center">WEBISTE</td><td>PDF</td></tr>
-				<tr><td>Altronics</td><td><a href = "https://www.altronics.com.au/technicaldata/">Data Section</a></td><td>h</td></tr>
-				<tr><td>Dick Smith</td><td>e</td><td>f</td></tr>
-				<tr><td>Jaycar</td><td>c</td><td>d</td></tr>
-				<tr><td>Mouser</td><td><a href = "https://au.mouser.com/servicesandtools/">Services & Tools</td><td>d</td></tr>
-				<tr><td>RS Components</td><td>a</td><td>b</td></tr>
-				<tr><td>...</td><td>a</td><td>b</td></tr>
+				<tr><th>NDX</th></th><th class="center">COMPANY</th><th class="center">WEBISTE</th><th>PDF</th></tr>
+				<tr><td class="centerCY">A</td><td></td><td></td><td></td></tr>
+				<tr><td></td><td>Altronics</td><td><a href = "https://www.altronics.com.au/technicaldata/">Data Section</a></td><td>h</td></tr>
+				<tr><td class="centerCY">D</td><td></td><td></td><td></td></tr>
+				<tr><td></td><td>Dick Smith</td><td>e</td><td>f</td></tr>
+				<tr><td class="centerCY">J</td><td></td><td></td><td></td></tr>
+				<tr><td></td><td>Jaycar</td><td>c</td><td>d</td></tr>
+				<tr><td class="centerCY">M</td><td></td><td></td><td></td></tr>
+				<tr><td></td><td>Mouser</td><td><a href = "https://au.mouser.com/servicesandtools/">Services & Tools</td><td>d</td></tr>
+				<tr><td class="centerCY">R</td><td></td><td></td><td></td></tr>
+				<tr><td></td><td>RS Components</td><td>a</td><td>b</td></tr>
+				<tr><td><a href="#Top">TOP</a></td><td></td><td></td><td></td></tr>
 			</table>
 
 			<a name="dsheets">
 			<h5>DATASHEETS</h5>
 			<table>
-				<tr><td><a href = "https://www.datasheetarchive.com/MOTOROLA%20IC%20DATA%20BOOK-datasheet.html">Motorola Databook</a></td></tr>
-				<tr><td><a href = "https://www.electronicsdatasheets.com/manufacturers/motorola-solutions/parts/">Motorola Parts</a></td></tr>
-				<tr><td><a href = "https://www.datasheet4u.com/Manufacture/National%20Semiconductor.php?c=7">NatSemi</a></td></tr>
-				<tr><td><a href = "https://www.datasheetcatalog.com/nationalsemiconductor/1/">NatSemi Catalogue</a></td></tr>
-				<tr><td><a href = "https://www.semico.com.au/">Semico</a></td></tr>
-				<tr><td><a href = "https://www.ti.com/">Texas Instruments</a></td></tr>
-					<tr><td>...</td></tr>
+				<tr><th>NDX</th></th><th class="center">COMPANY</th><th class="center">TYPE</th></tr>
+				<tr><td class="centerCY">M</td><td></td><td></td></tr>
+				<tr><td></td><td>MOTOROLA</td><td><a href = "https://www.datasheetarchive.com/MOTOROLA%20IC%20DATA%20BOOK-datasheet.html">Databook</a></td></tr>
+				<tr><td></td><td>MOTOROLA</td><td><a href = "https://www.electronicsdatasheets.com/manufacturers/motorola-solutions/parts/">Parts</a></td></tr>
+				<tr><td></td><td><a href = "https://www.datasheet4u.com/Manufacture/National%20Semiconductor.php?c=7">NatSemi</a></td><td></tr>
+				<tr><td class="centerCY">N</td><td></td><td></td></tr>
+				<tr><td></td><td>NatSemi</td><td><a href = "https://www.datasheetcatalog.com/nationalsemiconductor/1/">Catalogue</a></td></tr>
+				<tr><td class="centerCY">S</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://www.semico.com.au/">Semico</a></td><td></td></tr>
+				<tr><td class="centerCY">T</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://www.ti.com/">Texas Instruments</a></td><td></td></tr>
+				<tr><td><a href="#Top">TOP</a></td><td></td><td></td></tr>
 			</table>
 
 			<a name="supp">
 			<h5>SUPPLIERS</h5>
 			<table>
-				<tr><td><a href = "https://www.altronics.com.au/">Altronics</a></td></tr>
-				<tr><td><a href = "https://www.digikey.com.au/">Digi-Key</a></td></tr>
-				<tr><td><a href = "https://au.element14.com/">Element14</a></td></tr>
-				<tr><td><a href = "https://www.jaycar.com.au/">Jaycar</a></td></tr>
-				<tr><td><a href = "https://au.mouser.com/">Mouser Electronics</a></td></tr>
-				<tr><td><a href = "https://au.rs-online.com/web/">RS Components</a></td></tr>
-				<tr><td><a href = "https://www.wagneronline.com.au/">Wagner Electronics</a></td></tr
-				<tr><td>...</td></tr>
+				<tr><th class="center">NDX</th></th><th class="center">COMPANY</th><th class="center">TYPE</th></tr>
+				<tr><td class="centerCY">A</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://www.altronics.com.au/">Altronics</a></td><td></td></tr>
+				<tr><td class="centerCY">D</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://www.digikey.com.au/">Digi-Key</a></td><td></td></tr>
+				<tr><td class="centerCY">N</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://au.element14.com/">Element14</a></td><td></td></tr>
+				<tr><td class="centerCY">J</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://www.jaycar.com.au/">Jaycar</a></td><td></td></tr>
+				<tr><td class="centerCY">M</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://au.mouser.com/">Mouser Electronics</a></td><td></td></tr>
+				<tr><td class="centerCY">R</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://au.rs-online.com/web/">RS Components</a></td><td></td></tr>
+				<tr><td class="centerCY">W</td><td></td><td></td></tr>
+				<tr><td></td><td><a href = "https://www.wagneronline.com.au/">Wagner Electronics</a></td><td></td></tr>
+				<tr><td><a href="#Top">TOP</a></td><td></td><td></td></tr>
 			</table>
 
 	</center>
@@ -83,31 +109,15 @@ File: 1_TbxWebPro.html
 	<footer>
 		<nav>
 			<hr>
-			<section>
-				Local: <a href="#Top">Top</a>, <a href="#dsection">Data Section</a>, <a href="#dsheets">Data Sheets</a>, <a href="#supp">Suppliers</a>
-			</section>
-			<!--Jump to: -->
-			:<br>Parallel: 
-			<a href="0_HmToolbox.html">Toolbox (</a> + 
-			<a href="1_TbxCalc.html">Calculators</a>, + 
-			<a href="1_TbxCalDT.html">CalendarDT</a>, + 
-			<a href="1_TbxChrt.html">Charts</a>, + 
-			<a href="1_TbxCmpt.html">Components</a>, + 
-			<a href="1_TbxDict.html">Dictionary</a>, + 
-			<a href="1_TbxDoc.html">Documentation</a>, + 
-			<a href="1_TbxEnrg.html">Energy Groups</a>, + 
-			<a href="1_TbxMan.html">Manuals</a>, + 
-			<a href="1_TbxWebPro.html">Professional</a>, + 
-			<a href="1_TbxWebPrj.html">Project Inspiration</a>, + 
-			<a href="1_TbxSbc.html">Small Board Computers</a>, + 
-			<a href="1_TbxWebSup.html">Supportive</a>, + 
-			<a href="1_TbxTutes.html">Tutorials</a>, + 
-			<a href="1_TbxWiki.html">Wiki ElecEng</a>, + 
-			<a href="1_TbxWikiCbwb.html">Wiki History</a>, + 
-			<a href="1_TbxYTChn.html">YT Chnls</a>, + 
-			<a href="1_TbxYTClip.html">YT Clips</a>, + 
-			<a href="1_TbxYTChnHob.html">YT Hobbies )</a> : 
-			<a href="0_HmSiteMap.html">SiteMap</a>
+			<a href="index.html">HOME</a> : 
+			<a href="0_HmAlumni.html">ALUMNI</a> : 
+			<a href="0_HmElsoc.html">ELSOC</a> : 
+			<a href="0_HmCobwebs.html">COBWEBS</a> : 
+			<a href="0_HmSchool.html">SCHOOL</a> : 
+			<a href="0_HmToolbox.html">TOOLBOX</a> : 
+			<a href="0_HmWork+Life.html">WORK & LIFE</a> : 
+			<a href="0_HmSiteMap.html">SITEMAP</a> : 
+			<a href="0_HmAbout.html">ABOUT</a>
 			<hr>
 		</nav>
 	</footer>
