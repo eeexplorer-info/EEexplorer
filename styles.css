@@ -274,3 +274,12 @@ a:active {
 	background-color: #262626; /* gray;*/
 	font-size: 0.875rem;
 }
+
+.left{
+	text-align: left;
+	width: 80%;
+}
+
+.left {
+	text-align: left;
+}
