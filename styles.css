@@ -305,23 +305,24 @@ body {
 
 /* Styles for website counter container */
 .website-counter {
-  background-color: pink;/* #ff4957; */
-  height: 50px;
-  width: 80px;
+  background-color:#404040; /* #ff4957; */
   color: white;
-  border-radius: 30px;
-  font-weight: 700;
-  font-size: 25px;
-  margin-top: 10px;
+  /*height: 50px;
+  width: 80px;*/
+  /*border-radius: 30px;
+  font-weight: 700; */
+  font-size: 0.875rem; /* 25px; */
+  /*margin-top: 10px;*/
 }
 
 /* Styles for reset button */
 #reset {
-  margin-top: 20px;
-  background-color: #008cba;
-  cursor: pointer;
-  font-size: 18px;
-  padding: 8px 20px;
+  /*margin-top: 20px;*/
+  background-color: black; /* #404040; /*#008cba; */
   color: white;
+  cursor: pointer;
+  font-size: 0.875rem; /*font-size: 18px;*/
+  /*padding: 8px 20px;*/
+
   border: 0;
 }
