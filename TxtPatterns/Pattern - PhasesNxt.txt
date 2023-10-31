@@ -1,0 +1,6 @@
+===== Moon Phases 2024 =====
+
+mmdd
+
+// Pattern - Phases.txt
+// Ref - cal - yy00 gg_Astro-Mn-FN Descr.txt

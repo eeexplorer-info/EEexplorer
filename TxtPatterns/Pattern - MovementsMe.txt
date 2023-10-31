@@ -1,0 +1,35 @@
+Mercury Movements for 2023
+
+mmddd
+----------
+0101  Su  11:04 am   me cp ------- me cp
+0119  Th  00:13 am   me DI 08_cp_08
+----------
+0211  Sa  10:23 pm   me aq ------- me aq
+----------
+0303  Fr  09:53 am   me pi ------- me pi
+0319  Su  03:25 pm   me ar ------- me ar
+----------
+0404  Tu  02:23 am   me ta ------- me ta
+0421  Fr  06:36 pm   me RE 15_ta_37
+----------
+0515  Mo  01:18 pm   me DI 05_ta_51
+----------
+0611  Su  08:28 pm   me ge ------- me ge
+0627  Tu  10:25 am   me ca ------- me ca
+----------
+0711  Tu  02:12 pm   me le ------- me le
+0727  Th  07:32 am   me vi ------- me vi
+----------
+0824  Th  06:01 am   me RE 21_vi_51
+----------
+0916  Sa  06:22 am   me DI 08_vi_00
+----------
+1005  Th  11:10 am   me li ------- me li
+1022  Su  05:50 pm   me sc ------- me sc
+----------
+1110  Fr  05:26 pm   me sa ------- me sa
+----------
+1202  Sa  01:33 am   me cp ------- me cp
+1213  We  06:10 pm   me RE 08_cp_29
+1223  Sa  05:19 pm   me sa ------- me sa

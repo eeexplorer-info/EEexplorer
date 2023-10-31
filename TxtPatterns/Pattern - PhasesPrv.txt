@@ -1,0 +1,234 @@
+===== Moon Phases 2022 ====
+
+mmdd
+0103 Mo -- 05:35 am
+NEW Moon - 12 Capricorn,
+
+0118 Tu -- 10:50 am
+FULL Moon - 27 Cancer,
+
+0201 Tu -- 04:47 pm
+NEW Moon - 12 Aquarius,
+
+0217 Th -- 03:58 am
+FULL Moon - 28 Leo,
+
+0303 Th -- 04:36 am
+NEW Moon - 12 Pisces,
+
+0318 Fr -- 06:19 pm
+FULL Moon - 27 Virgo,
+
+0401 Fr -- 05:26 pm
+NEW Moon - 11 Aries,
+
+0417 Su -- 04:56 am
+FULL Moon - 25 Libra,
+
+0501 Su -- 06:29 am
+NEW Moon - SOLAR Eclipse - 10 Taurus,
+
+0516 Mo -- 02:15 pm
+FULL Moon - LUNAR Eclipse - 25 Scorpio,
+
+0530 Mo -- 09:31 pm
+NEW Moon - 09 Gemini,
+
+0614 Tu -- 09:53 pm
+FULL Moon - 23 Sagittarius,
+
+0629 We -- 12:53 pm
+NEW Moon - 07 Cancer,
+
+0714 Th -- 04:39 am
+FULL Moon - 21 Capricorn,
+
+0729 Fr -- 03:56 am
+NEW Moon - 05 Leo,
+
+0812 Fr -- 11:37 am
+FULL Moon - 19 Aquarius,
+
+0827 Sa -- 06:18 pm
+NEW Moon - 04 Virgo,
+
+0910 Sa -- 08:00 pm
+FULL Moon - 17 Pisces,
+
+0926 Mo -- 07:56 am
+NEW Moon - 02 Libra,
+
+1010 Mo -- 07:56 am
+FULL Moon - 16 Aries,
+
+1025 Tu -- 09:50 pm
+NEW Moon - SOLAR Eclipse - 02 Scorpio,
+
+1108 Tu -- 10:03 pm
+FULL Moon - LUNAR Eclipse - 16 Taurus,
+
+1124 Th -- 09:58 am
+NEW Moon - 01 Scorpio,
+
+1208 Th -- 03:09 pm
+FULL Moon - 16 Gemini,
+
+1223 Fr -- 09:18 pm
+NEW Moon - 01 Capricorn,
+
+
+
+
+===== Moon Phases 2021 ====
+mmdd
+0113 We -- 04:01 pm
+NEW Moon - 23 Capricorn,
+
+0129 Fr -- 06:13 am
+FULL Moon - 09 Leo,
+
+0212 Fr -- 06:07 am
+NEW Moon - 23 Aquarius,
+
+0227 Sa -- 07:18 pm
+FULL Moon - 08 Virgo,
+
+0313 Sa -- 09:22 pm
+NEW Moon - 23 Pisces,
+
+0329 Mo -- 05:49 am
+FULL Moon - 08 Libra,
+
+0412 Mo -- 12:32 pm
+NEW Moon - 22 Aries,
+
+0427 Tu -- 01:33 pm
+FULL Moon - 07 Scorpio,
+
+0512 We -- 05:01 am
+NEW Moon - 21 Taurus,
+
+0526 We -- 09:15 pm
+FULL Moon - LUNAR Eclipse - 05 Sagittarius,
+
+0610 Th -- 08:54 pm
+NEW Moon - SOLAR Eclipse - 19 Gemini,
+
+0625 Fr -- 04:44 am
+FULL Moon - 03 Capricorn,
+
+0710 Sa -- 11:18 am
+NEW Moon - 18 Cancer,
+
+0724 Sa -- 12:38 pm
+FULL Moon - 01 Aquarius,
+
+0808 Su -- 11:51 pm
+NEW Moon - 16 Leo,
+
+0822 Su -- 10:03 pm
+FULL Moon - 29 Aquarius,
+
+0907 Tu -- 10:53 am
+NEW Moon - 14 Virgo,
+
+0921 Tu -- 09:56 am
+FULL Moon - 28 Pisces,
+
+1006 We -- 10:07 pm
+NEW Moon - 13 Libra,
+
+1021 Th -- 01:58 am
+FULL Moon - 27 Aries,
+
+1105 Fr -- 08:16 am
+NEW Moon - 12 Scorpio,
+
+1119 Fr -- 07:59 pm
+FULL Moon - LUNAR Eclipse - 27 Taurus,
+
+1204 Sa -- 06:44 pm
+NEW Moon - SOLAR Eclipse - 12 Sagittarius,
+
+1219 Su -- 03:37 pm
+FULL Moon - 27 Gemini,
+
+
+
+
+===== Moon Phases 2020 ====
+mmdd
+0111 Sa -- 06:22 am
+FULL Moon - LUNAR Eclipse - 20 Cancer,
+
+0125 Sa -- 08:43 am
+NEW Moon - 04 Aquarius,
+
+0209 Su -- 06:34 pm
+FULL Moon - 20 Leo,
+
+0224 Mo -- 02:33 am
+NEW Moon - 04 Pisces,
+
+0310 Tu -- 04:49 am
+FULL Moon - 19 Virgo,
+
+0324 Tu -- 08:29 pm
+NEW Moon - 04 Aries,
+
+0408 We -- 12:36 pm
+FULL Moon - 18 Libra,
+
+0423 Th -- 12:27 pm
+NEW Moon - 03 Taurus,
+
+0507 Th -- 08:46 pm
+FULL Moon - 17 Scorpio,
+
+0523 Sa -- 03:40 am
+NEW Moon - 02 Gemini,
+
+0606 Sa -- 05:14 am
+FULL Moon - LUNAR Eclipse - 15 Sagittarius,
+
+0621 Su -- 04:43 pm
+NEW Moon - SOLAR Eclipse - 00 Cancer,
+
+0705 Su -- 02:46 pm
+FULL Moon - LUNAR Eclipse - 13 Capricorn,
+
+0721 Tu -- 03:34 am
+NEW Moon - 28 Cancer,
+
+0804 Tu -- 02:00 am
+FULL Moon - 11 Aquarius,
+
+0819 We -- 12:43 pm
+NEW Moon - 26 Leo,
+
+0902 We -- 03:23 pm
+FULL Moon - 10 Pisces,
+
+0917 Th -- 09:01 pm
+NEW Moon - 25 Virgo,
+
+1002 Fr -- 07:06 am
+FULL Moon - 09 Aries,
+
+1017 Sa -- 06:32 am
+NEW Moon - 23 Libra,
+
+1101 Su -- 01:50 am
+FULL Moon - 08 Taurus,
+
+1115 Su -- 04:08 pm
+NEW Moon - 23 Scorpio,
+
+1130 Mo -- 08:31 pm
+FULL Moon - LUNAR Eclipse - 08 Gemini,
+
+1215 Tu -- 03:18 am
+NEW Moon - SOLAR Eclipse - 23 Sagittarius,
+
+1230 We -- 02:29 pm
+FULL Moon - 08 Cancer,

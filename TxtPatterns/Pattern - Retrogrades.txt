@@ -1,0 +1,36 @@
+Planet Retrogrades for 2023
+
+== Mercury ==
+
+mmdd
+{
+0421  Fr  06:36 pm   me RE 15_ta_37
+0515  Mo  01:18 pm   me DI 05_ta_51
+1213  We  06:10 pm   me RE 08_cp_29
+}
+
+
+== Venus ==
+
+mmdd
+{
+0723  Su  11:34 am   ve RE 28_le_36
+0904  Mo  11:21 am   ve DI 12_le_12
+}
+
+
+== Mars ==
+
+mmdd
+{
+0113  Fr  07:57 am   ma DI 08_ge_08
+}
+
+
+== Jupiter ==
+
+mmdd
+{
+0905  Tu  00:12 am   JU RE 15_ta_35
+1231  Su  01:42 pm   JU DI 05_ta_35
+}

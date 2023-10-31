@@ -1,0 +1,77 @@
+===== Moon Phases 2023 =====
+
+mmdd
+0107 Sa -- 10:09 am
+FULL Moon - 16 Cancer,
+
+0122 Su -- 07:54 am
+NEW Moon - 01 Aquarius,
+
+0206 Mo -- 05:30 am
+FULL Moon - 16 Leo,
+
+0220 Mo -- 06:07 pm
+NEW Moon - 01 Pisces,
+
+0307 Tu -- 11:42 pm
+FULL Moon - 16 Virgo,
+
+0322 We -- 04:24 am
+NEW Moon - 00 Aries,
+
+0406 Th -- 02:36 pm
+FULL Moon - 16 Libra,
+
+0420 Th -- 02:14 pm
+NEW Moon - SOLAR Eclipse - 29 Aries,
+
+0506 Sa -- 03:35 am
+FULL Moon - LUNAR Eclipse - 14 Scorpio,
+
+0520 Sa -- 01:54 am
+NEW Moon - 28 Taurus,
+
+0604 Su -- 01:43 pm
+FULL Moon - 13 Sagittarius,
+
+0618 Su -- 02:38 pm
+NEW Moon - 26 Gemini,
+
+0703 Mo -- 09:40 pm
+FULL Moon - 11 Capricorn,
+
+0718 Tu -- 04:33 am
+NEW Moon - 24 Cancer,
+
+0802 We -- 04:33 am
+FULL Moon - 09 Aquarius,
+
+0816 We -- 07:39 pm
+NEW Moon - 23 Leo,
+
+0831 Th -- 11:37 am
+FULL Moon - 07 Pisces,
+
+0915 Fr -- 11:41 am
+NEW Moon - 21 Virgo,
+
+0929 Fr -- 07:59 pm
+FULL Moon - 06 Aries,
+
+1015 Su -- 04:56 am
+NEW Moon - SOLAR Eclipse - 21 Libra,
+
+1029 Su -- 07:25 am
+FULL Moon - LUNAR Eclipse - 05 Taurus,
+
+1113 Mo -- 08:29 pm
+NEW Moon - 20 Scorpio,
+
+1127 Mo -- 08:17 pm
+FULL Moon - 04 Gemini,
+
+1213 We -- 10:33 am
+NEW Moon - 20 Sagittarius,
+
+1227 We -- 11:34 am
+FULL Moon - 04 Cancer,
