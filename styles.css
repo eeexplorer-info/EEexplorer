@@ -287,3 +287,13 @@ a:active {
 .right {
 	text-align: right;
 }
+
+.colourWtBk{
+	color: white;
+	background-color: black;
+}
+
+.colourBkYw{
+	color: black;
+	background-color: gold;
+}
