@@ -1,0 +1,88 @@
+Acronyms Compiled - Computer Software
+
+
+AI -- Artificial Intelligence
+ANSI -- American National Standard Institute (NY)
+ASCII -- American Standard Code for Information Interchange
+API -- Application Programing Interface
+
+BASIC -- Beginners' All-purpose Symbolic Instruction Code
+BMP -- 
+
+CAD -- Computer Aided Design
+
+DDE -- Dynamic Data Exchange (MS Windows)
+DLL -- Dynamic Link Library (Windows)
+DMA -- Direct Memory Access
+DTP -- DeskTop Publishing
+DXF -- Drawing eXchange file Format
+
+EMS -- Expanded Memory Specification
+
+FAT -- File Allocation Table
+FLOP -- FLoating point OPeration
+
+FORTRAN -- FORmula TRANslator
+FPU -- Floating Point Unit
+
+GIF -- Graphics Interchange Format
+GUI -- Graphical User Interface
+
+HDL -- Hardware Description Language
+HTML -- HyperText Mark-up Language (WWW)
+
+IDE -- Integrated Development Environment
+
+JPEG -- Joint Photographic Experts Group
+JSON -- JavaScript Object Notation
+
+LIM EMS -- Lotus-Intel-Microsoft Expanded Memory Specification
+LZ-78 -- Lempel & Ziv 1978 (compression)
+LZW -- Lempel, Ziv & Welch
+
+MIME -- Multipurpose Internet Mail Extensions
+MIPS -- Millions of Instructions Per Second
+MPEG -- Motion Picture Experts Group
+MS-DOS -- MicroSoft Disk Operating System
+
+OS -- Operating System
+OSF -- Open Software Foundation
+OSI -- Open Systems Interconnection (ISO 7498)
+
+PDF -- Portable Document Format
+PERL -- Practical Extraction and Report Language
+PING -- Packet INternet Grouper (RFC-792)
+PL/1 -- Programming Language (version) 1
+POSIX -- Portable Operating System Interface (IEEE)
+PS -- Post Script
+
+RAD -- Rapid Application Development
+RDBMS -- Relational Data Base Management System
+RLL -- Run-Length Limited (code)
+RTF -- Rich Text Format
+RTOS -- Real Time Operating System
+
+SAL -- SQL-windows Application Language
+SCI -- Scalable Coherent Interface (IEEE 1596 - 1 Gbit/s)
+SGML -- Standard Generalized Mark-up Language
+SMPTE -- Society of Motion Pictures and Television Engineers
+SNA -- System Network Architecture (IBM)
+SQL -- Structured Query Language
+SSH -- Secure Shell
+
+TIFF -- Tag Image File Format
+TSR -- Terminate and Stay Resident (DOS)
+TXT -- TeXT
+
+URL -- Universal Resource Locator (Internet)
+
+VHDL -- VHSIC Hardware Description Language
+VPN -- Virtual Private Network
+
+W3 -- World Wide Web (WWW)
+W3C -- World Wide Web Consortium
+WMF -- Windows Meta File
+WWAN -- Wireless Wide Area Networks
+WWN -- World Wide Net
+WWW -- World Wide Web
+WYSIWYG -- What You See Is What You Get

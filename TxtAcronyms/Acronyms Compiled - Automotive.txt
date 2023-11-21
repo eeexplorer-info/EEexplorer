@@ -1,0 +1,32 @@
+Acronyms Compiled - Automotive
+
+
+AEB -- Automatic Electronic Braking
+AWD -- All Wheel Drive
+
+BDC -- Bottom Dead Centre
+
+CAN -- Controller Area Network (Bosch Intel)
+
+ECM -- Electronic Control Module
+
+EFI -- Electronic Fuel Injection
+
+NSF -- Near Side Front
+NSR -- Near Side right
+
+ODBC -- Open Data Base Connectivity
+OSF -- Off Side Front
+OSR -- Off Side Right
+
+PAR -- Parabolic Alumnium Reflector
+
+SAE -- Society of Automtoive Engineers
+
+TDC -- Top Dead Centre
+
+
+=-=-=-=-=
+https://en.wikipedia.org/wiki/Automotive_acronyms_and_abbreviations
+
+https://haynes.com/en-us/tips-tutorials/350-automotive-acronyms-make-you-sound-smart
