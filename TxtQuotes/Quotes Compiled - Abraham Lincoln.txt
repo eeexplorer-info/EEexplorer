@@ -5,3 +5,5 @@ Quotes Compiled - Abraham Lincoln
 ~~ Abraham Lincoln
 
 
+"Discipline is choosing between what you want now and what you want the most."
+-- Abraham Lincoln
