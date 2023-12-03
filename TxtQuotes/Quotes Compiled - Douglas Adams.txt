@@ -5,17 +5,21 @@ Don't Panic
 / Douglas Adams /
 
 
-I may not have gone where i intended to go, but i think i have ended up where i needed to be
+"It is a rare mind indeed that can render the hitherto non-existant blinding obvious. The cry 'I could've thought of that' is a misleading one, for the fact is that they didn't, and a very signifcant and revelaing fact it is too."
+== Douglas Adams ==
+
+
+"I may not have gone where i intended to go, but i think i have ended up where i needed to be."
 / Douglas Adams /
 Hitch Hikers Guide to the Galaxy
 
 
-I don't believe it. Prove it to me and I still won't believe it.
+"I don't believe it. Prove it to me and I still won't believe it."
 / Douglas Adams /
 
 
 
-The Pan Galactic Gargle Blaster is a cocktail known for its complexity and intoxicating effects.
+"The Pan Galactic Gargle Blaster is a cocktail known for its complexity and intoxicating effects."
 {
 Here's a recipe for this drink:
 
@@ -54,3 +58,8 @@ Here's a recipe for this drink:
 9. Say "Froody!" with gusto and enjoy your Pan Galactic Gargle Blaster.
 }
 / Douglas Adams /
+
+
+
+
+

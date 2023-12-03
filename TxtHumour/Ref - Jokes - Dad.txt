@@ -1,8 +1,14 @@
 Ref - Jokes - Dad
 
 
+What's the best present you can gift?
+A broken drum.
+Nobody can beat that.
+
+
 A dad joke is a joke, typically a pun, often presented as a one-liner or a question and answer, but less often a narrative. Generally inoffensive, dad jokes are stereo-typically told with sincere humorous intent or to intentionally provoke a negative reaction to their overly simplistic humor.
-Ref = https://en.wikipedia.org/wiki/Dad_joke
+https://en.wikipedia.org/wiki/Dad_joke
+
 
 
 === On a Corny note, you'll feel all 'groan' up after reading these ===
@@ -32,7 +38,7 @@ Why are spiders so smart? They can find everything on the web.
 I'm reading a book about anti-gravity. It's impossible to put down!
 :
 :
-I know a bunch of good jokes about umbrellas, but they usually go over people’s heads.
+I know a bunch of good jokes about umbrellas, but they usually go over people's heads.
 :
 :
 What did one hat say to the other hat? You stay here, I'll go on ahead!
@@ -41,21 +47,24 @@ What did one hat say to the other hat? You stay here, I'll go on ahead!
 How do you throw a party in outer space? You planet.
 :
 :
-A polar bear walks into a bar and says to the bartender “I’ll have a rum …………………. and coke.”
-The bartender asks, “What’s with the big pause?”
-The bear shrugs. “I was born with them.”
+A polar bear walks into a bar and says to the bartender "I'll have a rum ............ and coke."
+The bartender asks, "What's with the big pause?"
+The bear shrugs. "I was born with them."
 :
 :
-A man walks up to a librarian and asks, "Do you have any books on Pavlov's dogs and Schrödinger's cat?"
+A man walks up to a librarian and asks, "Do you have any books on Pavlov's dogs and Schrodinger's cat?"
 The librarian responds, "It rings a bell but I'm not sure if it's here or not."
 :
 :
 Yesterday I saw a guy spill all his Scrabble letters on the road.
-I asked him, “What’s the word on the street?”
+I asked him, "What's the word on the street?"
 :
 :
-There are 10 types of people in this world. Those that know binary, and those that don’t.
+There are 10 types of people in this world. Those that know binary, and those that don't.
 }
+
+Q: Why do Python Programmers wear glasses?
+A: Because they can't C#.
 
 
 === On a Serious Note ===
