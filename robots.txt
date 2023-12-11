@@ -1,0 +1,12 @@
+# Comment 231210, <= 500kb
+#
+# Make sure there are no allow or disallow directives before user-agent
+# https://developer.chrome.com/docs/lighthouse/seo/invalid-robots-txt
+#
+# How to write and submit a robots.txt file
+# https://developers.google.com/search/docs/crawling-indexing/robots/create-robots-txt
+#
+# What is a robots.txt file?
+# https://moz.com/learn/seo/robotstxt
+#
+sitemap: https://eeexplorer.info/0_HmSiteMap.html
