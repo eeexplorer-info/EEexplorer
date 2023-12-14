@@ -4,3 +4,6 @@ Quotes Compiled - Voltaire
 Cherish those who seek the truth, but beware of those who find it.
 -- Voltaire
 
+
+"Everything you say should be true, but not everything true should be said."
+~~ Voltaire

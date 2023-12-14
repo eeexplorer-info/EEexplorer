@@ -3,6 +3,10 @@ Quotes Compiled - Cicero
 // Marcus Tullius Cicero
 
 
+"More is lost by indecision than wrong decision."
+/ Marcus Tullius Cicero /
+
+
 "The higher we are placed, the more humbly we should walk."
 -- Cicero
 
