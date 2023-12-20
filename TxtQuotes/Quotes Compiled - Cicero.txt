@@ -3,6 +3,10 @@ Quotes Compiled - Cicero
 // Marcus Tullius Cicero
 
 
+"Advice is judged by results, not by intention."
+~~ Cicero
+
+
 "More is lost by indecision than wrong decision."
 / Marcus Tullius Cicero /
 
