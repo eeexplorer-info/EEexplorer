@@ -1,4 +1,66 @@
 Acronyms Compiled - Management
 
 
+B2B -- Business to Business
+B2C -- Business to Consumer
+B2G -- Business to Govenment
+BID -- Break It Down
+
+CEO -- Chief Executive Officer
+CFO -- Chief Financial Officer
+CMS -- Content Management System
+COB -- Close of Business
+CRM -- Customer Relationship Management
+
+DR -- Debit
+DR -- Disaster Recovery
+
+EOD -- End of Day
+ETA -- Estimated Time of Arrival
+
+JGI -- Just Google It
+
 KPI -- Key Performance Indicator
+
+LMK -- Let Me Know
+
+MBO -- Management by Objectives
+MBWA -- Management By WAndering Around
+
+POC -- Point of Contact
+POS -- Point o Sale
+
+QA -- Quality Assurance
+QC -- Quality Control
+QMS -- Quality Management System
+
+SMART -- Specific, Measurable, Attainable, Realisitic, Time-Bound
+SWOT -- Strengths, Weakenesses, Opportunities nd Threats
+
+TL;DR -- Too Long; Didn't Read
+TQM -- Total Quality Management
+
+VAK -- Visual, Auditory, Kinesthetic
+
+WFH -- Working from Home
+WIIFM -- What's In It For Me?
+WIP -- Work In Progress
+WOM -- Word Of Mouth
+
+VPN -- Virtual Private Network
+YTD -- Year to Date
+
+
+// Futher
+:
+50 of the Top Management Abbreviations and Acronyms
+https://www.indeed.com/hire/c/info/management-abbreviations
+:
+Your Ultimate Cheat Sheet to Deciphering the 123 Most Common Business Acronyms
+https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms
+:
+99 of the Best Business Acronyms Explained
+https://www.mindtools.com/blog/99-business-acronyms/
+:
+Quality Acronym Reference Guide
+https://www.industries.veeva.com/blog/quality-acronyms
