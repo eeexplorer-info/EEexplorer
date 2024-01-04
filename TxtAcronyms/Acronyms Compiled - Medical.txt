@@ -1,7 +1,38 @@
 Acronyms Compiled - Medical
 
 
-ECG -- Electro Cardio Graph
+BP -- blood pressure
 
-EEG -- Electro Encephalo Graph
 
+CNS -- central nervous system
+CPAP -- continuous positive airway pressure
+CT -- computerized tomography
+CV -- cardiovascular
+
+
+DNA -- 
+
+
+ECG -- Electrocardiogram
+ED -- Emergency Department
+EEG -- Electroencephalogram
+EMG -- Electromyogram
+
+
+FBC -- Full Blood Count
+FOOB -- Fell Out Of Bed
+
+
+ICU -- Intensive Care Unit
+IV -- Intra-venus
+
+
+ROM -- range of motion
+RNA -- 
+
+
+T2D -- type II diabetes
+
+
+=-=-=-=-=-=
+https://www.seslhd.health.nsw.gov.au/sites/default/files/groups/Executive_Services/Clinical%20Abbreviations%20List%20-%20SESLHDPR%20282.pdf

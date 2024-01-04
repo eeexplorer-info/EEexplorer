@@ -1,10 +1,12 @@
 Acronyms Compiled - Telecommunication
 
+
 1G --
 2G -- 
 3G -- Data, Voice, Video
 4G -- Voice as data, shared speeds of 100 Mbps
 5G -- Voidce as data, shared speeds of 10,000 Mbps
+
 
 ADSL -- Asymmetric Digital Subscriber Line
 ARP -- Address Resolution Protocol (Layer 3)
@@ -13,8 +15,10 @@ AM -- Amplitude Modulation
 AT -- ATtention (Hayes Modems Command Prefix)
 ATM -- Asynchronous Transfer Mode
 
+
 BER -- Bit Error Rate
 BPSK -- Binary Phase Shift Keying
+
 
 CD -- Carrier Detect (V24)
 CDM -- Code Disvision Multiplexing
@@ -23,6 +27,7 @@ CMRR -- Common Mode Rejection Rate
 CSMA/CD -- Carrier Sense with Multiple Access/Collision Detection (Ethernet IEEE 802.3)
 CSP - Cloud Service Provider
 CTS -- Clear To Send
+
 
 DAB -- Digital Audio Broadcasting
 DAT -- Digital Audio Tape
@@ -42,6 +47,7 @@ DTE -- Data Terminal Equipment
 DTMF -- Dual Tone MultiFrequency (signalling)
 DTR -- Data Terminal Ready
 
+
 EBCDIC -- Extended Binary Coded Decimal Interchange Code (IBM)
 EoA -- Ethernet over ADSL
 EoC -- Ethernet over Coax
@@ -52,6 +58,7 @@ EOT -- End Of Transmission (char 4 - 04H)
 ESC -- ESCape (char 027 - 1BH)
 ETB -- End of Text Block (char 023 - 17H)
 ETX -- End of TeXt (char 3 - 03H)
+
 
 FAX -- FAcsimile
 FCS -- Frame Check Sequence
@@ -68,10 +75,12 @@ FTTH  -- Fiber To The Home
 FTTN -- Fibre to the Node
 FTTP - Fibre to the Premisses
 
+
 GEO -- Geosynchronous Earth Orbit
 GPIB -- General Purpose Instruments Bus (HP-IB, IEEE-488)
 GPS -- Global Positioning System
 GSM -- Global Standard for Mobile
+
 
 HDLC -- High level Data Link Control (IBM, Layer 2) (ISO 4335)
 HDSL -- High rate Digital Subscriber Loop (Line?)
@@ -83,6 +92,7 @@ HP-IB -- Hewlett Packard Instrument Bus (GPIB)
 Hue Saturation Value (color)
 HT -- Horizontal Tab (TAB, char 09 - 09H)
 
+
 ICMP -- Internet Control Message Protocol
 ICP -- Internet Content Provider (i.e Netflix)
 ICT - Information and Communication Technology
@@ -91,7 +101,7 @@ IoT -- Internet of Things
 IP -- Internetwork Protocol (layer 3)
 IPv6 -- Internet Protocol Version 6
 IPX -- Internet Packet Exchange (Netware, layer 3)
-ISO -- International Standards Organization (Gen�ve)
+ISO -- International Standards Organization
 ISP -- Internet Service Provider
 ISDN -- Integrated Services Data Network
 
@@ -102,8 +112,10 @@ LAP-B -- Link Access Procedure, Balanced (Multilink operation procedure, X25)
 LAP-D -- Link Access Procedure, D Channel
 LAP-M -- Link Access Procedure for Modems
 LEO -- Low Earth Orbit
+lnb -- Low Noise Block
 LPC -- Linear Predictive Coding
 LTE -- Long Term Evolution
+
 
 MAC -- Media Access Control (sub-layer 2)
 MFA -- Multi-Factor Authentication
@@ -111,9 +123,12 @@ MEO -- Medium Earth Orbit
 MNO -- Mobile Network Operator
 MODEM - Modulator - Demodulator
 
+
 OSI - Open Systems Interconnection Model
 
+
 M2M -- Machine to Machine
+
 
 NBN -- National Broadband Network
 NCP -- Network Control Protocol (IBM)
@@ -121,8 +136,10 @@ NF -- Noise Figure
 NRZ -- Non Return to Zero
 NRZI -- Non Return to Zero Inverted
 
+
 ODI -- Open Data-Link Interface (Netware)
 OQPSK -- Offset Quad Phone Shift Keying
+
 
 PAM -- Pulse Amplitude Modulation
 P2P -- Point to Point
@@ -132,7 +149,7 @@ PBX -- Private Branch eXchange
 PCM -- Pulse Code Modulation
 POP -- Post Office Protocol (RFC 1125)
 POTS - Plain Old Telephone Service
-PPPoE -- Point to� Point Protocol over Ethernet
+PPPoE -- Point to Point Protocol over Ethernet
 PSDN -- Packet Switched Data Network
 PSK -- Phase Shift Keying
 PSTN - Public Switched Telephone Network
@@ -141,9 +158,11 @@ PV -- Photo Voltaic
 PWM -- Pulsed Wave Modulation
 PWM -- Pulse-Width Modulation
 
+
 QAM -- Quadrature Amplitude Modulation
 QoS -- Quality of Service
 QPSK -- Quadrature/Quaternary Phase Shift Keying
+
 
 RF -- Radio Frequency
 RS -- Recommended Standard (EIA)
@@ -151,6 +170,7 @@ RTD - Round Trip Delay
 RTS - Request to Send
 RX -- Reception
 RXD -- Received Data
+
 
 SCADA -- Supervisory Control And Data Acquisition
 SDLC -- Synchronous Data Link Control
@@ -166,6 +186,7 @@ SPX -- Sequenced Packet Exchange (layer 4, Netware)
 SSH -- Secure Shell
 SxS -- Step by Step Telephone Exchange
 
+
 T1 -- Trunk 1 (1544 bps, 24-channel PCM)
 T3 -- Trunk 3 (44.736 Mb/s)
 TCP -- Transmission Control Protocol (layer 4)
@@ -176,11 +197,13 @@ TDR -- Time Domain Reflectometry
 TIA -- Telecommunications Industries Association
 TXD -- Transmitted Data
 
+
 UDP -- User Datagram Protocol (layer 4)
 UHF -- Ultra High Frequency (300-3000 MHz)
 UMTS -- Universal Mobile Telecommunications System
 UTP -- Unshielded Twisted Pair (Ethernet)
 UUCP -- Unix to Unix Copy Protocol
+
 
 VC -- Virtual Circuit
 VDSL -- Very-high-rate Digital Subscriber Line
@@ -190,6 +213,7 @@ VM -- Virtual Machine
 VoIP -- Voice over IP
 VoP -- Voice over Packet
 VSB -- Vestigial Side Band
+
 
 WAN -- Wide Area Networks
 WLAN -- Wide Local Area Network

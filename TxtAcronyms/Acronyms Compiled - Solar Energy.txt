@@ -4,14 +4,18 @@ Acronyms Compiled - Solar Energy
 MPP -- Maximum Power Point
 MPPT -- maximum power point trackers
 
+
 NEC -- National Electrics Code
 NEMA -- National Electrical Manufacturers Association
 NOCT -- Normal Operating Cell Temperature
 
+
 O&M -- Operations and Maintenance
+
 
 PPA -- Purchase Power Agreement
 PV -- Photovoltaic
+
 
 SOC -- State of Charge
 

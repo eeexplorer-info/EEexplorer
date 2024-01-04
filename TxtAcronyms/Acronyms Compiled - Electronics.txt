@@ -3,16 +3,20 @@ Acronyms Compiled - Electronics
 
 A/D -- Analog to Digital Converter (ADC)
 
+
 BJT -- Bipolar Junction Transistor
+
 
 CCD -- Charge-Coupled Device
 CMOS -- Complementary Metal Oxide Semiconductor
 CRT -- Cathode Ray Tube
 
+
 D/A -- Digital to Analog Converter (DAC)
 DPDT -- Double-Pole Double-Throw (switch)
 DSO -- Digital Storage Oscilloscope
 DTL -- Diode-Transistor Logic
+
 
 ECL -- Emitter Coupled Logic
 EHV -- Extra High Voltage
@@ -25,32 +29,38 @@ ESD -- ElectroStatic Discharge
 EV -- Electric Vehicle
 EXOR -- EXclusive OR
 
+
 FET -- Field Effect Transistor
 FLP -- FLuorescent Panel
 FP -- Flat Pack (SMD)
 FPGA -- Field Programmable Gate Array
 
-GaAs -- GAlium ArSenide
-GaAsP -- GAlium ArSenide Phosphide
-GaN -- GAllium Nitride
+
+GaAs -- Gallium ArSenide
+GaAsP -- Gallium ArSenide Phosphide
+GaN -- Gallium Nitride
+
 
 HDTV -- High Definition TeleVision
 HV -- High Voltage
 HVDC -- High Voltage Direct Current
 
+
 IC -- Integrated Circuit
-IEC -- International Electrotechnical Comission (Genàve)
+IEC -- International Electrotechnical Comission (Genï¿½ve)
 IEE -- Institute of Electrical Engineers (London)
 IEEE -- Institute of Electrical and Electronics Engineers (NY)
 IGBT -- Insulated Gate Bipolar Transistor
 IGFET -- Insulated Gate Field Effect Transistor
 IR -- InfraRed
 IRED -- InfraRed Emitting Diode
-ISO -- International Standards Organization (Genàve)
+ISO -- International Standards Organization (Genï¿½ve)
+
 
 JEDEC -- Joint Electron Devices Engineering Council
 JEIDA -- Japan Electronic Industry Development Association
 JIS -- Japan Industry Standard
+
 
 LASER -- Light Amplification by Stimulated Emission of Radiation
 LCD -- Liquid Crystal Display
@@ -58,6 +68,7 @@ LD -- Laser Disc
 LED -- Light Emitting Diode
 LIDAR -- LIght Detection And Ranging
 LSI -- Large Scale Integration
+
 
 MASER -- Microwave Amplification by Stimulated Emission of Radiation
 MEMS -- Micro Electro Mechanical Systems
@@ -69,13 +80,16 @@ MOS -- Metal-Oxide Silicon/Semiconductor
 MOSFET -- Metal-Oxide Silicon Field Effect Transistor
 MOV -- Metal-Oxide Varistor
 
+
 NEC -- National Electric Code (USA)
 NEMA -- National Electric Manufacturers Association (USA)
 NMOS -- Negative Metal Oxide Silicon
 NTC -- Negative Temperature Coefficient
 NTSC -- North american Television Standards Committee
 
+
 NPN -- Negative-Positive-Negative
+
 
 PAL -- Phase Alternating Line (TV)
 PAL -- Programmable Array Logic
@@ -85,12 +99,15 @@ PLC -- Programmable Logic Controller
 PMOS -- Positive Metal Oxide Silicon
 PNP -- Positive-Negative-Positive
 
+
 RADAR -- RAdio Detection And Ranging
 RCA -- Radio Corporation of America
 RFI -- Radio Frequency Interference
 RGB -- Red Green Blue
+RMS -- Root Mean Square
 RS -- Recommended Standard (EIA)
 TRL -- Resistor Transistor Logic
+
 
 SCR -- Silicon Controlled Rectifier
 SCS -- Silicon Controlled Switch
@@ -103,18 +120,23 @@ SOJ -- Small-Outline J-lead (SMD)
 SOL -- Small-Outline Leaded (SMD)
 SPST -- Single Pole Single Throw (switch)
 
+
 TFT -- Thin Film Transistor
 THD -- Total Harmonic Distortion
 TSOP -- Thin Small Outline Package (SMD)
 TTL -- Transistor-Transistor Logic
 
+
 UJT -- UniJunction Transistor
+
 
 VCA -- Voltage Controlled Amplifier
 VCO -- Voltage Controlled Oscillator
 VESA -- Video Electronics Standards Association
 
+
 VHS -- Video Home System
 VHS-C -- Video Home System Compact
 VHSIC -- Very High Scale Integrated Circuit
+VTVM -- Vacuum Tube Voltmeter
 VLSI -- Very Large Scale Integration

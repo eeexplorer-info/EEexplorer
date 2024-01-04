@@ -1,12 +1,17 @@
 Acronyms Compiled - General
 
+
 BCC -- Blind Carbon Copy
+
 
 CC -- Carbon Copy
 CFEMU -- Construction Forestry Mining and Energy Union
 
+
 DIY -- do-it-yourself
 
+
 PAP -- point-and-pay
+
 
 TED -- Technology, Education, Design

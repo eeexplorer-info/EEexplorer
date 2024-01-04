@@ -1,0 +1,39 @@
+Acronyms Compiled - Aviation
+
+
+ALT -- Altitude
+AMSL -- Above Mean Sea Level
+ATC -- Air Trafic Control
+ATSB -- Asutralian Transport Safety Bureau
+
+
+BCST -- Broadcasting
+BOM -- Bureau of Meteorolgy
+
+
+CAA -- Civil Avaition Authority
+CASA -- Civil Aviation Safety Authority
+
+
+ETA -- Estimated time of arrival
+ETD -- Estimated time of departure
+
+
+SBY -- Standby
+
+
+
+// Aviation Abbreviations
+https://curtisaviation.com.au/aviation-abbreviations/
+:
+// List of aviation, avionics, aerospace and aeronautical abbreviations
+https://en.wikipedia.org/wiki/List_of_aviation,_avionics,_aerospace_and_aeronautical_abbreviations
+:
+// Visual Flight Rules Guide Australia
+https://www.vfrg.net.au/resources/abbreviations-and-acronyms/
+:
+// Air Transport Bureau
+https://www.atsb.gov.au/avdata/acronyms
+:
+// Avionics International
+https://www.aviationtoday.com/aerospace-acronym-abbreviation-guidedownload-the-pdf/

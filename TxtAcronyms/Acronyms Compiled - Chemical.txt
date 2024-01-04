@@ -1,5 +1,5 @@
 Acronyms Compiled - Chemical
 
 
-PFAS - poly-fluroalkyl substances
-PFOS - per-fluoro-octane-sulfonate
+PFAS -- poly-fluroalkyl substances
+PFOS -- per-fluoro-octane-sulfonate

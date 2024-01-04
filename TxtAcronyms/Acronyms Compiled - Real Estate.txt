@@ -3,17 +3,23 @@ Acronyms Compiled - Real Estate
 
 EOI -- expression of interest
 
+
 NB -- no bid
+
 
 PI -- passed in
 PT -- private treaty
+
 
 S -- sold at auction
 SA -- sold after auction
 SB -- sold before auction
 
+
 T -- sale by tender
 
+
 VB -- passed in vendor bid
+
 
 W -- withdrawn

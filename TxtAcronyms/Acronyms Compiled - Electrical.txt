@@ -3,7 +3,12 @@ Acronyms Compiled - Electrical
 
 HVAC -- High Voltage Alternating Current
 
+
+HV -- High Voltage
+
+
 LV -- Low Voltage
+
 
 RCD -- Residual Current Device
 

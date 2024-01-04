@@ -5,13 +5,15 @@ ACIA -- Asynchronous Communications Adapter
 ADC -- Analogue to Digital Converter
 ALU -- Arithmetic Logic Unit
 
+
 BCD -- Binary Coded Decimal
-BIOS -- Basic Input/Output System
+
 
 CD -- Compact Disc
 CD-R -- Compact Disc Rewriteable
 CD-ROM -- Compact Disc Read Only Memory
 CPU -- Central Processor Unit
+
 
 DECNET -- Digital Equipment Corporation NETwork
 DIMM -- Dual In line Memory Module
@@ -19,18 +21,25 @@ DRAM -- Dynamic Random Access Memory
 DVD -- Digital Video (Versatile?) Disc
 DVI -- Digital Video Interactive (Intel)
 
+
 EEPROM -- Electronically Erasable Programmable Read-Only-Memory
 EGA -- Enhanced Graphics Adapter
 ENIAC -- Electronic Numerical Integrator and Computer
 EPROM -- Erasable Programmable Read-Only-Memory
 
+
 FD -- Flexible (Floppy) Disk
 FERAM -- Ferro Electric Random Access Memory
 
+
 HD -- Hard Disk
 HDD -- Hard Disk Drive
+HEX -- Hexadecimal
 
+
+IBM -- International Business Machines
 ISA -- Industry Standard Architecture (PC bus)
+
 
 MDA -- Monochrome Display Adapter
 MO -- Magneto Optical (disk)
@@ -40,10 +49,13 @@ MPU -- Micro Processor Unit
 NRAM -- Non Volatile RAM
 NVRAM -- Non-Volatile RAM
 
+
+PAL -- Programmable Array Logic
 PCI -- Peripheral Components Interconnect (bus)
 PCMCIA -- Personal Computer Memory Card International Association
 PIA -- Programmable Interface Adapter
 PROM -- Programmable Read-Only Memory
+
 
 RAID -- Redundant Array of Inexpensive Disks
 RAM -- Random Access Memory
@@ -51,17 +63,22 @@ RISC -- Reduced Instruction Set Computer
 ROM -- Read-Only Memory
 RWM -- Read-Write Memory
 
+
 SAM -- Sequential Access Memory
 SBC -- Single Board Computer
 SCSI -- Small Computer System Interface
 SIMM -- Single In-line Memory Module
 SRAM -- Static Random Access Memory
+SSD -- Solid State Drive
+
 
 TTY -- TeleTYpe
+
 
 UART -- Universal Asynchronous Receiver - Transmitter
 UPS -- Uninterruptible Power Supply
 USB -- Universal Serial Bus (Intel)
+
 
 VAX -- Virtual Memory eXtension (DEC)
 VDT -- Video Display Terminal
@@ -73,5 +90,6 @@ VRAM -- Video Random Access Memory
 VT -- Video Terminal (DEC)
 VT -- Virtual Terminal
 VXI -- Vmebus eXtensions for Instrumentation
+
 
 WORM -- Write Once, Read Many

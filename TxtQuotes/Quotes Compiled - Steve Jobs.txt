@@ -152,7 +152,7 @@ If you are working on something exciting that you really care about, you don't h
 ~~ Steve Jobs
 
 
-"The most important thing is a person. A person who incites your curiosity and feeds your curiosity; and machines cannot do that in the same way that people can."
+"The most important thing is a person. A person who incites your Searchity and feeds your Searchity; and machines cannot do that in the same way that people can."
 ~~ Steve Jobs
 
 "Everybody in this country should learn how to program a computer, because it teaches you how to think."

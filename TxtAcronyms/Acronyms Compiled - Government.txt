@@ -1,86 +1,87 @@
 ﻿Acronyms Compiled - Government
 
 
-AAP - Australian Associated Press
-ABS - Australian Bureau of Statistics
-ACTU - Australian Council of Trade Unions
-AEMO - Australian Energy Market Operator
-AHRC - Australian human rights commission
-AMA - Australian Medical Association
-ANCAP - Australasian New Car Assessment Program
-ARENA - Australian Renewable Energy Agency
-AUKUS - 
+AAP -- Australian Associated Press
+ABS -- Australian Bureau of Statistics
+ACTU -- Australian Council of Trade Unions
+AEMO -- Australian Energy Market Operator
+AFP -- Australian Federal Police
+AHRC -- Australian human rights commission
+AMA -- Australian Medical Association
+ANCAP -- Australasian New Car Assessment Program
+ARENA -- Australian Renewable Energy Agency
+AUKUS -- Australia, United Kingdom and United States
 
 
-CEO - Chief Executive Officer
-CHOGM - Commonwealth Heads of Government Meeting
-CIO - Chief Information Officer
-CMO - Chief Medical Officer
-COAG - Council of Australian Governments
-COAG - Council of Australian Governments
-COO - Chief Operating Officer
-CSHC - Commonwealth System Health Card
-CSIRO - Commonwealth Scientific and Industrial Research Organisation
+CEO -- Chief Executive Officer
+CHOGM -- Commonwealth Heads of Government Meeting
+CIO -- Chief Information Officer
+CMO -- Chief Medical Officer
+COAG -- Council of Australian Governments
+COAG -- Council of Australian Governments
+COO -- Chief Operating Officer
+CSHC -- Commonwealth System Health Card
+CSIRO -- Commonwealth Scientific and Industrial Research Organisation
 
 
-DFAT - Department of Foreign Affairs and Trade
-DPRK - Deomcratic people's republic of Korea
+DFAT -- Department of Foreign Affairs and Trade
+DPRK -- Deomcratic people's republic of Korea
 
 
-FOI - Freedom of information
-FTA - Free Trade Agreement
+FOI -- Freedom of information
+FTA -- Free Trade Agreement
 
 
-G20 - Growth, Trade & Globalisation
-GDP - Gross Domestic Product
+G20 -- Growth, Trade & Globalisation
+GDP -- Gross Domestic Product
 
 
-HELE - High Efficiency Low Emission
+HELE -- High Efficiency Low Emission
 
 
-IMF - International Monetary Fund
+IMF -- International Monetary Fund
 
 
-LGBTQIA - Lesbian, Gay, Bisexual, Transgender, Queer, Intersex and Asexual
-LQBTIA+ - Lesbian, Queer, Bisexual, Transgender, Intersex, Agender, Asexual and Ally Community
+LGBTQIA -- Lesbian, Gay, Bisexual, Transgender, Queer, Intersex and Asexual
+LQBTIA+ -- Lesbian, Queer, Bisexual, Transgender, Intersex, Agender, Asexual and Ally Community
 
 
-MYEFO - Mid-Year Economic and Fiscal Outlook
+MYEFO -- Mid-Year Economic and Fiscal Outlook
 
 
-NAIDOC - National Aborigines and Islander Day Observance Committee
-NAPLAN - National Assessment Program – Literacy and Numeracy
+NAIDOC -- National Aborigines and Islander Day Observance Committee
+NAPLAN -- National Assessment Program – Literacy and Numeracy
 NBN -- National Broadband Network
-NDIS - National Disability Insurance Scheme
+NDIS -- National Disability Insurance Scheme
 NEG -- National Energy Guarantee
-NPP - National Payments Platform
+NPP -- National Payments Platform
 
 
-OA - Order of Australia
-OAM - Medal of the Order of Australia
-OPEC - Organisation of the Petroleum Exporting Countries
+OA -- Order of Australia
+OAM -- Medal of the Order of Australia
+OPEC -- Organisation of the Petroleum Exporting Countries
 
 
-PDA - Personal Digital Assistant
-PFAS - Chemical (per- and poly- fluoro alkyl substances)
-PPP - Public Private Partnership
+PDA -- Personal Digital Assistant
+PFAS -- Chemical (per- and poly- fluoro alkyl substances)
+PPP -- Public Private Partnership
 
 
-RBA - Reserve Bank of Australia
+RBA -- Reserve Bank of Australia
 
 
-STEAM - Science, Technology, Engineering, Art and Maths
-STEM - Science, Technology, Engineering and Mathematics
+STEAM -- Science, Technology, Engineering, Art and Maths
+STEM -- Science, Technology, Engineering and Mathematics
 
 
-TMF - Tresury Managed Fund
-TPP - Trans-Pacific Partnership
-UNESCO - United Nations Education Scientific and Cultural Organisation
+TMF -- Tresury Managed Fund
+TPP -- Trans-Pacific Partnership
+UNESCO -- United Nations Education Scientific and Cultural Organisation
 
 
-WHO - World Health Organisation
-WHS - Work, Health and Safety
-WTO - World Trade Organisation
+WHO -- World Health Organisation
+WHS -- Work, Health and Safety
+WTO -- World Trade Organisation
 
 
 
