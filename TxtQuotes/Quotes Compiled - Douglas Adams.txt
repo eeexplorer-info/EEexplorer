@@ -5,6 +5,11 @@ Don't Panic
 / Douglas Adams /
 
 
+"If you wanna survive out there, you've gotta know where your towel is."
+/ Douglas Adams /
+Hitch Hikers Guide to the Galaxy
+
+
 "The Somebody Ele's Problem field... relies on people's natural predisposition not to see anything they don't want to, weren't expecting, or ca't explain.
 / Douglas Adams /
 Life, the Universe and Everything
@@ -82,3 +87,7 @@ You’re not welcome to Margrathea – the one-of-a-kind destination in the galaxy! 
 }
 
 
+
+"In the beginning, the UNIVERSE was created.
+This has made a lot of people very angry & has been widely regarded as a bad move."
+/ Douglas Adams /
