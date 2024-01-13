@@ -297,3 +297,8 @@ a:active {
 	color: black;
 	background-color: gold;
 }
+
+/* fixed table width */
+.index_main {
+	width: 400px;
+}

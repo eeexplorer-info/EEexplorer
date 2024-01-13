@@ -9,4 +9,4 @@
 # What is a robots.txt file?
 # https://moz.com/learn/seo/robotstxt
 #
-sitemap: https://eeexplorer.info/0_HmSiteMap.html
+#sitemap: https://eeexplorer.info/0_HmSiteMap.html
