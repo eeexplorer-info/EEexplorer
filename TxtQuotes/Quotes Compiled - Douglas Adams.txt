@@ -10,7 +10,7 @@ Don't Panic
 Hitch Hikers Guide to the Galaxy
 
 
-"The Somebody Ele's Problem field... relies on people's natural predisposition not to see anything they don't want to, weren't expecting, or ca't explain.
+"The Somebody Else's Problem field... relies on people's natural predisposition not to see anything they don't want to, weren't expecting, or ca't explain.
 / Douglas Adams /
 Life, the Universe and Everything
 
@@ -27,6 +27,9 @@ Hitch Hikers Guide to the Galaxy
 "I don't believe it. Prove it to me and I still won't believe it."
 / Douglas Adams /
 
+
+"You see, the qaulity of any advice anybody has to offer has to be judged against the quality of life the actually lead."
+~~ Douglas Adams
 
 
 "The Pan Galactic Gargle Blaster is a cocktail known for its complexity and intoxicating effects."
@@ -77,7 +80,8 @@ Here's a recipe for this drink:
 The Improbability Drive is a spaceship propulsion system designed by the equally fictional Sirius Cybernetics Corporation. It functions by exploiting the fundamental principles of improbability to produce unpredictable and often absurd outcomes. When activated, the drive can lead to bizarre transformations, improbable scenarios, and unexpected consequences.
 
 
-In one memorable instance from the series, the spaceship Heart of Gold activates the Improbability Drive, resulting in a number of surreal events, including turning a pair of guided missiles into a whale and a bowl of petunias. This whimsical and unpredictable nature of the Improbability Drive is a hallmark of Adams' comedic writing style, adding an element of randomness to the already absurd adventures of Arthur Dent and his intergalactic companions.
+
+"In one memorable instance from the series, the spaceship Heart of Gold activates the Improbability Drive, resulting in a number of surreal events, including turning a pair of guided missiles into a whale and a bowl of petunias. This whimsical and unpredictable nature of the Improbability Drive is a hallmark of Adams' comedic writing style, adding an element of randomness to the already absurd adventures of Arthur Dent and his intergalactic companions.
 }
 
 
@@ -91,3 +95,20 @@ You’re not welcome to Margrathea – the one-of-a-kind destination in the galaxy! 
 "In the beginning, the UNIVERSE was created.
 This has made a lot of people very angry & has been widely regarded as a bad move."
 / Douglas Adams /
+
+
+
+{
+"One of the things Ford Prefect had always found hardest to understand about humans was their habit of continually stating and repeating the very very obvious, as in It's a nice day, or You're very tall, or Oh dear you seem to have fallen down a thirty-foot well, are you alright?
+
+At first Ford had formed a theory to account for this strange behaviour. If human beings don't keep exercising their lips, he thought, their mouths probably seize up. After a few months' consideration and observation he abandoned this theory in favour of a new one.
+
+If they don't keep on exercising their lips, he thought, their brains start working. After a while he abandoned this one as well as being obstructively cynical."
+}
+/ Ford Prefect /
+
+
+
+"The major difference bwteen a thing that might go wrong and a thing that cannot possible go wrong is that when a thing that cannot possibly go wrong goes wrong it usually turns out to be impossible to get  at or repair.
+/ Douglas Adams /
+

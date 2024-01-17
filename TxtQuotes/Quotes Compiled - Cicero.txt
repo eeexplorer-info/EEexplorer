@@ -3,6 +3,10 @@ Quotes Compiled - Cicero
 // Marcus Tullius Cicero
 
 
+"In all matters, before beginning, a diligent preparation should be made."
+/ Cicero /
+
+
 "Advice is judged by results, not by intention."
 ~~ Cicero
 
