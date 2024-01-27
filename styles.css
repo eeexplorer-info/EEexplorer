@@ -89,12 +89,19 @@ h2 {
 }
 
 
+/* Should be for h7 */
 h3 {
 	/* For Laptop or Desktop: */
 	color: black;
-	background-color: white;
-	
-	font-size: 1.5em; /*0.875em;	//* 14px/16 = 0.875em */
+	background-color: orange;
+		/* font-size: 1.5em; /*0.875em;	/14px/16 = 0.875em */
+	padding: 10px;
+	margin: 30px;
+	border-radius: 2rem;
+	font-size: 1.25em;
+
+	/* For Laptop or Desktop: */
+	width:25%;
 }
 
 
@@ -275,6 +282,13 @@ a:active {
 	font-size: 0.875rem;
 }
 
+.centerOR{
+	text-align: center;
+	color: orange;
+	background-color: #262626; /* gray;*/
+	font-size: 0.875rem;
+}
+
 .left{
 	text-align: left;
 	width: 80%;
@@ -299,6 +313,26 @@ a:active {
 }
 
 /* fixed table width */
-.index_main {
+.ndx_main {
 	/* width: 400px; */
+}
+
+.colourLM {
+	border-style: solid;
+	border-color: lime;
+}
+
+.colourYW {
+	border-style: solid;
+	border-color: gold;
+}
+
+.colourCY {
+	border-style: solid;
+	border-color: cyan;
+}
+
+.colourOR {
+	border-style: solid;
+	border-color: orange;
 }
