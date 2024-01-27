@@ -2,6 +2,7 @@ Acronyms Compiled - Automotive
 
 
 AEB -- Automatic Electronic Braking
+ANCAP -- Australasian New Car Assessment Program
 AWD -- All Wheel Drive
 
 

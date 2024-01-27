@@ -1,6 +1,10 @@
 Quotes Compiled - Mark Twain
 
 
+"Worrying is like paying a debt you don't owe."
+-- Mark Twain
+
+
 "When you find yourself on the side of the majority, it's time to pause and reflect."
 ~~ Mark Twain
 
@@ -34,4 +38,5 @@ Continuous Improvement is better than Delayed perfection
 -- ?? Mark Twain
 
 
+// some
 https://marktwainhouse.org/about/mark-twain/famous-twain-quotes/

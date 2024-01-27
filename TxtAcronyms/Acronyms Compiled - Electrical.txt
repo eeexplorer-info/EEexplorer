@@ -1,14 +1,103 @@
 Acronyms Compiled - Electrical
 
 
+AB Switch -- Air Break switch
+ACB -- Air Circuit Breaker
+ACDB -- Alternating Current Distribution Board
+ACVS -- Air-conditioning and Ventilation System
+
+
+BSS -- Belt Sway switch
+
+
+CPSS -- Construction Power Substation
+CT -- Current Transformer
+
+
+DCDB -- Direct current Distribution Board
+DCS -- Distributed Control System
+DO Fuse -- Drop Out Fuse
+DOL -- Direct On line
+DSS -- Distributed Power Substation
+
+
+ELCB -- Earth Leakage Circuit Breaker
+EMLDB -- Emergency Light Distribution Board
+EMPR -- Electronic Motor Protection RELAY
+
+
+FCMA -- Flux Compensated Magnetic Amplifier
+FDA -- Fire Detection & Alarm
+
+
+GI Bus bar -- Galvanized Iron Bus Bar For Farthing
+
+
+HRC -- Fuse High Rupture Capacity Fuse
+HT -- High tension > Transformer HT Side
+HV -- High Voltage
 HVAC -- High Voltage Alternating Current
 
 
-HV -- High Voltage
+JB -- Junction Box
 
 
+LCB -- Local Control Board
+LCS -- Local Control Station
+LT -- Low tension
 LV -- Low Voltage
 
 
-RCD -- Residual Current Device
+MCB -- Miniature Circuit Breaker
+MCC -- Motor Control Centre
+MCCB -- Molded case circuit breaker 
+MCP -- Motor Control Panel
+MLDB -- Main Light Distribution Board
+MPCB -- Motor Protection Circuit Breaker
+MPDB -- Main Power Distribution Board
 
+
+NC -- Normally Closed
+NO --  Normally opened
+
+
+OLTC -- On Load Tap Change
+
+
+PB -- Push Button
+PCC -- Power Control Center
+PCS -- Pull Cord Switch
+PDB -- Power Distribution Board
+PLC -- Programmable Logic Controller
+PT -- Potential Converter
+
+
+RCBO -- Residual Current Circuit Breaker With Over-Current Protection
+RCC -- Remote Control Cables
+RCCB -- Residual Current Circuit Breaker
+RCD -- Residual Current Device
+RDOL -- Reverse Duty on Line
+
+
+SCIM -- Squirrel Cage Induction Motor
+SF6 Circuit Breaker -- Sulphur Hexafluoride Circuit Breaker
+SLDB -- Secondary Lighting Distribution Board
+SMF Battery -- Sealed Maintenance Free
+SPNDB -- Short Circuit Protection Neutral Distribution Board
+
+
+TB -- Terminal Box
+TEFC -- Total Enclosed Fan Cooled
+TESC -- Totally Enclosed Surface Cooled
+TPNDB -- Phase Three and Neutral Distribution Board
+
+
+UPS -- Un-Interrupted Power Supply
+
+
+VCB -- Vacuum Circuit Breaker
+VFD -- Variable Frequency Drive
+VVVF -- Variable Voltage Variable Frequency Drive
+
+
+ZSS -- Zero Speed Switch
