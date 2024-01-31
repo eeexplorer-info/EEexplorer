@@ -57,7 +57,7 @@ table {
 	table-layout: auto;
 	border: blue;
 	border-radius: 2rem;
-	width: 25rem;
+	width: 20rem;
 }
 
 th {
@@ -107,7 +107,7 @@ h3 {
 
 	/* For Laptop or Desktop: */
 	/* width:25%; */
-	width: 25rem;
+	width: 20rem;
 }
 
 
@@ -122,7 +122,7 @@ h4 {
 
 	/* For Laptop or Desktop: */
 	/* width:25%; */
-	width:25rem;
+	width:20rem;
 }
 
 
@@ -136,7 +136,7 @@ h5 {
 	border-radius: 2rem;
 	font-size: 1.25em;
 	/* width:25%; */
-	width: 25rem;
+	width: 20rem;
 }
 
 /* trying an alternate background colour to h4 level heading */
@@ -149,12 +149,12 @@ h6 {
 	border-radius: 2rem;
 	font-size: 1.25em;
 	/* width:25%; */
-	width: 25rem;
+	width: 20rem;
 }
 
 /* For Laptop or Desktop: */
 img {
-	width:25rem;
+	width:20rem;
 }
 
 figcaption {
@@ -163,7 +163,7 @@ figcaption {
 	border-radius: 1.5rem;
 	padding: 2px;
 	font-size:0.875rem;
-	width: 25rem;
+	width: 20rem;
 }
 
 /* For Laptop or Desktop: */
@@ -171,7 +171,7 @@ iframe {
 	
 	background-color: #e6e6e6;
 	/* width:25%; */
-	width: 25rem;
+	width: 20rem;
 	height:400px;
 	border:none;
 }
@@ -181,21 +181,21 @@ iframe {
 	/* For tablets: */
 	h4, h5, h6 {
 	  /* width: 50%; */
-	  width: 25rem;
+	  width: 20rem;
 	}
 	img {
 		/* width:50%; 62%; */
-		width: 25rem;
+		width: 20rem;
 	}	
 	figcaption {
 		/* width: 80%;/* 62%;	same a for image */
-		width: 25rem;
+		width: 20rem;
 		border: 1px white solid;
 		border-radius: 2rem;
 	}
 	iframe {
 		/* width: 80%; */
-		width: 25rem;
+		width: 20rem;
 	}
   }
 
@@ -203,22 +203,22 @@ iframe {
 	/* For mobile phones: */
 	h4, h5, h6 {
 	  /* width: 60%; */
-	  width: 25rem;
+	  width: 20rem;
 	}
 	img {
 		/*height:10%;*/
 		/* width: 80%; */
-		width: 25rem;
+		width: 20rem;
 	}
 	figcaption {
 		/* width:80%;	same a for image */
-		width: 25rem;
+		width: 20rem;
 		border: 1px white solid;
 		border-radius: 2rem;
 	}
 	iframe {
 		/* width:80%; */
-		width: 25rem;
+		width: 20rem;
 	}
 }
 
