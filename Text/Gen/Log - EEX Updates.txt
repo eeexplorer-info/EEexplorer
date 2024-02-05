@@ -1,0 +1,67 @@
+Log - EEX Updates
+
+
+------=== 02 Feb 2024 ===------
+{
+== UPDATE
++ Table to Scroll conversions
++ Table width and Screen width experiements
+}
+
+
+
+------=== 31 Jan 2024 ===------
+{
+== PROJECT INSPIRATION
++ "Core Electronics" company added
++ Launch Menu at page bottom untangled
++ Table headings & widths unified
+
+== SOURCE FILES
++ Meta Tags to help Search Engines added
+
+== SUPPORTIVE / INFORMATIVE
++ First Aid: Stings, Bites and Poisons added
++ Fire Danger Ratings, Extinguisher types added
++ Emergency & State Services added
+}
+
+
+------=== 27 Jan 2024 ===------
+{
+== ASCII
++ Dec-Hex-Oct-Bin simplified lookup
+
+== COMPUTER DATA
++ Connector Pinouts for Power supplies added
++ Connector Pinouts for Data comm channels added
++ Bus Architectures - some added
+
+== EE-STAFF
++ Names from 1947 added
++ Head-of-school Photos added
++ Recalled names without years added
++ A to Z list added
+
+== INDEX
++ A to Z started
+
+== PATTERNS
++ Charts & Tables cleaned-up
++ Moon Eclipses & Phases 2016-2023 added
++ Planet Movements 2024 cleaned up
+
+== QUOTATIONS
++ More added to compilations
+}
+
+
+
+------=== dd Mmm 2024 ===------
+{
+== 
++ 
++ 
++ 
+
+}

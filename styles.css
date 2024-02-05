@@ -1,3 +1,4 @@
+
 /*
 	style.css
 	
@@ -57,7 +58,7 @@ table {
 	table-layout: auto;
 	border: blue;
 	border-radius: 2rem;
-	width: 20rem;
+	width: 25rem;
 }
 
 th {
@@ -107,7 +108,7 @@ h3 {
 
 	/* For Laptop or Desktop: */
 	/* width:25%; */
-	width: 20rem;
+	width: 15rem;
 }
 
 
@@ -122,7 +123,7 @@ h4 {
 
 	/* For Laptop or Desktop: */
 	/* width:25%; */
-	width:20rem;
+	width: 15rem;
 }
 
 
@@ -136,7 +137,7 @@ h5 {
 	border-radius: 2rem;
 	font-size: 1.25em;
 	/* width:25%; */
-	width: 20rem;
+	width: 15rem;
 }
 
 /* trying an alternate background colour to h4 level heading */
@@ -218,6 +219,9 @@ iframe {
 	}
 	iframe {
 		/* width:80%; */
+		width: 20rem;
+	}
+	table {
 		width: 20rem;
 	}
 }
@@ -364,4 +368,12 @@ a:active {
 .colourOR {
 	border-style: solid;
 	border-color: orange;
+}
+
+.ndx_main {
+	position: sticky;
+	/* top: 0; */
+	height: 400 px;
+	overflow-y: auto;
+	/* width: 100%; */
 }
