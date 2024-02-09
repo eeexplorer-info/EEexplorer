@@ -1,0 +1,73 @@
+Acronyms Compiled - Microprocessor
+
+
+ADDR -- Address
+ALU -- Arithmetic Logic Unit
+
+
+BUF -- Buffer
+
+
+CE -- Chip Enable
+CISC -- 
+CLK -- Clock
+CMP -- Comparator
+CPI -- Cycles Per Instruction
+CPU -- Central Processing Unit
+
+
+DTA -- Data
+DSP -- Digital Singal Processor
+
+
+FLOPS -- Floating-point Operations Per Second
+FP -- Floating Point
+FPU -- Floating-point Unit
+
+
+GPU -- Graphic Processing Unit
+
+
+INT -- Interrupt
+IPC -- Instructions Per Cycle
+IPS -- instructions Per Second
+IX -- Index Register
+
+
+LSI -- Large Scale Integration
+
+
+MMU -- Memory Management Unit
+MPU -- Microprocessor Unit
+
+
+NMI -- Non Maskable Interrupt
+NoC -- Network on a Chip
+
+
+PC -- Program Counter
+
+
+RAM -- Random Access Memory
+RD -- Read
+RISC -- Reduced Instruction Set Computer
+ROM -- Read Only Memory
+RST -- Reset
+
+
+SoC -- System on a Chip
+SP -- Stack Pointer
+
+
+VLSI -- Very Large Scale Integration
+
+
+WR -- Write
+
+
+// https://en.wikipedia.org/wiki/Microprocessor
+// https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures
+// https://www.pcmag.com/encyclopedia/term/microprocessor
+:
+// https://en.wikipedia.org/wiki/Motorola_6800
+// https://www.cpu-world.com/CPUs/6800/

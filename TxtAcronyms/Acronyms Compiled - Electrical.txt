@@ -7,6 +7,7 @@ ACDB -- Alternating Current Distribution Board
 ACVS -- Air-conditioning and Ventilation System
 
 
+BC -- Bayonnet Cap
 BSS -- Belt Sway switch
 
 
@@ -24,6 +25,7 @@ DSS -- Distributed Power Substation
 ELCB -- Earth Leakage Circuit Breaker
 EMLDB -- Emergency Light Distribution Board
 EMPR -- Electronic Motor Protection RELAY
+ES -- Edison Screw
 
 
 FCMA -- Flux Compensated Magnetic Amplifier

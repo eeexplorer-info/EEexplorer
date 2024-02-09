@@ -4,13 +4,10 @@ Acronyms Compiled - Medical
 BP -- blood pressure
 
 
-CNS -- central nervous system
-CPAP -- continuous positive airway pressure
-CT -- computerized tomography
-CV -- cardiovascular
-
-
-DNA -- 
+CNS -- Central Nervous System
+CPAP -- Continuous Positive Airway Pressure
+CT -- Computerized Tomography
+CV -- Cardiovascular
 
 
 ECG -- Electrocardiogram
@@ -24,14 +21,17 @@ FOOB -- Fell Out Of Bed
 
 
 ICU -- Intensive Care Unit
-IV -- Intra-venus
+IV -- Intra-Venus
 
 
-ROM -- range of motion
-RNA -- 
+MEG -- Magnetoencephalography
+MRI -- Magnetic Resonance Imaging
 
 
-T2D -- type II diabetes
+ROM -- Range of Motion
+
+
+T2D -- Type II Diabetes
 
 
 =-=-=-=-=-=

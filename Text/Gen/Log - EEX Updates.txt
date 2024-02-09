@@ -1,13 +1,40 @@
 Log - EEX Updates
 
 
+------=== dd Feb 2024 ===------
+{
+== ABOUT
++ Link to UPDATES added
+
+== ACRONYMS
++ Electronics, Electrical, Medical updated
++ Micro-processor added
+
+== INDEX
++ A and M expanded
+
+== MAPS
++ Menu system started
++ Engineering added
++ Ikigai Venn Diagrams added
++ Johari Windows added
++ OSI Data Layer Model added
++ Unix Philosophy screen captures added
++ Why Why Why (Sheldon's version) added
+
+== YESTER-YEAR
++ Acknowledgements table created
++ A-Z friends added
++ Long-time friends added
+}
+
+
 ------=== 02 Feb 2024 ===------
 {
 == UPDATE
 + Table to Scroll conversions
-+ Table width and Screen width experiements
++ Table width and Screen width experiments
 }
-
 
 
 ------=== 31 Jan 2024 ===------

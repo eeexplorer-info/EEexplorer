@@ -1,4 +1,4 @@
-Acronyms Compiled - Electronics
+﻿Acronyms Compiled - Electronics
 
 
 A/D -- Analog to Digital Converter (ADC)
@@ -47,14 +47,14 @@ HVDC -- High Voltage Direct Current
 
 
 IC -- Integrated Circuit
-IEC -- International Electrotechnical Comission (Gen�ve)
+IEC -- International Electrotechnical Comission
 IEE -- Institute of Electrical Engineers (London)
 IEEE -- Institute of Electrical and Electronics Engineers (NY)
 IGBT -- Insulated Gate Bipolar Transistor
 IGFET -- Insulated Gate Field Effect Transistor
 IR -- InfraRed
 IRED -- InfraRed Emitting Diode
-ISO -- International Standards Organization (Gen�ve)
+ISO -- International Standards Organization
 
 
 JEDEC -- Joint Electron Devices Engineering Council
@@ -89,6 +89,9 @@ NTSC -- North american Television Standards Committee
 
 
 NPN -- Negative-Positive-Negative
+
+
+OLED -- Organic Light Emitting Diode
 
 
 PAL -- Phase Alternating Line (TV)

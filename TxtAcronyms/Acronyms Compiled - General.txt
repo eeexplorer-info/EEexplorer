@@ -11,7 +11,11 @@ CFEMU -- Construction Forestry Mining and Energy Union
 DIY -- do-it-yourself
 
 
+EFTPOS -- Electronic Funds Transfer Point of Sale
+
+
 PAP -- point-and-pay
+POS -- Point of Sale
 
 
 TED -- Technology, Education, Design
