@@ -3,8 +3,10 @@ Acronyms Compiled - Computer Software
 
 AI -- Artificial Intelligence
 ANSI -- American National Standard Institute (NY)
+APNG -- Animated Portable Network Graphics -- Good choice for lossless animation sequences (GIF is less performant)
 ASCII -- American Standard Code for Information Interchange
 API -- Application Programing Interface
+AVIF -- AV1 Image File Format -- Good choice for both images and animated images due to high performance.
 
 
 BASIC -- Beginners' All-purpose Symbolic Instruction Code
@@ -35,7 +37,7 @@ FORTRAN -- FORmula TRANslator
 FPU -- Floating Point Unit
 
 
-GIF -- Graphics Interchange Format
+GIF -- Graphics Interchange Format -- Good choice for simple images and animations.
 GPT -- GUID Partition Table
 GUI -- Graphical User Interface
 
@@ -47,7 +49,7 @@ HTML -- HyperText Mark-up Language (WWW)
 IDE -- Integrated Development Environment
 
 
-JPEG -- Joint Photographic Experts Group
+JPEG -- Joint Photographic Expert Group image -- Good choice for lossy compression of still images (currently the most popular).
 JSON -- JavaScript Object Notation
 
 
@@ -73,6 +75,7 @@ PDF -- Portable Document Format
 PERL -- Practical Extraction and Report Language
 PING -- Packet INternet Grouper (RFC-792)
 PL/1 -- Programming Language (version) 1
+PNG -- Portable Network Graphics -- Good choice for lossless compression of still images (slightly better quality than JPEG).
 POSIX -- Portable Operating System Interface (IEEE)
 POST -- Power On Self Test
 PS -- Post Script
@@ -92,6 +95,7 @@ SMPTE -- Society of Motion Pictures and Television Engineers
 SNA -- System Network Architecture (IBM)
 SQL -- Structured Query Language
 SSH -- Secure Shell
+SVG -- Scalable Vector Graphics -- Vector image format. Use for images that must be drawn accurately at different sizes.
 
 
 TIFF -- Tag Image File Format
@@ -109,6 +113,7 @@ VPN -- Virtual Private Network
 
 W3 -- World Wide Web (WWW)
 W3C -- World Wide Web Consortium
+WebP -- Web Picture format -- Excellent choice for both images and animated images.
 WMF -- Windows Meta File
 WWAN -- Wireless Wide Area Networks
 WWN -- World Wide Net

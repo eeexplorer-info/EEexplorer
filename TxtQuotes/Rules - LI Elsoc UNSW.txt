@@ -1,5 +1,7 @@
-ELSOC UNSW
+LINKEDIN: "ELSOC UNSW" RULES
 
+
+{
 The constituent society for all students in the school of Electrical Engineering and Telecommunications at UNSW
 
 
@@ -20,6 +22,7 @@ ELSOC is a student-led society which work closely with UNSW's School of Electric
 Our society hosts a range of social, industry and professional development events throughout the year including camps, barbecues, academic workshops, panel talks and our annual industry night.
 
 We represent a cohort of eager undergraduate students who all share a passion for innovating solutions to complex challenges.
+}
 
 
 // Rules - LI Elsoc UNSW.txt

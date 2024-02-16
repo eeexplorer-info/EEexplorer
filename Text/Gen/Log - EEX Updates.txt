@@ -1,7 +1,36 @@
 Log - EEX Updates
 
 
-------=== dd Feb 2024 ===------
+
+------=== 16 Feb 2024 ===------
+{
+== ABOUT
++ Navigation instructions untangled
+
+== ALUMNI Activity
++ Ctee Honour Board created & populated
++ Tables untangled & unified
+
+== CHARTS & TABLES
++ Discrete component quick lookup added
++ Resistor E-Series 3, 6, 12, 24, 96 added
++ Telecommunication twisted pairs added
++ same, Cat 1-8 cable definitions added
++ Tables: Chemistry, Computer Data unified
++ same: Connectors, Human Communication,
++ same: Logic Gates, Mathematics, Physics,
++ same: Telecom, Three Phase
+
+== ELSOC Activity
++ Tables untangled & unified
+
+== WORK n LIFE
++ Fortune cookie pop-up & down mechanism created
+}
+
+
+
+------=== 09 Feb 2024 ===------
 {
 == ABOUT
 + Link to UPDATES added
@@ -57,7 +86,7 @@ Log - EEX Updates
 ------=== 27 Jan 2024 ===------
 {
 == ASCII
-+ Dec-Hex-Oct-Bin simplified lookup
++ Dec-Hex-Oct-Bin lookup simplified
 
 == COMPUTER DATA
 + Connector Pinouts for Power supplies added
@@ -76,7 +105,7 @@ Log - EEX Updates
 == PATTERNS
 + Charts & Tables cleaned-up
 + Moon Eclipses & Phases 2016-2023 added
-+ Planet Movements 2024 cleaned up
++ Planet Movements 2024 cleaned-up
 
 == QUOTATIONS
 + More added to compilations
@@ -91,4 +120,9 @@ Log - EEX Updates
 + 
 + 
 
+}
+
+VERBS
+{
+added, cleaned-up, created, populated, simplified, started, unified, updated, untangled
 }

@@ -1,6 +1,7 @@
-About this group (ELSOC ALUMNI)
+FACEBOOK: 'ELSOC ALUMNI' RULES
 
 
+{
 A warm welcome to all our UNSW ELSOC Alumni!
 
 We would love to allow for past students to keep in touch with the society, UNSW School of Electrical Engineering & Telecommunications and with each other, as well as to provide opportunities for alumni and friends to connect.
@@ -18,6 +19,7 @@ Please feel free to add anyone to this group. All UNSW EE&T alumni are welcome!
 Private = Only members can see who's in the group and what they post.
 Visible = Anyone can find this group.
 History = Group created on June 3, 2020
+}
 
 
 // Rules - FB Elsoc Alumni.txt

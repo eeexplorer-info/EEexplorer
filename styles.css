@@ -1,4 +1,3 @@
-
 /*
 	style.css
 	
@@ -61,6 +60,10 @@ table {
 	width: 25rem;
 }
 
+.cell_txtcenter td {
+	text-align: center;
+}
+
 th {
 	text-align: center;
 }
@@ -84,6 +87,9 @@ h1 {
 	/*color: black; background-color: white;*/
 	color: white;
 	background-color: black;
+	padding: 10px;
+	border-radius: 2rem;
+	width: 25rem;
 }
 
 
@@ -91,7 +97,9 @@ h2 {
 	/*color: black; background-color: white;*/
 	color: white;
 	background-color: black;
-	padding: 15px;
+	border-radius: 2rem;
+	padding: 10px;
+	width: 15rem;
 }
 
 
@@ -150,12 +158,13 @@ h6 {
 	border-radius: 2rem;
 	font-size: 1.25em;
 	/* width:25%; */
-	width: 20rem;
+	width: 15rem;
 }
 
 /* For Laptop or Desktop: */
 img {
-	width:20rem;
+	width:25rem;
+	border-radius: 2rem;
 }
 
 figcaption {
@@ -164,7 +173,7 @@ figcaption {
 	border-radius: 1.5rem;
 	padding: 2px;
 	font-size:0.875rem;
-	width: 20rem;
+	width: 25rem;
 }
 
 /* For Laptop or Desktop: */
@@ -180,18 +189,19 @@ iframe {
 
 @media only screen and (max-width:800px) {
 	/* For tablets: */
-	h4, h5, h6 {
+	h2, h3, h4, h5, h6 {
 	  /* width: 50%; */
 	  /* width: 20rem; */
 	  width: 50%;
 	}
 	img {
 		/* width:50%; 62%; */
-		width: 20rem;
+		width: 25rem;
+		border-radius: 2rem;
 	}	
 	figcaption {
 		/* width: 80%;/* 62%;	same a for image */
-		width: 20rem;
+		width: 25rem;
 		border: 1px white solid;
 		border-radius: 2rem;
 	}
@@ -199,11 +209,14 @@ iframe {
 		width: 80%;
 		/* width: 20rem; */
 	}
+	table {
+		width: 25rem;
+	}
   }
 
 @media only screen and (max-width:500px) {
 	/* For mobile phones: */
-	h4, h5, h6 {
+	h2, h3, h4, h5, h6 {
 	  /* width: 60%; */
 	  width: 20rem;
 	}
@@ -211,6 +224,7 @@ iframe {
 		/*height:10%;*/
 		/* width: 80%; */
 		width: 20rem;
+		border-radius: 2rem;
 	}
 	figcaption {
 		/* width:80%;	same a for image */
@@ -223,7 +237,7 @@ iframe {
 		/* width: 20rem; */
 	}
 	table {
-		width: 20rem;
+		width: 80%;
 	}
 }
 
@@ -350,7 +364,6 @@ a:active {
 	background-color: orange;
 }
 
-
 .colourYW {
 	border-style: solid;
 	border-color: gold;
@@ -371,10 +384,55 @@ a:active {
 	border-color: orange;
 }
 
+/* not being used as yet */
 .ndx_main {
 	position: sticky;
 	/* top: 0; */
 	height: 400 px;
 	overflow-y: auto;
 	/* width: 100%; */
+	text-align:center;
 }
+
+
+details > summary {
+	padding: 4px;
+	width: 200px;
+	background-color: #262626;
+	border: none;
+	/* box-shadow: 1px 1px 2px #bbbbbb; */
+	cursor: pointer;
+	color: lightgreen;
+  }
+  
+  details > p {
+	/* background-color: black; */
+	background-color: #262626;
+	padding: 4px;
+	border: 1px lightgreen solid;
+	border-radius: 2rem;
+	/* margin: 0; */
+	/* box-shadow: 1px 1px 2px #bbbbbb; */
+	/* width: 200 px; */
+	min-width: 100px;
+	max-width: 400px;
+  }
+
+  /* .hero-image {
+	background-image: url("background_01.jpg");
+	background-color: #cccccc;
+	height: 60px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+  }
+  
+  .hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+  } */

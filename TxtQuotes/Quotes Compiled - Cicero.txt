@@ -23,6 +23,5 @@ Quotes Compiled - Cicero
 ~~ Cicero
 
 
-Any man can make mistakes,
-but only an idiot persists in his error.
+Any man can make mistakes, but only an idiot persists in his error.
 ~~ Cicero
