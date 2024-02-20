@@ -1,6 +1,46 @@
 Log - EEX Updates
 
 
+------=== 20 Feb 2024 ===------
+{
+== ALUMNI
++ Ctee Members for 2012 found & added
++ Connect Night Flyers found more from emails & added here
++ Publications table created & populated
++ Online publications directory linked
++ Photos for 2023 Site tour uploaded
++ Email to 2017 Tesla Exhibition site tour added
++ Flyer for same uploaded
+
+== ELSOC
++ Links to campus photos updated
++ Photos - Announcement 2016 uploaded
++ Photos - Bldg Surrounds 2017, 2022 uploaded
++ Photos - Common Room 2022 uploaded
++ Photos - Control Lab 2021 uploaded
++ Photos - Floor Wander 2022 uploaded
++ Photos - Floor Wander 2022 (Luke Welfare) uploaded
++ Photos - LG1 / Burrowes 2022 uploaded
++ Photos - Maker Space 2022 uploaded
++ Photos - Study Area 2022 uploaded
++ Publications table created & populated
++ Online publications directory linked
+
+== INDEX
++ Elsoc & Alumni entries populated
++ Group under E populated
+
+== SCHOOL
++ Building Renewal table created
++ Online directories linked
++ Photos - ElecEng more found & uploaded
++ Photos - Roundhose Renewal found & uploaded
+
+== WORK N LIFE
++ Online directories for Hobbies linked
++ 
+}
+
 
 ------=== 16 Feb 2024 ===------
 {
