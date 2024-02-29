@@ -1,13 +1,42 @@
 Log - EEX Updates
 
+
+------=== 29 Feb 2024 ===------
+{
+== ELSOC
++ Common Room Photos from 2017-19, 22, 23 added
++ Constitution for 2020 via JacksonS - link fixed
++ Exec & Reps for 2014 - Honour Board updated
++ Past & Present Night Photos from 2016-19, 22 added
++ Social graphics for 2024 updated
++ Team profiles for 2016-17, 19 uploaded
+
+== SCHOOL \ Related
++ Building Renewal title changed to Renewal
+++ Option table restructured
++ Light Rail construction - some photos 2016-23 added
++ Roundhouse Photos from 2019, 22, 23 added
++ Renewal of Village Green section added
++ Photos from 2016 added
++ 
+
+== PATTERNS & CYCLES
++ Directory tree cleaned-up & populated
+++ Charts of Planetary Movements for 2012-2024 added
+++ Chart of Retrogrades for 2021 added
+++ Chart of Moon Eclipses 2019-22 added
++ Chart of Financial Trends (1924-2059) added
+}
+
+
 ------=== 23 Feb 2024 ===------
 {
 == ELSOC
 + Social Graphics for 2020-2024 - links added
 + Photos for 2022 uploaded
-+ same for 2024 so far
-+ same for 2021 only a handful -- Covid times
-+ same for 2020 only a handful -- covid times
+++ same for 2024 so far
+++ same for 2021 only a handful -- Covid times
+++ same for 2020 only a handful -- covid times
 }
 
 
