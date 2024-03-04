@@ -1,0 +1,240 @@
+Log - EEX Updates
+
+
+------=== 04 Mar 2024 ===------
+{
+== ALUMNI
++ Directory structure for Posts created
++ Index to links found again and uploaded
++ Nikola Tesla Exhibition at UNSW - links added
++ 
+
+== CORRECTIONS
++ Index for D - spelling options fixed
++ Quotations
+[a] - spelling fixed for Anonymous, Aurelius, Persian
+[b] - text visibility fixed for Nikola Tesla, Mahatma Ghandi
+[c] - unprintable characters made visible for Douglas Adams
++ Work Collar types - spelling corrected
+}
+
+
+------=== 29 Feb 2024 ===------
+{
+== ELSOC
++ Common Room Photos from 2017-19, 22, 23 added
++ Constitution for 2020 via JacksonS - link fixed
++ Exec & Reps for 2014 - Honour Board updated
++ Past & Present Night Photos from 2016-19, 22 added
++ Social graphics for 2024 updated
++ Team profiles for 2016-17, 19 uploaded
+
+== SCHOOL \ Related
++ Building Renewal title changed to Renewal
+++ Option table restructured
++ Light Rail construction - some photos 2016-23 added
++ Roundhouse Photos from 2019, 22, 23 added
++ Renewal of Village Green section added
++ Photos from 2016 added
+
+== PATTERNS & CYCLES
++ Directory tree cleaned-up & populated
+++ Charts of Planetary Movements for 2012-2024 added
+++ Chart of Retrogrades for 2021 added
+++ Chart of Moon Eclipses 2019-22 added
++ Chart of Financial Trends (1924-2059) added
+}
+
+
+------=== 23 Feb 2024 ===------
+{
+== ELSOC
++ Social Graphics for 2020-2024 - links added
++ Photos for 2022 uploaded
+++ same for 2024 so far
+++ same for 2021 only a handful -- Covid times
+++ same for 2020 only a handful -- covid times
+}
+
+
+------=== 21 FEB 2024 ===------
+{
+== CORRECTIONS
++ Image for 2015 Alumni Connect Flyer uploaded
++ Image for Roundhouse Renewal uploaded
++ Missing shortcuts to Buidling Renewal added
++ Pioneers of Electricity mugshots - link fixed
+
+== ELSOC
++ Photos - BBQ Jun 2021 found and uploaded
+
+== PATTERNS
++ Planet Movement Table for 2024 compressed
+}
+
+
+------=== 20 Feb 2024 ===------
+{
+== ALUMNI
++ Ctee Members for 2012 found & added
++ Connect Night Flyers found more from emails & added here
++ Publications table created & populated
++ Online publications directory linked
++ Photos for 2023 Site tour uploaded
++ Email to 2017 Tesla Exhibition site tour added
++ Flyer for same uploaded
+
+== ELSOC
++ Links to campus photos updated
++ Photos - Announcement 2016 uploaded
++ Photos - Bldg Surrounds 2017, 2022 uploaded
++ Photos - Common Room 2022 uploaded
++ Photos - Control Lab 2021 uploaded
++ Photos - Floor Wander 2022 uploaded
++ Photos - Floor Wander 2022 (Luke Welfare) uploaded
++ Photos - LG1 / Burrowes 2022 uploaded
++ Photos - Maker Space 2022 uploaded
++ Photos - Study Area 2022 uploaded
++ Publications table created & populated
++ Online publications directory linked
+
+== INDEX
++ Elsoc & Alumni entries populated
++ Group under E populated
+
+== SCHOOL
++ Building Renewal table created
++ Online directories linked
++ Photos - ElecEng more found & uploaded
++ Photos - Roundhose Renewal found & uploaded
+
+== WORK N LIFE
++ Online directories for Hobbies linked
++ 
+}
+
+
+------=== 16 Feb 2024 ===------
+{
+== ABOUT
++ Navigation instructions untangled
+
+== ALUMNI Activity
++ Ctee Honour Board created & populated
++ Tables untangled & unified
+
+== CHARTS & TABLES
++ Discrete component quick lookup added
++ Resistor E-Series 3, 6, 12, 24, 96 added
++ Telecommunication twisted pairs added
++ same, Cat 1-8 cable definitions added
++ Tables: Chemistry, Computer Data unified
++ same: Connectors, Human Communication,
++ same: Logic Gates, Mathematics, Physics,
++ same: Telecom, Three Phase
+
+== ELSOC Activity
++ Tables untangled & unified
+
+== WORK n LIFE
++ Fortune cookie pop-up & down mechanism created
+}
+
+
+
+------=== 09 Feb 2024 ===------
+{
+== ABOUT
++ Link to UPDATES added
+
+== ACRONYMS
++ Electronics, Electrical, Medical updated
++ Micro-processor added
+
+== INDEX
++ A and M expanded
+
+== MAPS
++ Menu system started
++ Engineering added
++ Ikigai Venn Diagrams added
++ Johari Windows added
++ OSI Data Layer Model added
++ Unix Philosophy screen captures added
++ Why Why Why (Sheldon's version) added
+
+== YESTER-YEAR
++ Acknowledgements table created
++ A-Z friends added
++ Long-time friends added
+}
+
+
+------=== 02 Feb 2024 ===------
+{
+== UPDATE
++ Table to Scroll conversions
++ Table width and Screen width experiments
+}
+
+
+------=== 31 Jan 2024 ===------
+{
+== PROJECT INSPIRATION
++ "Core Electronics" company added
++ Launch Menu at page bottom untangled
++ Table headings & widths unified
+
+== SOURCE FILES
++ Meta Tags to help Search Engines added
+
+== SUPPORTIVE / INFORMATIVE
++ First Aid: Stings, Bites and Poisons added
++ Fire Danger Ratings, Extinguisher types added
++ Emergency & State Services added
+}
+
+
+------=== 27 Jan 2024 ===------
+{
+== ASCII
++ Dec-Hex-Oct-Bin lookup simplified
+
+== COMPUTER DATA
++ Connector Pinouts for Power supplies added
++ Connector Pinouts for Data comm channels added
++ Bus Architectures - some added
+
+== EE-STAFF
++ Names from 1947 added
++ Head-of-school Photos added
++ Recalled names without years added
++ A to Z list added
+
+== INDEX
++ A to Z started
+
+== PATTERNS
++ Charts & Tables cleaned-up
++ Moon Eclipses & Phases 2016-2023 added
++ Planet Movements 2024 cleaned-up
+
+== QUOTATIONS
++ More added to compilations
+}
+
+
+
+------=== dd Mmm 2024 ===------
+{
+== 
++ 
++ 
++ 
+
+}
+
+VERBS
+{
+added, cleaned-up, created, populated, simplified, started, unified, updated, untangled
+}
