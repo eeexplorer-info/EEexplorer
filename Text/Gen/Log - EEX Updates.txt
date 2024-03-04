@@ -1,6 +1,24 @@
 Log - EEX Updates
 
 
+------=== 04 Mar 2024 ===------
+{
+== ALUMNI
++ Directory structure for Posts created
++ Index to links found again and uploaded
++ Nikola Tesla Exhibition at UNSW - links added
++ 
+
+== CORRECTIONS
++ Index for D - spelling options fixed
++ Quotations
+[a] - spelling fixed for Anonymous, Aurelius, Persian
+[b] - text visibility fixed for Nikola Tesla, Mahatma Ghandi
+[c] - unprintable characters made visible for Douglas Adams
++ Work Collar types - spelling corrected
+}
+
+
 ------=== 29 Feb 2024 ===------
 {
 == ELSOC
@@ -18,7 +36,6 @@ Log - EEX Updates
 + Roundhouse Photos from 2019, 22, 23 added
 + Renewal of Village Green section added
 + Photos from 2016 added
-+ 
 
 == PATTERNS & CYCLES
 + Directory tree cleaned-up & populated

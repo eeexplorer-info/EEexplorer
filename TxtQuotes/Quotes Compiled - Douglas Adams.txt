@@ -92,7 +92,7 @@ The Improbability Drive is a spaceship propulsion system designed by the equally
 
 
 {
-You’re not welcome to Margrathea – the one-of-a-kind destination in the galaxy! Forget sunbathing; here, we offer the thrilling experience of interstellar missile dodging. Your vacation will be a blast – quite literally!
+You're not welcome to Margrathea - the one-of-a-kind destination in the galaxy! Forget sunbathing; here, we offer the thrilling experience of interstellar missile dodging. Your vacation will be a blast - quite literally!
 }
 
 
