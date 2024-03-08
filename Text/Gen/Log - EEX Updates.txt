@@ -1,6 +1,25 @@
 Log - EEX Updates
 
 
+------=== 08 Mar 2024 ===------
+Alumni Post index, Ctee mtgs & Lightrail snaphots
+{
+== ALUMNI
++ Ctee Meetings table populated and uploaded
++ Index of Posts updated & uploaded
++ PDF of all my 2023 Posts uploaded
+
+== CODING
++ All Page Images converted from JPG to WEBP to render quicker
+
+== CORRECTIONS
++ Index - Acknowledgement (current/ancient) links fixed
+
+== SCHOOL
++ Anzac Pde Lightrail construction snapshots added
+}
+
+
 ------=== 04 Mar 2024 ===------
 {
 == ALUMNI
