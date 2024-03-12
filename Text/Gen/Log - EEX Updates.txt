@@ -1,6 +1,38 @@
 Log - EEX Updates
 
 
+------=== 12 Mar 2024 ===------
+{
+== TOOLBOX
+[a] CHEATSHETS \ CODING = C, C++, Pascal links added
+[b] DICTIONARY \ DICTIONARY
++ Scrabble Dictionary, Word Finder added
+[b] DICTIONARY \ GRAMMAR
++ Parts of Speech added
+[c] DOCUMENTATION \ DRAWING CHARTS
++ Graph paper generation sites (A4, Print, Virtual) added
+
+[c] NOTEBOOKS section added
++  (eex240214) Forest Mims, Drill & Tap unfinished
+
+[d] CHARTS & TABLES
++ CONVERSION main table created
++ Two-way sub-tables with interconnected links created
++ same (AREA, DIAMETER, DISTANCE, LENGTH) filled
++ same (PRESSURE, SPEED, TEMPERATURE) filled
++ same (TORQUE, VOLUME, WEIGHT ) filled
++ formuale for all conversion tables added
++ LOGIC - DL/RTL/TTL created
+|
++ UNVERSAL CONSTANTS table created
++ same Chemical, Mathematical, Physical added
+
+== WEBISTE \ SUPPORTIVE
++ Australian Health Resource Directory added
+
+}
+
+
 ------=== 08 Mar 2024 ===------
 Alumni Post index, Ctee mtgs & Lightrail snaphots
 {
