@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 14 Mar 2024 ===------
+{
+== TOOLBOX \ PATTERNS
++ Charts of Moon's Eclipses (2015-2026) updated
+}
+
+
 ------=== 12 Mar 2024 ===------
 {
 == TOOLBOX
@@ -29,7 +36,6 @@ Log - EEX Updates
 
 == WEBISTE \ SUPPORTIVE
 + Australian Health Resource Directory added
-
 }
 
 
