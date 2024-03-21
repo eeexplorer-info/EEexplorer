@@ -3,6 +3,14 @@ Quotes Compiled - Musashi
 // Miyamoto Musashi
 
 
+"Failure to understand the fundamental concepts will make it difficult to excel."
+/ Miyamoto Musashi /
+
+
+"Man cannot understand the art he is studying if he only looks for the end result without taking the time to delve deeply into the reasoning of the study."
+/ Miyamoto Musashi /
+
+
 "It may seem difficult at first, but everything is difficult at first."
 - Miyamoto Musashi -
 
@@ -28,5 +36,6 @@ Quotes Compiled - Musashi
 "The sword has to be more than a simple weapon; it has to be an answer to life's questions."
 ~~ Miyamoto Musashi
 The Book of Five Rings: The Classic Guide to Strategy
+
 
 
