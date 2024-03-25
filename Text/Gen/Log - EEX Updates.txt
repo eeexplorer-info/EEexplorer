@@ -1,6 +1,22 @@
 Log - EEX Updates
 
 
+------=== 25 Mar 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Connect Nights - more dates found and updated
+
+== TOOLBOX
+[a] CHARTS - Computer Data lookup tables expanded
++ same - Online UNIT CONVERTER added
+[b] PIONEERS of Electricity table reogranised
+[c] PUBLIC TRANSPORT links for NSW added
+
+== WORK n LIFE
++ MAPS - Sydney Train, Bus, Ferry Networks added
+}
+
+
 ------=== 21 Mar 2024 ===------
 {
 == INDEX
@@ -15,7 +31,7 @@ Log - EEX Updates
 ------=== 12 Mar 2024 ===------
 {
 == TOOLBOX
-[a] CHEATSHETS \ CODING = C, C++, Pascal links added
+[a] CHEAT SHEETS \ CODING = C, C++, Pascal links added
 [b] DICTIONARY \ DICTIONARY
 + Scrabble Dictionary, Word Finder added
 [b] DICTIONARY \ GRAMMAR
@@ -35,10 +51,10 @@ Log - EEX Updates
 + formuale for all conversion tables added
 + LOGIC - DL/RTL/TTL created
 |
-+ UNVERSAL CONSTANTS table created
++ UNIVERSAL CONSTANTS table created
 + same Chemical, Mathematical, Physical added
 
-== WEBISTE \ SUPPORTIVE
+== WEBSITE \ SUPPORTIVE
 + Australian Health Resource Directory added
 }
 
@@ -78,7 +94,6 @@ Alumni Post index, Ctee mtgs & Lightrail snaphots
 [c] - unprintable characters made visible for Douglas Adams
 + Work Collar types - spelling corrected
 }
-
 
 ------=== 29 Feb 2024 ===------
 {
@@ -123,7 +138,7 @@ Alumni Post index, Ctee mtgs & Lightrail snaphots
 == CORRECTIONS
 + Image for 2015 Alumni Connect Flyer uploaded
 + Image for Roundhouse Renewal uploaded
-+ Missing shortcuts to Buidling Renewal added
++ Missing shortcuts to Building Renewal added
 + Pioneers of Electricity mugshots - link fixed
 
 == ELSOC
@@ -167,7 +182,7 @@ Alumni Post index, Ctee mtgs & Lightrail snaphots
 + Building Renewal table created
 + Online directories linked
 + Photos - ElecEng more found & uploaded
-+ Photos - Roundhose Renewal found & uploaded
++ Photos - Roundhouse Renewal found & uploaded
 
 == WORK N LIFE
 + Online directories for Hobbies linked

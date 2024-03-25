@@ -1,5 +1,6 @@
 Quotes Compiled - Bertrand Russell
 
+
 The Ten Commandments
 
 1. Do not lie to yourself.
@@ -31,3 +32,7 @@ The Ten Commandments
 
 "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people are so full of doubts."
 ~~ Bertrand Russell
+
+
+"A stupid man's report of what a clever man says can never be accurate, because he unconsciously translates what he hears into something he can understand."
+-- Bretand Russell
