@@ -28,7 +28,10 @@
     font-family: Courier, Verdana, Helvetica, sans-serif;
 }
 
-
+#widthA4page {
+	width: 40%;
+  }
+  
 table, th, td {
   border: 1px solid white; /*#262626; /* black; /*1px solid white; /*black;*/
   border-collapse: collapse;
@@ -355,6 +358,13 @@ a:active {
 	font-size: 0.875rem;
 }
 
+.rightWT{
+	text-align: right;
+	color: white;
+	background-color: #262626; /* gray;*/
+	font-size: 0.875rem;
+}
+
 .left {
 	text-align: left;
 }
@@ -461,3 +471,8 @@ details > summary {
 	color: white;
   } */
   
+  .noborders td {
+	border:0;
+
+  }
+

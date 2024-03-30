@@ -1,12 +1,23 @@
 Log - EEX Updates
 
 
+------=== 31 Mar 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Social Network table of links simplified
++ Shared post Section Headings 2019..2023 populated
++ Graphic for image header was sketched & scanned
++ Navigation (PRV, NXT) at Bottom and Top Right of Post added
++ 
+} morning
+
 
 ------=== 29 Mar 2024 ===------
 {
 == TOOLBOX
 + PUBLIC TRANSPORT - Fuel Check site added
-+ CHARTS - Conversions for TV Screen sizes, Torque populated
++ CHARTS - Conversions for TV Screen sizes populated
++ same - for Torque populated
 
 == ALUMNI ACTIVITY
 + Table & tree of Posts created
