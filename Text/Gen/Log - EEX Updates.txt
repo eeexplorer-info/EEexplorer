@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 01 Mmm 2024 ===------
+{
+== ALUMNI ACTIVITIY
++ Post for December 2023 populated
+} morning
+
+
 ------=== 31 Mar 2024 ===------
 {
 == ALUMNI ACTIVITY
@@ -9,7 +16,7 @@ Log - EEX Updates
 + Graphic for image header was sketched & scanned
 + Navigation (PRV, NXT) at Bottom and Top Right of Post added
 + 
-} morning
+}
 
 
 ------=== 29 Mar 2024 ===------
