@@ -1,10 +1,19 @@
 Log - EEX Updates
 
 
-------=== 01 Mmm 2024 ===------
+
+------=== 02 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
++ POSTS (2019-current): typos in titles corrected
++ Trialling "View as EPUB, MOBI and PDF" added
+}
+
+
+------=== 01 Apr 2024 ===------
 {
 == ALUMNI ACTIVITIY
-+ Post for December 2023 populated
++ Posts for December 2023 populated
 } morning
 
 
