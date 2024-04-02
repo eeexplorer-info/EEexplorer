@@ -365,6 +365,13 @@ a:active {
 	font-size: 0.875rem;
 }
 
+.leftWT{
+	text-align: left;
+	color: white;
+	background-color: #262626; /* gray;*/
+	font-size: 0.875rem;
+}
+
 .left {
 	text-align: left;
 }
