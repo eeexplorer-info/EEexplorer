@@ -2,11 +2,15 @@ Log - EEX Updates
 
 
 
-------=== 02 Apr 2024 ===------
+------=== 05 Apr 2024 ===------
 {
 == ALUMNI ACTIVITY
-+ POSTS (2019-current): typos in titles corrected
+POSTS (2019-current): typos in titles corrected
 + Trialling "View as EPUB, MOBI and PDF" added
++ This morning's post added
+
+== TOOLBOX
++ CALENDAR - Table of UNSW and School Terms added
 }
 
 
