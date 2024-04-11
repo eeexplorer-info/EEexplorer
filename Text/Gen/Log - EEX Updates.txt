@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 11 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Background for Prof. Neville Rees added
++ Background for Dr Radzyner added
+}
+
 
 ------=== 06 Apr 2024 ===------
 {
