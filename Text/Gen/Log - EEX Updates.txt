@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 14 Apr 2024 ===------
+{
+== SCHOOL RELATED
++ FUNERALS menu for Staff & Students added
++ Neville Rees, Robert Radzyner pages created
+}
+
+
 ------=== 11 Apr 2024 ===------
 {
 == ALUMNI ACTIVITY
