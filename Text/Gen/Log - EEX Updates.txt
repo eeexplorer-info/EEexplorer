@@ -1,6 +1,30 @@
 Log - EEX Updates
 
 
+------=== 18 Apr 2024 ===------
+{
+== ABOUT page
++ Document types: ePUB & MOBI added
++ Funeral section added
+
+== ALUMNI Page
++ Posts for ANZAC and Mother's Day setup
+
+== CODING
++ Navigation Bar made to stick on screen bottom
++ Shortcut links on all pages reformatted
+
+== FUNERAL Page
++ Staff List link added
+
+== INDEX page
++ Funeral page for Staff & Students added
+
+== STAFF EMPLOYED page
++ Link to Funeral page added
+}
+
+
 ------=== 16 Apr 2024 ===------
 {
 == ALUMNI ACTIVITY
