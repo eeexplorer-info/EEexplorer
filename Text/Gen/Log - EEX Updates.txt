@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 19 Apr 2024 ===------
+{
+== CODING 
+- Btm sticky menu bar to rest of pages added
+- Main Menu page overhauled
+- Responsive image sizes for Laptop / Desktop corrected
+}
+
 ------=== 18 Apr 2024 ===------
 {
 == ABOUT page
