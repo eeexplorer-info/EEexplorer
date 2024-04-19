@@ -88,8 +88,7 @@ table {
 }
 
 
-
-th {
+td, th {
 	text-align: center;
 }
 
@@ -128,7 +127,7 @@ h2 {
 }
 
 
-/* Should be for h7 */
+/* Should be for h7 in YW, BU, LM, OR */
 h3 {
 	/* For Laptop or Desktop: */
 	color: black;
@@ -186,9 +185,14 @@ h6 {
 	width: 15rem;
 }
 
+
+.img_pghdr {
+	width: 25rem;
+  }
+
 /* For Laptop or Desktop: */
 img {
-	width:25rem;
+	width:68rem;
 	border-radius: 2rem;
 }
 
@@ -205,7 +209,7 @@ figcaption {
 iframe {
 	
 	background-color: #e6e6e6;
-	width: 80%;
+	width: 35%;
 	/* width: 20rem; */
 	height:400px;
 	border:none;
@@ -220,12 +224,12 @@ iframe {
 	}
 	img {
 		/* width:50%; 62%; */
-		/* width: 25rem; */
-		width: 80%;
+		/* width: 40rem; */
+		width: 90%;
 		border-radius: 2rem;
 	}	
 	figcaption {
-		/* width: 80%;/* 62%;	same a for image */
+		/* /* 62%;	same a for image */
 		width: 25rem;
 		border: 1px white solid;
 		border-radius: 2rem;
@@ -244,17 +248,17 @@ iframe {
 	/* For mobile phones: */
 	h2, h3, h4, h5, h6 {
 	  /* width: 60%; */
-	  width: 20rem;
+	  width: 15rem;
 	}
 	img {
 		/*height:10%;*/
-		width: 80%;
-		/* width: 20rem; */
+		width: 90%;
+		/* width: 28rem; */
 		border-radius: 2rem;
 	}
 	figcaption {
 		/* width:80%;	same a for image */
-		width: 80%; 
+		 
 		border: 1px white solid;
 		border-radius: 2rem;
 	}
@@ -484,13 +488,5 @@ details > summary {
 	border:0;
   }
 
-  .widthA4page {
-	table {
-		width: 40%;
-	}
-	img {
-		width: 40%;
-	}
-  }
-
   .fixed-nav-bar-btm { position: fixed; bottom: 0; left: 0; z-index: 9999; width: 100%; height: 70px; background-color: #262626; }
+
