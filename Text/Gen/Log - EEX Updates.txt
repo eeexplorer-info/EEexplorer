@@ -1,13 +1,20 @@
 Log - EEX Updates
 
 
+------=== 22 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
+- ANZAC Day post added
+}
+
+
+
 ------=== 20 Apr 2024 ===------
 {
 == CODING
 - Site-Map structure reformatted
 - Text alignment in post & some tables corrected
 }
-
 
 
 ------=== 19 Apr 2024 ===------
@@ -17,6 +24,7 @@ Log - EEX Updates
 - Main Menu page overhauled
 - Responsive image sizes for Laptop / Desktop corrected
 }
+
 
 ------=== 18 Apr 2024 ===------
 {
