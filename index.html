@@ -57,17 +57,38 @@ File: index.html
 			<br><br>
 			<!-- <table class="cell_txtcenter" class="noborders" > -->
 			<table class="noborders" >
-				<th>ACTIVITY</th><th>LOOK-UP</th><th>NAVIGATE</th><th>VERSION</th>
-				<tr><td>|</td><td>|</td><td>|</td><td>|</td></tr>
-				<tr><td><a href="0_HmAlumni.html">ALUMNI</a></td><td><a href="0_HmToolbox.html">TOOLBOX</a></td><td><a href="0_HmIndex.html">INDEX</a></td><td><a href="0_HmUpdates.html">UPDATES</a></td></tr>
-				<tr><td>|</td><td>|</td><td>|</td><td>|</td></tr>
-				<tr><td><a href="0_HmElsoc.html">ELSOC</a></td><td><a href="0_HmWork+Life.html">WORK & LIFE</a></td><td>SEARCH</td><td></td></tr>
-				<tr><td>|</td><td>|</td><td>|</td><td>|</td></tr>
-				<tr><td><a href="0_HmSchool.html">SCHOOL</a></td><td><a href="0_HmYesterYear.html">YESTER-YEAR</a></td><td><a href="0_HmSiteMap.html">SITE-MAP</a></td><td></td></tr>
-				<tr><td></td><td></td><td></td><td>22 APR 2024</td></tr>
+				<!-- <th class="center">ACTIVITY</th><th class="center">WORKSHOP</th><th class="center">NAVIGATE</th><th class="center">VERSION</th>
+				<tr><td class="center">|</td><td class="center">|</td><td class="center">|</td><td class="center">|</td></tr>
+				<tr><td class="center"><a href="0_HmAlumni.html">ALUMNI</a></td><td class="center"><a href="0_HmToolbox.html">TOOLBOX</a></td><td class="center"><a href="0_HmIndex.html">INDEX</a></td><td class="center"><a href="0_HmUpdates.html">UPDATES</a></td></tr>
+				<tr><td class="center">|</td><td class="center">|</td><td class="center">|</td><td class="center">|</td></tr>
+				<tr><td class="center"><a href="0_HmElsoc.html">ELSOC</a></td><td class="center"><a href="0_HmWork+Life.html">WORK & LIFE</a></td><td class="center">SEARCH</td><td></td></tr>
+				<tr><td class="center">|</td><td class="center">|</td><td class="center">|</td><td class="center">|</td></tr>
+				<tr><td class="center"><a href="0_HmSchool.html">SCHOOL</a></td><td class="center"><a href="0_HmYesterYear.html">YESTER-YEAR</a></td><td class="center"><a href="0_HmSiteMap.html">SITE-MAP</a></td><td></td></tr>
+				<tr><td></td><td></td><td></td><td class="center">22 APR 2024</td></tr> -->
+
+				<th class="center">ACTIVITY</th><th class="center">WORKSHOP</th>
+				<tr><td class="center">|</td><td class="center">|</td>
+				<tr><td class="center"><a href="0_HmAlumni.html">ALUMNI</a></td><td class="center"><a href="0_HmToolbox.html">TOOLBOX</a></td>
+				<tr><td class="center">|</td><td class="center">|</td>
+				<tr><td class="center"><a href="0_HmElsoc.html">ELSOC</a></td><td class="center"><a href="0_HmWork+Life.html">WORK & LIFE</a></td>
+				<tr><td class="center">|</td><td class="center">|</td>
+				<tr><td class="center"><a href="0_HmSchool.html">SCHOOL</a></td><td class="center"><a href="0_HmYesterYear.html">YESTER-YEAR</a>
+				<tr><td></td><td></td>
 			</table>
 
 			<br><br>
+			<!-- <table  class="noborders" >
+				<th class="center">NAVIGATE</th>
+				<tr>
+					<td class="center">
+						<a href="0_HmAbout.html">ABOUT</a>, 
+						<a href="0_HmIndex.html">INDEX</a>, 
+						<a href="#"></a>SEARCH</a>, 
+						<a href="0_HmSiteMap.html">SITE-MAP</a>, 
+						<a href="0_HmUpdates.html">UPDATES</a>
+					</td>
+				</tr>
+			</table> -->
 			<!-- <table class="noborders" > -->
 				<!-- <table>
 				<th>PANEL</th><th>CIRCUIT</th>
@@ -123,12 +144,56 @@ File: index.html
 	<footer>
 		<nav class="fixed-nav-bar-btm">
 			<center>
-				<br>
-				<table class="noborders">
+				<div class="dropup">
+					<button class="dropbtnup">ACTIVITY</button>
+					<div class="dropup-content">
+						<a href="0_HmAlumni.html">ALUMNI</a>
+						<a href="0_HmElsoc.html">ELSOC</a>
+						<a href="0_HmSchool.html">SCHOOL</a>
+					</div>
+				</div>
+				
+				<div class="dropup">
+					<button class="dropbtnup">WORKSHOP</button>
+					<div class="dropup-content">
+						<a href="0_HmToolbox.html">TOOLBOX</a>
+						<a href="0_HmWork+Life.html">WORK & LIFE</a>
+						<a href="0_HmYesterYear.html">YESTER-YEAR</a>
+					</div>
+				</div>
+
+				<div class="dropup">
+					<button class="dropbtnup">HOME</button>
+					<div class="dropup-content">
+						<a href="index.html">HOME</a>
+					</div>
+				</div>
+				
+				<div class="dropup">
+					<button class="dropbtnup">LOOK-UP</button>
+					<div class="dropup-content">
+						<a href="0_HmIndex.html">INDEX</a>
+						<a href="0_HmSiteMap.html">SITE-MAP</a>
+						<hr>
+						<a href="0_HmAbout.html">ABOUT</a>
+						<a href="0_HmUpdates.html">UPDATES</a>
+						<a href=""></a>LAST: 240421
+					</div>
+				</div>
+			
+				<div class="dropup">
+					<button class="dropbtnup">SEARCH</button>
+					<div class="dropup-content">
+						<a href="0_HmSearch.html">SEARCH</a>
+					</div>
+				</div>
+
+				<!-- <br> -->
+				<!-- <table class="noborders">
 					<tr><td class="left"><a href=""></a>MENU</td>
 						<td class="center"><a href="index.html">HOME</a></td>
 						<td class="right"><a href="0_HmIndex.html">INDEX</td>
-						<td class="right"><a href=""></a>SEARCH</td>
+						<td class="right"><a href=""></a>SEARCH</td> -->
 						<!-- <a href="0_HmAlumni.html">ALUMNI</a>, <a href="0_HmElsoc.html">ELSOC</a>, 
 						<a href="0_HmSchool.html">SCHOOL</a>, <a href="0_HmToolbox.html">TOOLBOX</a>, 
 						<a href="0_HmWork+Life.html">WORK & LIFE</a>, <a href="0_HmYesterYear.html">YESTER-YEAR</a>, ..,  
@@ -137,8 +202,8 @@ File: index.html
 						 -->
 						<!-- <a href=".html"></a>SEARCH</a> -  -->
 						<!-- <a href="0_HmSiteMap.html">SITE-MAP</a> -->
-					</tr>
-				</table>
+					<!-- </tr>
+				</table> -->
 			</center>
 		</nav>
 	</footer>
