@@ -689,7 +689,7 @@ details > summary {
 	 /* #262626; */
 	/* #04040; */
 	 /* #f1f1f1; */
-	bottom: 35px;
+	bottom: 40px;
 	min-width: 120px;
 	text-align: left;
 	/* 160px; */
@@ -701,7 +701,7 @@ details > summary {
   .dropup-content a {
 	color: lightgreen;
 	/* black; */
-	padding: 5px 5px;
+	padding: 10px 10px;
 	text-decoration: none;
 	display: block;
   }
