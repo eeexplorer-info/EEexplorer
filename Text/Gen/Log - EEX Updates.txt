@@ -3,8 +3,13 @@ Log - EEX Updates
 
 ------=== 24 Apr 2024 ===------
 {
+== ALUMNI
+- Posts for each year moves into separate files
+- Grid Table of Posts created
+- Grid Table overflow of Ctee mtgs fit to screen view
+
 == CODING
-- DropUp Menu at page bottoms added
+- DropUp Menu at ALL pages added
 }
 
 
