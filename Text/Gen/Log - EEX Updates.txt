@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 24 Apr 2024 ===------
+{
+== CODING
+- DropUp Menu at page bottoms added
+}
+
+
 ------=== 22 Apr 2024 ===------
 {
 == ALUMNI ACTIVITY
