@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+------=== 25 Apr 2024 ===------
+{
+== ALUMNI
+- Navigation system (PRV, NXT) for each Post added
++ same for each year index
+
+
+== CODING
+- Search Menu at ALL pages added
+- Created and tested
+- Search Items for List A-Z populated
+}
+
+
+
 ------=== 24 Apr 2024 ===------
 {
 == ALUMNI

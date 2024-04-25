@@ -1,8 +1,8 @@
 <!--
 Index for Site
-20 Jul 2023
+25 Apr 2024
 Rob Smith
-File: 0_HmIndex.html
+File: 0_HmSearch.html
 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -16,66 +16,519 @@ File: 0_HmIndex.html
 	<link rel="stylesheet" href="styles.css">
 	<meta name="language" content="English">
 	<meta name="author" content="Robert Smith">
-	<title>Index</title>
+	<title>Search</title>
 
 	<head>
 		<nav>
 			<a name="Top"></a>	
-
 		</nav>
+		<!--
+		How TO - Filter/Search List
+		https://www.w3schools.com/howto/howto_js_filter_lists.asp
+		25 Apr 2024 
+		internal = <head> <script> javascript ; </script> </head>
+		external = <script src="myScript.js"></script>
+		-->
+		<script>
+			function myFunction() {
+				// Declare variables
+				var input, filter, ul, li, a, i, txtValue;
+				input = document.getElementById('myInput');
+				filter = input.value.toUpperCase();
+				ul = document.getElementById("myUL");
+				li = ul.getElementsByTagName('li');
+			
+				// Loop through all list items, and hide those who don't match the search query
+				for (i = 0; i < li.length; i++) {
+					a = li[i].getElementsByTagName("a")[0];
+					txtValue = a.textContent || a.innerText;
+					if (txtValue.toUpperCase().indexOf(filter) > -1) {
+						li[i].style.display = "";
+					} else {
+						li[i].style.display = "none";
+					}
+				}
+			}
+		</script>
 		<center>
 			<figure>
 				<h2>ElecEng EXPLORER</h2>
 				<!--<img src="Img_CctDgmFax525 469x360p.webp" width="62%" height="50%" alt="Img_CctDgmFax525 469x360p.webp">-->
 				<img class="img_pghdr" src="/Images/Gen/Img_Search sml.webp" alt="Search">
 				<figcaption>
-					<a href="index.html">Home</a> > INDEX
+					<a href="index.html">Home</a> > SEARCH
 				</figcaption>
-				<br><br><br><br>
-				<table class="noborders">
-				<th colspan="7"; class="centerYW">SHORTCUTS</th>
-				<tr>
-					<td class="center"><a href="#ndx0">0</a></td>
-					<td class="center"><a href="#ndxa">A</a></td>
-					<td class="center"><a href="#ndxb">B</a></td>
-					<td class="center"><a href="#ndxc">C</a></td>
-					<td class="center"><a href="#ndxd">D</a></td>
-					<td class="center"><a href="#ndxe">E</a></td>
-					<td class="center"><a href="#ndxf">F</a></td>
-				</tr><tr>
-					<td class="center"><a href="#ndxg">G</a></td>
-					<td class="center"><a href="#ndxh">H</a></td>
-					<td class="center"><a href="#ndxi">I</a></td>
-					<td class="center"><a href="#ndxj">J</a></td>
-					<td class="center"><a href="#ndxk">K</a></td>
-					<td class="center"><a href="#ndxl">L</a></td>
-					<td class="center"><a href="#ndxm">M</a></td>
-				</tr><tr>
-					<td class="center"><a href="#ndxn">N</a></td>
-					<td class="center"><a href="#ndxo">O</a></td>
-					<td class="center"><a href="#ndxp">P</a></td>
-					<td class="center"><a href="#ndxq">Q</a></td>
-					<td class="center"><a href="#ndxr">R</a></td>
-					<td class="center"><a href="#ndxs">S</a></td>
-					<td class="center"><a href="#ndxt">T</a></td>
-				</tr><tr>
-					<td class="center"><a href="#ndxu">U</a></td>
-					<td class="center"><a href="#ndxv">V</a></td>
-					<td class="center"><a href="#ndxw">W</a></td>
-					<td class="center"><a href="#ndxx">X</a></td>
-					<td class="center"><a href="#ndxy">Y</a></td>
-					<td class="center"><a href="#ndxz">Z</a></td>
-					<td></td>
-					</tr>
-				</table>
-				<br><br><br><br>
+				<br><br>
+				<!-- <br><br><br><br> -->
 			</figure>
 		</center>
 	</head>
 
 	<body>
 		<center>
-			<a name="index">
+			<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for topic...">
+
+			<ul id="myUL">
+				<li><a href="0_HmAlumni.html#connect">ALUMNI CONNECT NIGHTS</a></li>
+				<li><a href="1_AlumPosts.html">ALUMNI POSTS</a></li>
+				<li><a href="1_AlumPosts.html#p2024">ALUMNI POSTS 2024</a></li>
+				<li><a href="1_AlumPosts23.html">ALUMNI POSTS 2023</a></li>
+				<li><a href="1_AlumPosts22.html">ALUMNI POSTS 2022</a></li>
+				<li><a href="1_AlumPosts21.html">ALUMNI POSTS 2021</a></li>
+				<li><a href="1_AlumPosts20.html">ALUMNI POSTS 2020</a></li>
+				<li><a href="1_AlumPosts19.html">ALUMNI POSTS 2019</a></li>
+				
+				<li><a href="0_HmSchool.html#contacts">CONTACTS - UNSW</a></li>
+				<li><a href="1_TbxHlth.html">HEALTH & SAFETY</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="1_TbxYTChnHob.html#knots">KNOTS - YT</a></li>
+				<li><a href="0_HmAbout.html#7qns">7 QUESTIONS</a></li>
+				<li><a href="1_TbxChrt.html#uniconstants">UNIVERSAL CONSTANTS</a></li>
+
+
+
+				<li><a href="0_HmAbout.html">0 - ABOUT</a></li>
+				<li><a href="0_HmSchool.html#contacts">CALENDAR - ACADEMIC</a></li>
+				<li><a href="0_HmSchool.html">STAFF - ACADEMIC</a></li>
+				<li><a href="1_YestyrAck.html">__MENU - ACKNOWLEDGEMENTS</a></li>
+				<li><a href="1_YestyrAck.html#atozcurrent">CURRENT - ACKNOWLEDGEMENTS</a></li>
+				<li><a href="1_YestyrAck.html#atozlongago">LONG AGO - ACKNOWLEDGEMENTS</a></li>
+				<li><a href="1_TbxAcron.html">__MENU - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronauto">AUTOMOTIVE - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronchem">CHEMICAL - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acroncomphw">COMPUTER HARDWARE - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acroncompsw">COMPUTER SOFTWARE - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronetric">ELECTRICAL - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronetron">ELECTRONICS - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acrongen">GENERAL - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acrongovt">GOVERNMENT - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronmgt">MANAGEMENT - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronmedical">MEDICAL - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronmilitary">MILITARY - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronre">REAL ESTATE - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronrenew">RENEWABLE - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acronsolar">SOLAR - ACRONYMS</a></li>
+				<li><a href="2_TbxAcronList.html#acrontelecom">TELECOMMUNICATION - ACRONYMS</a></li>
+				<li><a href="0_HmAlumni.html">ALUMNI - ACTIVITY</a></li>
+				<li><a href="0_HmElsoc.html">ELSOC - ACTIVITY</a></li>
+				<li><a href="0_HmSchool.html">SCHOOL EE&T - ACTIVITY</a></li>
+				<li><a href="0_HmYesterYear.html">YESTER-YEAR - ACTIVITY</a></li>
+				<li><a href="0_HmElsoc.html#agm">ELSOC - AGM</a></li>
+				<li><a href="1_WnLStry.html#alarm">STORY - ALARM</a></li>
+				<li><a href="1_TbxWebPrj.html#abtccts">INSPIRATION - ALL ABOUT CIRCUITS</a></li>
+				<li><a href="0_HmAlumni.html">__MENU - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html">ACTIVITY - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#connect">CONNECT NIGHTS - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#cteehnr">CTEE HONOUR BOARDS - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#cteemtgs">CTEE MEETINGS - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#social">FACEBOOK - ALUMNI</a></li>
+				<li><a href="1_AlumFlyerCon.html">FLYERS - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#social">LINKEDIN - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#publications">PUBLICATIONS - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#site">SITE TOURS - ALUMNI</a></li>
+				<li><a href="0_HmAlumni.html#social">SOCIAL NETWORK - ALUMNI</a></li>
+				<li><a href="1_WnLQuotAnon.html">QUOTATIONS - ANONYMOUS</a></li>
+				<li><a href="1_TbxWebPrj.html#arduino">INSPIRATION - ARDUINO</a></li>
+				<li><a href="1_TbxYTChnEE.html#arduino">YOUTUBE - ARDUINO</a></li>
+				<li><a href="#">UNSW - ARTICLES</a></li>
+				<li><a href="2_TbxChrtAscii.html">0 - ASCII TABLES</a></li>
+				<li><a href="1_WnLHmr.html">HUMOUR - AUDIO</a></li>
+				<li><a href="1_TbxEnrg.html">GROUPS - AUSTRALIAN ENERGY</a></li>
+				
+				<li><a href="1_SchDpt.html#branches">0 - BRANCHES</a></li>
+<li><a href="1_SchRnwl.html">RENEWAL - BUILDING</a></li>
+
+
+<li><a href="1_TbxCalc.html">__MENU - CALCULATORS</a></li>
+<li><a href="1_TbxCalc.html#circuit">CIRCUIT - CALCULATORS</a></li>
+<li><a href="#">DATE - CALCULATORS</a></li>
+<li><a href="1_TbxCalc.html#electrical">ELECTRICAL - CALCULATORS</a></li>
+<li><a href="1_TbxCalc.html#physical">PHYSICAL - CALCULATORS</a></li>
+<li><a href="#">TIME - CALCULATORS</a></li>
+<li><a href="1_TbxCalDT.html#calendar">__MENU - CALENDAR</a></li>
+<li><a href="#">0 - CATALOGUES</a></li>
+<li><a href="1_TbxChrt.html">__MENU - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#catalogue">CATALOGUE DATA - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#chemistry">CHEMISTRY - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#computer">COMPUTER - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#connector">CONNECTOR PINOUTS - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#conversion">CONVERSION TABLES - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#discrete">DISCRETE - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#hardware">HARDWARE - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#human">HUMAN COMMUNICATION - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#logic">LOGIC GATES - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#maths">MATHEMATICS - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#physics">PHYSICS - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#telecom">TELECOMMUNICATION - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#3phase">THREE PHASE - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#uniconstants">UNIVERSAL CONSTANTS - CHARTS & TABLES</a></li>
+<li><a href="1_TbxChrt.html#weather">WEATHER - CHARTS & TABLES</a></li>
+<li><a href="1_TbxCheat.html">__MENU - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#chemistry">CHEMISTRY - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#coding">CODING - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#english">ENGLISH - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#machining">MACHINING - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#mathematics">MATHEMATICS - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#physics">PHYSICS - CHEAT SHEETS</a></li>
+<li><a href="1_TbxCheat.html#chemistry">CHEAT SHEET - CHEMISTRY</a></li>
+<li><a href="1_TbxCheat.html#coding">CHEAT SHEET - CODING</a></li>
+<li><a href="0_HmElsoc.html#common">0 - COMMON ROOM</a></li>
+<li><a href="#">0 - COMPANIES</a></li>
+<li><a href="1_TbxCmpt.html">__MENU - COMPONENT</a></li>
+<li><a href="1_TbxCmpt.html#dsection">DATA SECTION - COMPONENT</a></li>
+<li><a href="1_TbxCmpt.html#dsheets">DATA SHEETS - COMPONENT</a></li>
+<li><a href="1_TbxCmpt.html#supp">SUPPLIERS - COMPONENT</a></li>
+<li><a href="1_TbxCmpt.html#suppdefunct">SUPPLIERS - COMPONENT</a></li>
+<li><a href="1_AlumFlyers.html">FLYERS - CONNECT NIGHT</a></li>
+<li><a href="0_HmAlumni.html#connect">0 - CONNECT NIGHT</a></li>
+<li><a href="0_Contruction.html">0 - CONSTRUCTION</a></li>
+<li><a href="0_HmSchool.html#contacts">EE & T SCHOOL - CONTACTS</a></li>
+<li><a href="0_HmAbout.html#contents">0 - CONTENT TYPE</a></li>
+<li><a href="1_TbxChrt.html#conversion">__MENU - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#area">AREA - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#diameter">DIAMETER - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#distance">DISTANCE - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#length">LENGTH - CONVERSIONS</a></li>
+<li><a href="1_TbxChrt.html#conversion">LOGIC - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#mass">MASS - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#pressure">PRESSURE - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#speed">SPEED - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#temperature">TEMPERATURE - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#torque">TORQUE - CONVERSIONS</a></li>
+<li><a href="1_TbxChrt.html#conversion">UNITS - CGS - CONVERSIONS</a></li>
+<li><a href="1_TbxChrt.html#conversion">UNITS - SI - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#volume">VOLUME - CONVERSIONS</a></li>
+<li><a href="2_TbxChrtConvPhy.html#weight">WEIGHT - CONVERSIONS</a></li>
+
+
+<li><a href="1_TbxChrt.html#computer">COMPUTER DATA - EBCDIC</a></li>
+<li><a href="1_TbxChrt.html#logic">LOGIC - ECL</a></li>
+<li><a href="2_TbxPatnPlnt.html#eclipses">MOON - ECLIPSES</a></li>
+<li><a href="1_TbxYTChnEE.html">YOU TUBE - EE CHANNELS</a></li>
+<li><a href="1_TbxYTClipEE.html">YOU TUBE - EE CLIPS</a></li>
+<li><a href="1_TbxWikiCbwb.html">COURSE - EE HANDBOOKS</a></li>
+<li><a href="1_TbxWikiEE.html">TOOLBOX - EE WIKIPEDIA</a></li>
+<li><a href="1_TbxWikiEE.html">WIKIPEDIA - ELEC_ENG</a></li>
+<li><a href="2_TbxAcronList.html#acronetric">ACRONYMS - ELECTRICAL</a></li>
+<li><a href="1_TbxCalc.html#electrical">CALCULATORS - ELECTRICAL</a></li>
+<li><a href="1_SchDpt.html#study">STUDY - ELECTRICAL</a></li>
+<li><a href="1_TbxWikiCbwb.html#pioneers">PIONEERS - ELECTRICITY</a></li>
+<li><a href="1_TbxCheat.html#chemistry">CHEATSHEET - ELECTRO-CHEMISTRY</a></li>
+<li><a href="1_TbxCheat.html#chemistry">CHEATSHEET - ELECTROLYSIS</a></li>
+<li><a href="1_TbxChrt.html#physics">RADIATION - ELECTRO-MAGENTIC</a></li>
+<li><a href="1_TbxChrt.html#physics">SPECTRUM - ELECTRO-MAGENTIC</a></li>
+<li><a href="1_TbxChrt.html#physics">WAVE EQUATIONS - ELECTRO-MAGENTIC</a></li>
+<li><a href="1_TbxChrt.html#chemistry">CHART - ELECTRO-NEGATIVITY</a></li>
+<li><a href="2_TbxAcronList.html#acronetron">ACRONYMS - ELECTRONICS</a></li>
+<li><a href="0_HmElsoc.html#agm">AGM - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#bbq">BBQs - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#campus">CAMPUS VISITS - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#common">COMMON  ROOM - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#groupph">GROUP PHOTOS - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#honour">HONOUR BOARDS - ELSOC</a></li>
+<li><a href="1_ElsocHon.html#honour">HONOUR BOARDS - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#industry">INDUSTRY - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#pnp">PAST & PRESENT - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#footage">PAST & PRESENT - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#publications">PUBLICATIONS - ELSOC</a></li>
+<li><a href="1_ElsocRules.html#rulesfbelsoc">RULES - ELSOC</a></li>
+<li><a href="1_ElsocRules.html#ruleslielsoc">RULES - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#social">SOCIAL GRAPHICS - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#network">SOCIAL NETWORK - ELSOC</a></li>
+<li><a href="0_HmElsoc.html#social">BBQs - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#social">CAMP 1st YEAR - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#social">CRASH COURSES - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#social">EVENTS - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#social">EXEC & CTEE - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#social">LABS & WORKSHOPS - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#social">PROGRAMS - ELSOC GRAPHICS</a></li>
+<li><a href="0_HmElsoc.html#network">FACEBOOK - ELSOC NETWORK</a></li>
+<li><a href="0_HmElsoc.html#network">INSTAGRAM - ELSOC NETWORK</a></li>
+<li><a href="0_HmElsoc.html#network">LINKED IN - ELSOC NETWORK</a></li>
+<li><a href="0_HmElsoc.html#network">TIK TOK - ELSOC NETWORK</a></li>
+<li><a href="0_HmElsoc.html#network">YOU TUBE - ELSOC NETWORK</a></li>
+<li><a href="1_TbxWebSup.html#general">SERVICES - EMERGENCY</a></li>
+<li><a href="1_TbxChrt.html#computer">COMPUTER DATA - ENCODING SYSTEMS</a></li>
+<li><a href="1_TbxEnrg.html">__MENU - ENERGY GROUPS</a></li>
+<li><a href="1_TbxEnrg.html#ausen">AUSTRALIAN ENERGY - ENERGY GROUPS</a></li>
+<li><a href="1_TbxEnrg.html#distrib">DISTRIBUTORS - ENERGY GROUPS</a></li>
+<li><a href="1_TbxEnrg.html#natelec">NATIONAL ELECTRICITY - ENERGY GROUPS</a></li>
+<li><a href="1_TbxEnrg.html#pwrstn">POWER STATIONS - ENERGY GROUPS</a></li>
+<li><a href="1_TbxEnrg.html#provdr">PROVIDERS - ENERGY GROUPS</a></li>
+<li><a href="1_TbxEnrg.html#renew">RENEWABLES - ENERGY GROUPS</a></li>
+<li><a href="1_SchDpt.html#rsrch">RESEARCH - ENERGY SYSTEMS</a></li>
+<li><a href="1_TbxWebPro.html">CLUBS - ENGINEERING</a></li>
+<li><a href="1_WnLMaps.html#engg">MAPS - ENGINEERING</a></li>
+<li><a href="1_TbxCheat.html#english">CHEATSHEET - ENGLISH</a></li>
+<li><a href="1_TbxChrt.html#maths">MAXWELL - EQUATIONS</a></li>
+<li><a href="1_TbxWebPrj.html#esp32">SMALL BOARD CMPTR - ESP32</a></li>
+<li><a href="1_TbxWebPrj.html#esp8266">SMALL BOARD CMPTR - ESP8266</a></li>
+<li><a href="1_TbxChrt.html#connector">CONNECTOR - ETHERNET</a></li>
+<li><a href="1_TbxWthr.html">WEATHER - EUROPE</a></li>
+
+
+<li><a href="0_HmAlumni.html#social">ALMUNI - FACEBOOK</a></li>
+<li><a href="0_HmElsoc.html#network">ELSOC - FACEBOOK</a></li>
+<li><a href="1_AlumFlyers.html">ALUMNI CONNECT - FLYERS</a></li>
+<li><a href="1_ElsocFlyers.html">ELSOC - ALUMNI - FLYERS</a></li>
+<li><a href="0_HmSchool.html#contacts">0 - FOUNDERS</a></li>
+
+
+<li><a href="0_HmElsoc.html#groupph">0 - GROUP PHOTOS</a></li>
+
+<li><a href="1_WnLMaps.html#hw">MAP - HARDWARE</a></li>
+<li><a href="1_TbxHlth.html">0 - HEALTH & SAFETY</a></li>
+<li><a href="">__MENU - HOBBY</a></li>
+<li><a href="1_TbxYTChnHob.html#knots">KNOTS - HOBBY</a></li>
+<li><a href="1_TbxYTChnHob.html#metalwork">METALWORK - HOBBY</a></li>
+<li><a href="1_TbxYTChnHob.html#music">MUSIC - HOBBY</a></li>
+<li><a href="1_TbxYTChnHob.html#sport">SPORT - HOBBY</a></li>
+<li><a href="1_TbxYTChnHob.html#woodwork">WOODWORK - HOBBY</a></li>
+<li><a href="">0 - HOBBY  CHANNELS</a></li>
+<li><a href="index.html">0 - HOME</a></li>
+<li><a href="">ALUMNI COMMITTEE - HONOUR BOARDS</a></li>
+<li><a href="1_ElsocHon.html">ELSOC - HONOUR BOARDS</a></li>
+<li><a href="2_ElsHonDir.html">ELSOC DIRECTORS - HONOUR BOARDS</a></li>
+<li><a href="1_ElsocHon.html">ELSOC EXECUTIVE - HONOUR BOARDS</a></li>
+<li><a href="2_ElsHonYrRep.html">ELSOC YEAR REPS. - HONOUR BOARDS</a></li>
+<li><a href="0_HmWork+Life.html#humour">__MENU - HUMOUR</a></li>
+<li><a href="1_WnLHmr.html#audio">AUDIO - HUMOUR</a></li>
+<li><a href="1_WnLHmr.html#visual">DRAWN - HUMOUR</a></li>
+<li><a href="1_WnLHmr.html#audio">PODCAST - HUMOUR</a></li>
+<li><a href="1_WnLHmr.html#written">TYPED - HUMOUR</a></li>
+<li><a href="1_WnLHmr.html#visual">VISUAL - HUMOUR</a></li>
+<li><a href="1_WnLHmr.html#written">WRITTEN - HUMOUR</a></li>
+
+
+<li><a href="0_HmIndex.html">0 - INDEX</a></li>
+<li><a href="0_HmElsoc.html#industry">0 - INDUSTRY NIGHT</a></li>
+<li><a href="">0 - INTERACTION</a></li>
+
+
+<li><a href="1_TbxMan.html">__MENU - MANUALS</a></li>
+<li><a href="1_TbxMan.html#coding">CODING - MANUALS</a></li>
+<li><a href="1_TbxMan.html#opsys">OPERATING SYSTEMS - MANUALS</a></li>
+<li><a href="1_TbxMan.html#syntax">SYNTAX & SEMANTICS - MANUALS</a></li>
+<li><a href="0_HmWork+Life.html#maps">__MENU - MAPS</a></li>
+<li><a href="1_WnLMaps.html#chem">CHEMISTRY - MAPS</a></li>
+<li><a href="1_WnLMaps.html#dsgn">DESIGN RULES - MAPS</a></li>
+<li><a href="1_WnLMaps.html#engg">ENGINEERING - MAPS</a></li>
+<li><a href="1_WnLMaps.html#hw">HARDWARE - MAPS</a></li>
+<li><a href="1_WnLMaps.html#iki">IKIGAI - MAPS</a></li>
+<li><a href="1_WnLMaps.html#joh">JOHARI - MAPS</a></li>
+<li><a href="1_WnLMaps.html#maths">MATHEMATICS - MAPS</a></li>
+<li><a href="1_WnLMaps.html#osi">OSI DATA LAYERS - MAPS</a></li>
+<li><a href="1_WnLMaps.html#phy">PHYSICS - MAPS</a></li>
+<li><a href="1_WnLMaps.html#prdlc">PRODUCT LIFE CYCLE - MAPS</a></li>
+<li><a href="1_WnLMaps.html#sw">SOFTWARE - MAPS</a></li>
+<li><a href="1_WnLMaps.html#slv">SOLVING PROBLEMS - MAPS</a></li>
+<li><a href="1_WnLMaps.html#tc">TCP / IP LAYERS - MAPS</a></li>
+<li><a href="1_WnLMaps.html#unix">UNIX PHILOSOPHY - MAPS</a></li>
+<li><a href="1_WnLMaps.html#yyy">WHY, WHY, WHY? - MAPS</a></li>
+<li><a href="1_TbxCheat.html#mathematics">CHEAT SHEET - MATHEMATICS</a></li>
+<li><a href="1_TbxYTChnHob.html#metalwork">CHANNELS - METALWORK</a></li>
+<li><a href="2_TbxPatnPlnt.html#eclipses">ECLIPSES - MOON</a></li>
+<li><a href="2_TbxPatnPlnt.html#phases">PHASES - MOON</a></li>
+<li><a href="1_TbxYTChnHob.html#music">CHANNELS - MUSIC</a></li>
+
+
+<li><a href="0_HmElsoc.html#pnp">0 - PAST & PRESENT NIGHT</a></li>
+<li><a href="1_TbxPatn.html">__MENU - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#eclipses">MOON ECLIPSES - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#phases">MOON PHASES - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#movements">PLANET MOVEMENTS - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#retrogrades">PLANET RETROGRADES  - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#tables">PLANET TABLES - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#transits">PLANET TRANSITS - PATTERNS</a></li>
+<li><a href="2_TbxPatnPlnt.html#words">PLANET WORDS & SYMBOLS - PATTERNS</a></li>
+<li><a href="">0 - PERSPECTIVE</a></li>
+<li><a href="">CHART - PHYSICS</a></li>
+<li><a href="1_TbxCheat.html#physics">CHEATSHEET - PHYSICS</a></li>
+<li><a href="1_TbxWikiCbwb.html#physics">HISTORY - PHYSICS</a></li>
+<li><a href="1_TbxWikiCbwb.html#pioneers">ELECTRICITY - PIONEERS of </a></li>
+<li><a href="2_TbxPatnPlnt.html#movements">MOVEMENTS - PLANET</a></li>
+<li><a href="2_TbxPatnPlnt.html#retrogrades">RETROGRADES  - PLANET</a></li>
+<li><a href="2_TbxPatnPlnt.html#tables">TABLES - PLANET</a></li>
+<li><a href="2_TbxPatnPlnt.html#transits">TRANSITS - PLANET</a></li>
+<li><a href="2_TbxPatnPlnt.html#words">WORDS & SYMBOLS - PLANET</a></li>
+<li><a href="1_TbxPodc.html">0 - PODCASTS</a></li>
+<li><a href="">0 - PRODUCTIVITY</a></li>
+<li><a href="1_TbxWebPro.html#engg">0 - PROFESSIONAL</a></li>
+<li><a href="1_TbxWebPrj.html">__MENU - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#abtccts">ABOUT CIRCUITS - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#arduino">ARDUINO - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#core">CORE ELECTRONICS - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#eepower">EE POWER - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#eeweb">EE WEB - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#jcmaker">JAYCAR MAER HUB - PROJECT INSPIRATION</a></li>
+<li><a href="1_TbxWebPrj.html#raspi">RASPBERRY PI - PROJECT INSPIRATION</a></li>
+
+
+<li><a href="0_HmAbout.html#7qns">0 - QUESTIONS</a></li>
+<li><a href="0_HmWork+Life.html#quotations">__MENU - QUOTATIONS</a></li>
+<li><a href="1_WnLQuotAnon.html">ANONYMOUS - QUOTATIONS</a></li>
+<li><a href="1_WnLQuotCtry.html">COUNTRY - QUOTATIONS</a></li>
+<li><a href="1_WnLQuotMovie.html">MOVIE - QUOTATIONS</a></li>
+<li><a href="1_WnLQuotPrsn.html">PERSON - QUOTATIONS</a></li>
+<li><a href="1_WnLQuotTchg.html">TEACHING - QUOTATIONS</a></li>
+
+
+<li><a href="1_SchRnwl.html">__MENU - RENEWAL</a></li>
+<li><a href="1_SchRnwl.html#reneweent">EE & T - RENEWAL</a></li>
+<li><a href="1_SchRnwl.html#renewlightr">LIGHTRAIL - RENEWAL</a></li>
+<li><a href="1_SchRnwl.html#renewrndhse">ROUNDHOUSE - RENEWAL</a></li>
+<li><a href="1_SchRnwl.html#renewvillage">VILLAGE GREEN - RENEWAL</a></li>
+<li><a href="">SCHOOL EE&T - REPORTS & YEARBOOKS</a></li>
+<li><a href="1_SchDpt.html#rsrch">SCHOOL EE&T - RESEARCH AREAS</a></li>
+<li><a href="1_SchRnwl.html#renewrndhse">RENEWAL - ROUNDHOUSE</a></li>
+<li><a href="1_AlumRules.html">ALUMNI - RULES</a></li>
+<li><a href="1_AlumRules.html">ALUMNI - RULES</a></li>
+<li><a href="1_ElsocRules.html">ELSOC - RULES</a></li>
+
+
+<li><a href="0_HmSchool.html">ACTIVITY - SCHOOL</a></li>
+<li><a href="1_SchDpt.html#branches">BRANCHES - SCHOOL</a></li>
+<li><a href="0_HmSchool.html#contacts">CONTACTS - SCHOOL</a></li>
+<li><a href="1_SchStaffHos.html">HEADS-OF- - SCHOOL</a></li>
+<li><a href="0_HmSchool.html#related">RELATED - SCHOOL</a></li>
+<li><a href="1_SchRnwl.html">RENEWAL - SCHOOL</a></li>
+<li><a href="1_SchRpt.html#elsoc">REPORTS - ELSOC - SCHOOL</a></li>
+<li><a href="1_SchRpt.html#school">REPORTS - SCHOOL - SCHOOL</a></li>
+<li><a href="1_SchDpt.html#rsrch">RESEARCH - SCHOOL</a></li>
+<li><a href="1_SchStaffEmp1949.html">STAFF EMPLOYED - SCHOOL</a></li>
+<li><a href="1_SchDpt.html#study">STUDY - SCHOOL</a></li>
+<li><a href="">SHOWS - SCIENCE FICTION </a></li>
+<li><a href="0_HmIndex.html">0 - SEARCH</a></li>
+<li><a href="">0 - SELF-ESTEEM</a></li>
+<li><a href="1_TbxWikiCbwb.html#sfshows">__MENU - SHOWS</a></li>
+<li><a href="1_TbxWikiCbwb.html#othershows">SCI-FI - SHOWS</a></li>
+<li><a href="1_TbxWikiCbwb.html#startrek">STAR TREK - SHOWS</a></li>
+<li><a href="1_TbxWikiCbwb.html#stargate">STARGATE - SHOWS</a></li>
+<li><a href="0_HmSiteMap.html#about">ABOUT - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#alumni">ALUMNI - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#elsoc">ELSOC - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#school">SCHOOL - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#sitemap">SITEMAP - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#toolbox">TOOLBOX - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#work+life">WORK & LIFE - SITE MAP</a></li>
+<li><a href="0_HmSiteMap.html#yesteryear">YESTER-YEAR - SITE MAP</a></li>
+<li><a href="0_HmAlumni.html#site">0 - SITE TOURS</a></li>
+<li><a href="1_TbxSbc.html">__MENU - SMALL BOARD</a></li>
+<li><a href="1_TbxSbc.html#arduino">ARDUINO - SMALL BOARD</a></li>
+<li><a href="1_TbxSbc.html#esp32">ESP32 - SMALL BOARD</a></li>
+<li><a href="1_TbxSbc.html#esp8266">ESP8266 - SMALL BOARD</a></li>
+<li><a href="1_TbxSbc.html#raspi">RASPBERRY PI - SMALL BOARD</a></li>
+<li><a href="1_TbxSbc.html#zigbee">ZIGBEE - SMALL BOARD</a></li>
+<li><a href="0_HmAlumni.html#social">ALUMNI - SOCIAL</a></li>
+<li><a href="0_HmElsoc.html#social">ELSOC - SOCIAL</a></li>
+<li><a href="0_HmElsoc.html#network">ELSOC - SOCIAL</a></li>
+<li><a href="0_HmWork+Life.html#stories">__MENU - STORIES</a></li>
+<li><a href="1_WnLStry.html#alarm">ALARM - STORIES</a></li>
+<li><a href="1_WnLStry.html#baby">CAR'S BABY CAPSULE - STORIES</a></li>
+<li><a href="1_WnLStry.html#fengshui">FENG SHUI - STORIES</a></li>
+<li><a href="1_WnLStry.html#hauntedk">HAUNTED KITCHEN - STORIES</a></li>
+<li><a href="1_WnLStry.html#hfoscillations">HIGH FREQUENCY - STORIES</a></li>
+<li><a href="1_WnLStry.html#garden">ITALIAN'S GARDEN - STORIES</a></li>
+<li><a href="1_WnLStry.html#karate">KARATE - STORIES</a></li>
+<li><a href="1_WnLStry.html#lan">LOCAL AREA - STORIES</a></li>
+<li><a href="1_WnLStry.html#texan">TEXAN CHALLENGE - STORIES</a></li>
+<li><a href="1_WnLStry.html#bracket">THE OTHER BRACKET - STORIES</a></li>
+<li><a href="1_WnLStry.html#tonto">TONTO and - STORIES</a></li>
+<li><a href="1_WnLStry.html#volunteer">VOLUNTEER JOB - STORIES</a></li>
+<li><a href="1_WnLStry.html#zen">ZEN - STORIES</a></li>
+<li><a href="1_SchDpt.html#study">0 - STUDY</a></li>
+<li><a href="1_TbxCmpt.html#supp">CURRENT - SUPPLIERS</a></li>
+<li><a href="1_TbxCmpt.html#suppdefunct">DEFUNCT - SUPPLIERS</a></li>
+<li><a href="1_TbxWebSup.html">0 - SUPPORTIVE</a></li>
+<li><a href="0_HmAbout.html#switch">0 - SWITCHBOARD</a></li>
+
+
+<li><a href="0_HmElsoc.html#network">ELSOC - TIK-TOK</a></li>
+<li><a href="1_TbxCalDT.html#time">CALCULATOR - TIME</a></li>
+<li><a href="0_HmToolbox.html">__MENU - TOOLBOX</a></li>
+<li><a href="0_HmToolbox.html#atoz">A to Z - TOOLBOX</a></li>
+<li><a href="1_TbxAcron.html">ACRONYMS - TOOLBOX</a></li>
+<li><a href="https://engineerrefe.com">BOOK & TIPS - TOOLBOX</a></li>
+<li><a href="1_TbxCalc.html">CALCULATORS - TOOLBOX</a></li>
+<li><a href="1_TbxCalDT.html">CALENDAR - TOOLBOX</a></li>
+<li><a href="1_TbxChrt.html">CHARTS & TABLES - TOOLBOX</a></li>
+<li><a href="1_TbxCheat.html">CHEAT SHEETS - TOOLBOX</a></li>
+<li><a href="">COMPANIES - TOOLBOX</a></li>
+<li><a href="1_TbxCmpt.html">COMPONENTS - TOOLBOX</a></li>
+<li><a href="1_TbxCalDT.html">DATE & TIME - TOOLBOX</a></li>
+<li><a href="1_TbxDict.html">DICTIONARIES - TOOLBOX</a></li>
+<li><a href="1_TbxDoc.html">DOCUMENTATION - TOOLBOX</a></li>
+<li><a href="1_TbxYTChnEE.html">EE_CHANNELS - TOOLBOX</a></li>
+<li><a href="1_TbxYTClipEE.html">EE_CLIPS - TOOLBOX</a></li>
+<li><a href="1_TbxWikiEE.html">ELEC_ENG - TOOLBOX</a></li>
+<li><a href="1_TbxEnrg.html">ENERGY GROUPS - TOOLBOX</a></li>
+<li><a href="1_TbxHlth.html">HEALTH & SAFETY - TOOLBOX</a></li>
+<li><a href="1_TbxWikiCbwb.html">HISTORY - TOOLBOX</a></li>
+<li><a href="1_TbxYTChnHob.html">HOBBY CHANNELS - TOOLBOX</a></li>
+<li><a href="1_TbxYTClipHob.html">HOBBY CLIPS - TOOLBOX</a></li>
+<li><a href="0_HmToolbox.html#lookup">LOOKUP - TOOLBOX</a></li>
+<li><a href="1_TbxMan.html">MANUALS - TOOLBOX</a></li>
+<li><a href="1_TbxNtBk.html">NOTEBOOKS - TOOLBOX</a></li>
+<li><a href="1_TbxPatn.html">PATTERNS - TOOLBOX</a></li>
+<li><a href="1_TbxPodc.html">PODCASTS - TOOLBOX</a></li>
+<li><a href="0_HmToolbox.html#productivity">PRODUCTIVITY - TOOLBOX</a></li>
+<li><a href="1_TbxWebPro.html">PROFESSIONAL - TOOLBOX</a></li>
+<li><a href="1_TbxWebPrj.html">PROJECT INSPIRATION - TOOLBOX</a></li>
+<li><a href="1_TbxProto.html">PROTOTYPING - TOOLBOX</a></li>
+<li><a href="1_TbxSbc.html">SMALL BOARD COMPUTERS - TOOLBOX</a></li>
+<li><a href="0_HmToolbox.html#society">SOCIETY - TOOLBOX</a></li>
+<li><a href="1_TbxWebSup.html">SUPPORTIVE - TOOLBOX</a></li>
+<li><a href="1_TbxTutes.html">TUTORIALS - TOOLBOX</a></li>
+<li><a href="1_TbxWthr.html">WEATHER - TOOLBOX</a></li>
+
+
+<li><a href="0_HmUpdates.html">0 - UPDATES</a></li>
+
+
+<li><a href="1_TbxWthr.html">0 - WEATHER</a></li>
+<li><a href="0_HmSchool.html#contacts">UNSW ELEC ENG - WEBSITE</a></li>
+<li><a href="1_TbxWikiEE.html">ELEC_ENG - WIKI</a></li>
+<li><a href="1_TbxWikiCbwb.html">HISTORY - WIKI</a></li>
+<li><a href="1_TbxYTChnHob.html#woodwork.html">0 - WOODWORK</a></li>
+<li><a href="0_HmWork+Life.html">__MENU - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#fortune">FORTUNE COOKIE - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#hobbies">HOBBIES - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#humour">HUMOUR - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#interaction">INTERACTION - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#maps">MAPS - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#perspective">PERSPECTIVE - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#quotations">QUOTATIONS - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#selfesteem">SELF-ESTEEM - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#stories">STORIES - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#workplace">WORKPLACE - WORK & LIFE</a></li>
+<li><a href="0_HmWork+Life.html#workplace">0 - WORKPLACE</a></li>
+
+
+<li><a href="0_HmYesterYear.html">__MENU - YESTER-YEAR</a></li>
+<li><a href="1_TbxYTChnEE.html">ELEC_ENG - YT CHANNELS</a></li>
+<li><a href="1_TbxYTChnHob.html">HOBBY_CHANNELS - YT CHANNELS</a></li>
+<li><a href="1_TbxYTChnHob.html#knots">KNOTS - YT CHANNELS</a></li>
+<li><a href="1_TbxYTChnHob.html#metalwork">METALWORK - YT CHANNELS</a></li>
+<li><a href="1_TbxYTChnHob.html#music">MUSIC - YT CHANNELS</a></li>
+<li><a href="1_TbxYTChnHob.html#sport">SPORT - YT CHANNELS</a></li>
+<li><a href="1_TbxYTChnHob.html#woodwork">WOODWORK - YT CHANNELS</a></li>
+<li><a href="1_TbxYTClipEE.html">ELEC_ENG - YT CLIPS</a></li>
+<li><a href="1_TbxYTClipHob.html">HOBBY_CLIPS - YT CLIPS</a></li>
+
+
+				<!-- <li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li>
+				<li><a href="0_HmIndex.html">INDEX</a></li> -->
+			</ul>
+
+			<!-- <a name="index">
 
 			<a name="ndx0"></a>
 			<h4>0 - 9</h4>
@@ -120,11 +573,9 @@ File: 0_HmIndex.html
 					<tr><td></a></td><td><a href="0_HmElsoc.html">ELSOC</a></td></tr>
 					<tr><td>AGM</a></td><td><a href="0_HmElsoc.html#agm">ELSOC</a></td></tr>
 					<tr><td>ALARM</a></td><td><a href="1_WnLStry.html#alarm">STORY</a></td></tr>
-					<tr><td>ALL ABOUT CIRCUITS</a></td><td><a href="1_TbxWebPrj.html#abtccts">INSPIRATION</a></td></tr>
-					<!-- <tr><td>ALUMNI</a></td><td><a href="0_HmAlumni.html">ACTIVITY</a></td></tr>
-					<tr><td></a></td><td><a href="0_HmAlumni.html#social">FACEBOOK</a></td></tr>
-					<tr><td></a></td><td><a href="0_HmAlumni.html#social">LINKEDIN</a></td></tr> -->
+					<tr><td>ALL ABOUT CIRCUITS</a></td><td><a href="1_TbxWebPrj.html#abtccts">INSPIRATION</a></td></tr> -->
 
+<!-- 
 					<tr><td><a>ALUMNI</a></td><td><a href="0_HmAlumni.html">__MENU</a></td></tr>
 					<tr><td></a></td><td><a href="0_HmAlumni.html">ACTIVITY</a></td></tr>
 					<tr><td></a></td><td><a href="0_HmAlumni.html#connect">CONNECT NIGHTS</a></td></tr>
@@ -809,38 +1260,14 @@ File: 0_HmIndex.html
 					<tr><td><a href=".html#"></a>.</a><td><a href=".html#"></a>.</td></tr>
 					<tr><td><a href=".html#"></a>.</a><td><a href=".html#"></a>.</td></tr>
 					<tr><td><a href="#Top">TOP</a></td><td></td></tr>
-				</table>
+				</table> -->
 		</center>
+
+
 		<!-- <br><br><br><br>	 -->
 	</body>
 	<br><br><br><br><br><br>
-	
-	<!-- <footer>
-		<nav class="fixed-nav-bar-btm">
-			<a name="Btm"></a>	
-			<center>
-				<figcaption>
-					<a class="one" href="0_HmAlumni.html">ALUMNI</a> | 
-					<a href="0_HmElsoc.html">ELSOC</a> | 
-					<a href="0_HmSchool.html">SCHOOL</a> | 
-					<a href="0_HmToolbox.html">TOOLBOX</a>
-				</figcaption>
-				<figcaption>
-					<a href="0_HmWork+Life.html">WORK & LIFE</a> | 
-					<a href="0_HmYesterYear.html">YESTER-YEAR</a>
-				</figcaption>
-				<figcaption>
-					<a href="index.html">HOME</a> | 
-					<a href="0_HmAbout.html">ABOUT</a> | 
-					<a href="0_HmIndex.html">INDEX</a> | 
-					<a href="0_HmSiteMap.html">SITE-MAP</a>
-				</figcaption>
-				<br><br>
-			</center>
-		</nav>
-	</footer> -->
 
-	<!-- it works -->
 	<footer>
 		<nav class="fixed-nav-bar-btm">
 			<center>
