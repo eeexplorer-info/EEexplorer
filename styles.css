@@ -239,7 +239,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	/* width: 100%; */
 	 /* Full-width */
 	 width: 35%;
-	font-size: 18px; /* Increase font-size */
+	font-size: 1rem;
+	/* 18px; Increase font-size */
 	padding: 12px 20px 12px 40px; /* Add some padding */
 	border: 1px solid #ddd; /* Add a grey border */
 	margin-bottom: 12px; /* Add some space below the input */
@@ -258,9 +259,11 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	border: 1px solid #ddd; /* Add a border to all links */
 	margin-top: -1px; /* Prevent double borders */
 	background-color: #f6f6f6; /* Grey background color */
-	padding: 12px; /* Add some padding */
+	padding: 10px;
+	/* 12px; Add some padding */
 	text-decoration: none; /* Remove default text underline */
-	font-size: 18px; /* Increase the font-size */
+	font-size: 1rem;
+	/* 18px; Increase the font-size */
 	color: black; /* Add a black text color */
 	display: block; /* Make it into a block element to fill the whole list */
   }
