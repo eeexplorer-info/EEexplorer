@@ -232,18 +232,26 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 }
 
 #myInput {
+	background-image: url("/Images/Gen/Img_Searchicon.png"); /* set to 32 x 32 for this to work */
 	/* background-image: url('/css/searchicon.png');  */
 	/* Add a search icon to input */
-	/* background-position: 10px 12px; */
-	/* background-repeat: no-repeat; */
+	background-position: 10px 12px;
+	background-repeat: no-repeat;
 	/* width: 100%; */
 	 /* Full-width */
-	 width: 35%;
+	width: 35%;
 	font-size: 1rem;
 	/* 18px; Increase font-size */
-	padding: 12px 20px 12px 40px; /* Add some padding */
+	padding: 12px 20px 12px 60px; /* Add some padding */
 	border: 1px solid #ddd; /* Add a grey border */
 	margin-bottom: 12px; /* Add some space below the input */
+
+	 /* fautlfinding start 240426 */
+	/* background: border-box red; */
+	/* background: green; */
+	/* background: url("background_00.jpg"); */
+	/* background-image: ("background_01.jpg"); */
+	/* faultfinding stop */
   }
   
   #myUL {
@@ -258,18 +266,17 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
   #myUL li a {
 	border: 1px solid #ddd; /* Add a border to all links */
 	margin-top: -1px; /* Prevent double borders */
-	background-color: #f6f6f6; /* Grey background color */
+	background-color: #404040;
+	/* background-color: #f6f6f6; */
 	padding: 10px;
-	/* 12px; Add some padding */
 	text-decoration: none; /* Remove default text underline */
 	font-size: 1rem;
-	/* 18px; Increase the font-size */
-	color: black; /* Add a black text color */
+	color: white;  /* Add a white text color */
 	display: block; /* Make it into a block element to fill the whole list */
   }
   
   #myUL li a:hover:not(.header) {
-	background-color: #eee; /* Add a hover effect to all links, except for headers */
+	background-color: black; /* Add a hover effect to all links, except for headers */
   }
 
 

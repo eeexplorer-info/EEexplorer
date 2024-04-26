@@ -1,6 +1,22 @@
 Log - EEX Updates
 
 
+------=== 26 Apr 2024 ===------
+{
+== ALUMNI
+- Connect Night big table separated into small tables
+- same for Site Tours
+- Connect Night Flyers back-linked to sub tables
+- same for Site Tours
+
+
+== SEARCH
+- Main graphic reconstructed
+- Lookup table mignifying glass icon added
+- Background and highlight colours adjusted to see easier
+}
+
+
 ------=== 25 Apr 2024 ===------
 {
 == ALUMNI
