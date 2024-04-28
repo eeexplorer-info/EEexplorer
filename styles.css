@@ -232,7 +232,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 }
 
 #myInput {
-	background-image: url("/Images/Gen/Img_Searchicon.png"); /* set to 32 x 32 for this to work */
+	/* background-image: url("/Images/Gen/Img_Searchicon.png"); set to 32 x 32 for this to work */
+	background-image: url('/css/Img_SearchIcon.png'); 
 	/* background-image: url('/css/searchicon.png');  */
 	/* Add a search icon to input */
 	background-position: 10px 12px;
@@ -767,7 +768,8 @@ details > summary {
   
   /* Links inside the dropup */
   .dropup-content a {
-	color: lightgreen;
+	color: white;
+	/* color: lightgreen; */
 	/* black; */
 	padding: 15px 15px;
 	text-decoration: none;
@@ -775,7 +777,9 @@ details > summary {
   }
   
   /* Change color of dropdown links on hover */
-  .dropup-content a:hover {background-color:purple;}
+  .dropup-content a:hover {background-color:lightgreen;color:black}
+  /* .dropup-content a:hover {background-color:grey;color:lime} */
+  /* .dropup-content a:hover {background-color:purple;} */
 	/* #262626;} */
 	 /* #ddd;} */
   
@@ -783,7 +787,8 @@ details > summary {
   .dropup:hover .dropup-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropup:hover .dropbtnup {background-color: #3e8e41;	color:white;}
+  .dropup:hover .dropbtnup {background-color: #262626;	color:white;}
+  /* .dropup:hover .dropbtnup {background-color: #3e8e41;	color:white;} */
 
 
 

@@ -1,13 +1,21 @@
 Log - EEX Updates
 
 
-------=== 26 Apr 2024 ===------
+------=== 28 Apr 2024 ===------
 {
+== CODING
+- Beck end generator for A-Z of links created
+
+== SEARCH
+- Generated list of links integrated
+}
+
+
 == ALUMNI
 - Connect Night big table separated into small tables
 - same for Site Tours
 - Connect Night Flyers back-linked to sub tables
-- same for Site Tours
+- same for Site Tour
 
 
 == SEARCH
