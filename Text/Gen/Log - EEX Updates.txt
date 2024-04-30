@@ -1,13 +1,16 @@
 Log - EEX Updates
 
 
-------=== 28 Apr 2024 ===------
+------=== 30 Apr 2024 ===------
 {
 == CODING
-- Beck end generator for A-Z of links created
+- Back end generator for A-Z of links created
+- same uploaded into Search Menu
+- Menu links from lower to upper case - cosmetic change
 
 == SEARCH
 - Generated list of links integrated
+- Launch option at bottom added
 }
 
 

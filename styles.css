@@ -462,6 +462,10 @@ a:active {
 	text-align: right;
 }
 
+.justify {
+	text-align: justify;
+}
+
 .colourWtBk{
 	color: white;
 	background-color: black;
@@ -702,7 +706,7 @@ details > summary {
   text-decoration: none;
   font-size: 0.875rem;
   /* 17px; */
-  width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  width: 20%; /* Five equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
   text-align: center; /* If you want the text to be centered */
 }
 
