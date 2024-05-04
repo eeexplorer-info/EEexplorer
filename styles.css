@@ -25,7 +25,8 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Courier, Verdana, Helvetica, sans-serif;
+    /* font-family: Courier, Verdana, Helvetica, sans-serif; */
+	font-family: Verdana, Helvetica, sans-serif;
 }
 
  
@@ -39,7 +40,8 @@ table, th, td {
   padding: 5px;
   /* text-align: center; */ /* ON HOLD */
   text-align: left;
-  font-size: 0.875rem;
+  /* font-size: 0.875rem; */
+  font-size: 0.75rem;
   table-layout: auto;
   z-index:1;	/* sit on top */
   /* table-layout: auto; */
@@ -105,7 +107,9 @@ body {
 	color: white;
 	/* a couple whiter shades away from pitch black*/
 	background-color: #262626;	/*black;*/
-	font-size: 0.875em;		/* 14px/16 = 0.875em */
+	/* font-size: 0.875em;		 */
+	/* 14px/16 = 0.875em */
+	font-size: 0.75em;
 	text-align:left;
 }
 
@@ -139,7 +143,8 @@ h3 {
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
-	font-size: 1.25em;
+	/* font-size: 1.25em; */
+	font-size: 1.125em;
 
 	/* For Laptop or Desktop: */
 	/* width:25%; */
@@ -154,7 +159,8 @@ h4 {
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
-	font-size: 1.25em;
+	/* font-size: 1.25em; */
+	font-size: 1.125em;
 
 	/* For Laptop or Desktop: */
 	/* width:25%; */
@@ -170,7 +176,8 @@ h5 {
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
-	font-size: 1.25em;
+	/* font-size: 1.25em;	 */
+	font-size: 1.125em;
 	/* width:25%; */
 	width: 15rem;
 }
@@ -183,16 +190,32 @@ h6 {
 	padding: 10px;
 	margin: 30px;
 	border-radius: 2rem;
-	font-size: 1.25em;
+	/* font-size: 1.25em; */
+	font-size: 1.125em;
 	/* width:25%; */
 	width: 15rem;
 }
 
 
-.img_pghdr img {
+/* .img_pghdr img { */
 	/* width: 25rem; */
-	width: 35%;
-  }
+	/* width: 35%;
+  } */
+
+/* #img_pghdr {
+	width: 50%;
+} */
+
+#font_1em5
+{
+text-align: left;
+font-size: 1.5em;
+}
+
+#font_italic {
+text-align: left;
+font-style: italic;
+}
 
 /* For Laptop or Desktop: */
 img {
@@ -280,9 +303,98 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	background-color: black; /* Add a hover effect to all links, except for headers */
   }
 
+/* 
+  maybe update the screen size boundaries to:
+
+  1200+ Desktop
+  992+ - Laptops
+  768+ - Tablets
+  0+ - Mobile
+ // 240503 
+  */
+  
+  /* For Desktops */
+  @media only screen and (min-width:1200px) {
+	h2, h3, h4, h5, h6 {
+		/* width: 50%; */
+		/* width: 40rem; */
+	  }
+	  img {
+		  width: 62%;
+		  /* width: 40rem; */
+		  /* width: 90%; */
+		  /* border-radius: 2rem; */
+	  }	
+	  figcaption {
+		  /* /* 62%;	same a for image */
+		  /* width: 25rem; */
+		  /* width: 80%; */
+		  /* border: 1px white solid; */
+		  /* border-radius: 2rem; */
+	  }
+	  iframe {
+		  /* width: 80%; */
+		  /* width: 20rem; */
+	  }
+	  table {
+		  /* width: 35rem; */
+		  /* width: 80%; */
+	  }
+	  td { text-align: left; }
+	  th { text-align: center; }
+  
+	  #myUL, #myInput {
+		  /* width: 90%; */
+	  }
+
+	  #img_pghdr {
+		width: 35%;
+	}
+  }
+
+ 
+  /* For Laptops */
+  @media only screen and (min-width:992px) and (max-width:1199px) {
+	h2, h3, h4, h5, h6 {
+		/* width: 50%; */
+		/* width: 40rem; */
+	  }
+	  img {
+		  width: 80%;
+		  /* width: 40rem; */
+		  /* width: 90%; */
+		  /* border-radius: 2rem; */
+	  }	
+	  figcaption {
+		  /* /* 62%;	same a for image */
+		  /* width: 25rem; */
+		  /* width: 80%; */
+		  /* border: 1px white solid; */
+		  /* border-radius: 2rem; */
+	  }
+	  iframe {
+		  /* width: 80%; */
+		  /* width: 20rem; */
+	  }
+	  table {
+		  /* width: 35rem; */
+		  /* width: 80%; */
+	  }
+	  td { text-align: left; }
+	  th { text-align: center; }
+  
+	  #myUL, #myInput {
+		  /* width: 90%; */
+	  }
+
+	  #img_pghdr {
+		width: 50%;
+	}
+  }
 
 
-@media only screen and (max-width:800px) {
+/* @media only screen and (max-width:800px) { */
+	@media only screen and (min-width: 768px) and (max-width:991px) {
 	/* For tablets: */
 	h2, h3, h4, h5, h6 {
 	  width: 50%;
@@ -310,14 +422,20 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		width: 80%;
 	}
 	td { text-align: left; }
+	th { text-align: center; }
 
 	#myUL, #myInput {
 		width: 90%;
 	}
+
+	#img_pghdr {
+		width: 50%;
+	}
   }
 
   
-@media only screen and (max-width:600px) {
+/* @media only screen and (max-width:600px) { */
+	@media only screen and (max-width:767px) {
 	/* For mobile phones: */
 	h2, h3, h4, h5, h6 {
 	  /* width: 60%; */
@@ -344,8 +462,13 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 20 rem; */
 	}
 	td { text-align: left; }
+	th { text-align: center; }
 
 	#myUL, #myInput {
+		width: 90%;
+	}
+
+	#img_pghdr {
 		width: 90%;
 	}
 }
