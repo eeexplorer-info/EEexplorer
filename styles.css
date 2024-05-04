@@ -40,8 +40,8 @@ table, th, td {
   padding: 5px;
   /* text-align: center; */ /* ON HOLD */
   text-align: left;
-  /* font-size: 0.875rem; */
-  font-size: 0.75rem;
+  font-size: 0.875rem;
+  /* font-size: 0.75rem; */
   table-layout: auto;
   z-index:1;	/* sit on top */
   /* table-layout: auto; */
@@ -208,13 +208,20 @@ h6 {
 
 #font_1em5
 {
-text-align: left;
-font-size: 1.5em;
+	text-align: left;
+	font-size: 1.5em;
 }
 
 #font_italic {
-text-align: left;
-font-style: italic;
+	text-align: left;
+	font-style: italic;
+}
+
+#ndx_main td {
+	border: 0;
+	/* nth-child(n+1) {
+		font-size: 1.5em;
+	} */
 }
 
 /* For Laptop or Desktop: */
