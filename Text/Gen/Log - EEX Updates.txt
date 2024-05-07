@@ -1,6 +1,27 @@
 Log - EEX Updates
 
 
+------=== 07 May 2024 ===------
+{
+== ALUMNI
+- Ctee Honour Board updated
+- Ctee Mtgs - Tables made to fit mobile screens
+- Social Network Posts - View Counts added
+
+== SEARCH
+- List expanded
+- Shortcuts to About, Index, SiteMap, Updates added
+
+== SITE-MAP
+- Column Indents & Font sizes cleaned up
+- Links to Switchboard, Work+Life Maps activated
+
+== TOOLBOX
+- HEALTH & SAFETY - Hazardous Chemical amd Material Handling links added
+- SHORTCUTS - SEARCH option added
+}
+
+
 ------=== 04 May 2024 ===------
 {
 == CODING

@@ -58,7 +58,7 @@ table {
 	background-color: #404040; /* #e6e6e6; /*grey; /*black;*/
 	table-layout: auto;
 	border: blue;
-	border-radius: 2rem;
+	/* border-radius: 2rem; */
 	/* width: 25rem; */
 	width: 35%;
 }
@@ -74,7 +74,7 @@ table {
 .radius td {
 	text-align: center;
 	/* border-style: none; */
-	border-radius: 2rem;
+	/* border-radius: 2rem; */
 	
 	/* background-color: #404040; */
 	/* border-color: yellow; */
@@ -85,7 +85,7 @@ table {
 }
 
 .radius table {
-	border-radius: 2 rem;
+	/* border-radius: 2 rem; */
 	color: yellow;
 }
 
@@ -326,7 +326,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
   /* For Desktops */
   @media only screen and (min-width:1200px) {
 	h2, h3, h4, h5, h6 {
-		/* width: 50%; */
+		width: 20%;
 		/* width: 40rem; */
 	  }
 	  img {
@@ -366,7 +366,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
   /* For Laptops */
   @media only screen and (min-width:992px) and (max-width:1199px) {
 	h2, h3, h4, h5, h6 {
-		/* width: 50%; */
+		width: 25%;
 		/* width: 40rem; */
 	  }
 	  img {
@@ -448,8 +448,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	@media only screen and (max-width:767px) {
 	/* For mobile phones: */
 	h2, h3, h4, h5, h6 {
-	  /* width: 60%; */
-	  width: 15rem;
+	  width: 60%;
+	  /* width: 20rem; */
 	}
 	img {
 		/*height:10%;*/
