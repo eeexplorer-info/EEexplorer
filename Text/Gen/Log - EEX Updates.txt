@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 08 May 2024 ===------
+{
+== ALUMNI
+- Posts showing view count across platforms cleaned up
+
+== SCHOOL
+- Heads of School differing screen sizes made responsive
+}
+
+
 ------=== 07 May 2024 ===------
 {
 == ALUMNI
