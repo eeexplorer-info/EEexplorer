@@ -328,7 +328,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	h2, h3, h4, h5, h6 {
 		width: 20%;
 		/* width: 40rem; */
-	  }
+	}
 	img {
 		width: 62%;
 		/* width: 62%; */
@@ -357,7 +357,6 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	#myUL, #myInput {
 		/* width: 90%; */
 	}
-
 	#img_pghdr {
 	width: 35%;
 	}
@@ -372,37 +371,37 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	h2, h3, h4, h5, h6 {
 		width: 25%;
 		/* width: 40rem; */
-	  }
-	  img {
-		  width: 80%;
-		  /* width: 40rem; */
-		  /* width: 90%; */
-		  /* border-radius: 2rem; */
-	  }	
-	  figcaption {
-		  /* /* 62%;	same a for image */
-		  /* width: 25rem; */
-		  /* width: 80%; */
-		  /* border: 1px white solid; */
-		  /* border-radius: 2rem; */
-	  }
-	  iframe {
-		  /* width: 80%; */
-		  /* width: 20rem; */
-	  }
-	  table {
-		  /* width: 35rem; */
-		  /* width: 80%; */
-	  }
-	  td { text-align: left; }
-	  th { text-align: center; }
-  
-	  #myUL, #myInput {
-		  /* width: 90%; */
-	  }
+	}
+	img {
+		width: 80%;
+		/* width: 40rem; */
+		/* width: 90%; */
+		/* border-radius: 2rem; */
+	}	
+	figcaption {
+		/* /* 62%;	same a for image */
+		/* width: 25rem; */
+		/* width: 80%; */
+		/* border: 1px white solid; */
+		/* border-radius: 2rem; */
+	}
+	iframe {
+		/* width: 80%; */
+		/* width: 20rem; */
+	}
+	table {
+		/* width: 35rem; */
+		/* width: 80%; */
+	}
+	td { text-align: left; }
+	th { text-align: center; }
 
-	  #img_pghdr {
-		width: 50%;
+	#myUL, #myInput {
+		/* width: 90%; */
+	}
+
+	#img_pghdr {
+	width: 50%;
 	}
 	#img_pgbdy0 {
 		width: 40%;

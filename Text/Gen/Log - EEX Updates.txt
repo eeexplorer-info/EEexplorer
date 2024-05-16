@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 16 May 2024 ===------
+{
+== PATTERNS & CYCLES
+- table groups cleaned-up
+- monthly cycles table created and linked
+- monthly aspects table created
+
+== SEARCH
+- Planetary summary tables entered
+}
+
 ------=== 08 May 2024 ===------
 {
 == ALUMNI
