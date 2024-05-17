@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 18 May 2024 ===------
+{
+== CODING
+- Date on Home screen added
+- Library functions moved to subdirectories
+- Search/Filter function tested on this run
+
+
+== TOOLBOX / CALENDAR
++ Event tables for Alumni, Elsoc and School added
+}
+
+
 ------=== 16 May 2024 ===------
 {
 == PATTERNS & CYCLES

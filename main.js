@@ -1,15 +1,15 @@
 // 240211 - Generate Random Number between 12 and 100
 // It works in the HTML <script></script> tags
-function random(){
-    document.getElementById("one").innerHTML = Math.floor(Math.random() * 100)+1;
-    }
+// function random(){
+//     document.getElementById("one").innerHTML = Math.floor(Math.random() * 100)+1;
+//     }
 
 
-    function includeHTML() {
-        var z, i, elmnt, file, xhttp;
-        /*loop through a collection of all HTML elements:*/
-        z = document.getElementsByTagName("*");
-        for (i = 0; i < z.length; i++) {
+function includeHTML() {
+    var z, i, elmnt, file, xhttp;
+    /*loop through a collection of all HTML elements:*/
+    z = document.getElementsByTagName("*");
+    for (i = 0; i < z.length; i++) {
         elmnt = z[i];
         /*search for elements with a certain attribute:*/
         file = elmnt.getAttribute("w3-include-html");
@@ -30,5 +30,8 @@ function random(){
             /*exit the function:*/
             return;
         }
-        }
     }
+}
+
+
+

@@ -19,6 +19,7 @@ File: 0_HmSearch.html
 	<title>Search</title>
 
 	<head>
+		<script src="/js/libSearch.js"></script>
 		<nav>
 			<a name="Top"></a>	
 		</nav>
@@ -29,8 +30,8 @@ File: 0_HmSearch.html
 		internal = <head> <script> javascript ; </script> </head>
 		external = <script src="myScript.js"></script>
 		-->
-		<script>
-			function myFunction() {
+		<!-- <script>
+			function mySearch() {
 				// Declare variables
 				var input, filter, ul, li, a, i, txtValue;
 				input = document.getElementById('myInput');
@@ -49,7 +50,7 @@ File: 0_HmSearch.html
 					}
 				}
 			}
-		</script>
+		</script> -->
 		<center>
 			<figure>
 				<h2>ElecEng EXPLORER</h2>
@@ -69,7 +70,7 @@ File: 0_HmSearch.html
 
 			<table class="noborders">
 				<th class="center" colspan="4">SHORTCUTS</th>
-				<tr><td class="center"><a href="/0_HmAbout.html">ABOUT</a> --- <a href="/0_HmIndex.html">INDEX</a> --- <a href="/0_HmSiteMap.html">SITE-MAP</a> --- <a href="/0_HmUpdates.html">UPDATES</a></td></tr>
+				<tr><td class="center"><a href="/0_HmAbout.html">ABOUT</a></a> --- <a href="/0_HmIndex.html">INDEX</a> --- <a href="/0_HmSiteMap.html">SITE-MAP</a> --- <a href="/0_HmUpdates.html">UPDATES</a><br>EVENTS ( <a href="/2_TbxCalDTEvents.html#alumni">ALUMNI --- <a href="/2_TbxCalDTEvents.html#elsoc">ELSOC --- <a href="/2_TbxCalDTEvents.html#school">SCHOOL</a> )</td></tr>
 				<!-- <tr>
 					<td class="center"><a href="/0_HmAbout.html">ABOUT</a></td>
 					<td class="center"><a href="/0_HmIndex.html">INDEX</a></td>
@@ -78,7 +79,7 @@ File: 0_HmSearch.html
 				</tr> -->
 			</table>
 			<br><br>
-			<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Topic or Scroll...">
+			<input type="text" id="myInput" onkeyup="mySearchFilter()" placeholder="Search for Topic ... (Type or Scroll)">
 
 			<ul id="myUL">
 <!-- LATEST -->
