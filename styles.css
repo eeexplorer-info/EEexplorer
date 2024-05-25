@@ -21,10 +21,15 @@
 	*/
 
 /* apply to all */
+*, 
+*:: before,
+*:: after {
+	box-sizing: border-box;
+}
+
 * {
     margin:0px;
     padding: 0px;
-    box-sizing: border-box;
     /* font-family: Courier, Verdana, Helvetica, sans-serif; */
 	font-family: Verdana, Helvetica, sans-serif;
 }
@@ -358,10 +363,13 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 90%; */
 	}
 	#img_pghdr {
-	width: 35%;
+		width: 35%;
 	}
 	#img_pgbdy0 {
 		width: 20%;
+	}
+	#flyer {
+		width: 35%;
 	}
   }
 
@@ -406,6 +414,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	#img_pgbdy0 {
 		width: 40%;
 	}
+	#flyer {
+		width: 50%;
+	}
   }
 
 
@@ -449,6 +460,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 	#img_pgbdy0 {
 		width: 40%;
+	}
+	#flyer {
+		width: 80%;
 	}
   }
 
@@ -497,6 +511,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	#img_pgbdy0 {
 		width: 50%;
 	}
+	#flyer {
+		width: 90%;
+	}
 }
 
 
@@ -539,10 +556,17 @@ a:visited {
 	color: pink; /*hotpink; /* pink;*/
 	text-decoration: none;
 }
+/* unresolved 240515: underlines all text inside the <a> </a> tags instead of only the active links */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/:hover */
+/* a:hover {
+	text-decoration: underline lightgreen;
+} */
 a:active {
 	color: yellow;
 	text-decoration: none;
+	/* text-decoration: underline lightgreen; */
 }
+
 
 
 /* test of class definition */

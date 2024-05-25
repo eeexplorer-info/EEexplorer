@@ -6,6 +6,8 @@ File: 0_HmAbout.html
 -->
 <!DOCTYPE html>
 <html lang="en">
+	<script src="/js/libScreen.js"></script>
+
 	<meta name="title" content="About"><meta name="description" content="About this site: Content type, Navigation options, Questions (who, what, when, where, why, how, cost)."><meta name="keywords" content="about, content, navigation, questions, about, ee explorer"><meta name="robots" content="index, follow"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" type="image/x-icon" href="favicon.ico"><link rel="stylesheet" href="styles.css"><meta name="language" content="English"><meta name="author" content="Robert Smith"><title>About</title>
 
 	<head>
@@ -16,8 +18,12 @@ File: 0_HmAbout.html
 		<center>
 			<figure>
 				<h2>ElecEng EXPLORER</h2>
+				<p id="ScrnWH"></p>
+				<script>showScrnWH();</script>
+
 				<!--<img src="Img_NotePad Pkt 230719mb_420p.webp" width="62%" height="50%" alt="Img_Notepad 640x610.webp">-->
 				<img id="img_pghdr" src="./Images/Gen/Img_NotePad Pkt 230719mb_420p.webp" alt="Pocket Notepads">
+
 				<figcaption id="img_pghdr">
 					<a href="/index.html">HOME</a> > ABOUT
 				</figcaption>
@@ -33,6 +39,13 @@ File: 0_HmAbout.html
 	
 	<body>
 		<center>
+			<!-- How TO - Get The Current Screen Size
+			https://www.w3schools.com/howto/howto_js_get_current_window.asp -->
+			<!-- <h2>Get the size of the current screen/window</h2> -->
+<!-- <p>The example displays the browser window's height and width: (NOT including toolbars/scrollbars) -->
+
+
+
 			<a name="contents">
 			<h4>CONTENT TYPE</h4>
 			<!-- -->
@@ -231,7 +244,7 @@ File: 0_HmAbout.html
 				<!--<td>4</td>-->
 				<td class="centerYW">WHERE</td>
 				<td class="left"><br>- Via an INTERNET browser.
-					<br>- Initially for a MOBILE device.
+					<br>- Initially for a MOBILE device. Responsive to tablet, laptop and desktop in stages.
 					<br>
 					<br>- CONTEXT: Professional, Personal and Social.
 					<br><br>
@@ -253,8 +266,8 @@ File: 0_HmAbout.html
 			  <tr>
 				<!--<td>6</td>-->
 				<td class="centerYW">HOW</td>
-				<td class="left"><br>- AIM: Minimum Visual Pollution.
-					<br>- LEVEL: <a class="colourBkYw">__1__</a> --- <a class="colourBkCy">__2__</a> --- <a class="colourBkLm">__3__</a> --- <a class="colourBkOr">__4__</a>
+				<td class="left"><br>- AIM: Zero Visual Noise / Pollution.
+					<br>- Beadcrumb LEVEL:<br>- <a class="colourBkYw">__1__</a> --- <a class="colourBkCy">__2__</a> --- <a class="colourBkLm">__3__</a> --- <a class="colourBkOr">__4__</a>
 					<br>
 					<br>- LINKS: 
 					<span style="color:lightgreen">AVAILABLE</span>, 

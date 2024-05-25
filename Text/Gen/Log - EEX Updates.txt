@@ -1,16 +1,29 @@
 Log - EEX Updates
 
 
+------=== 25 May 2024 ===------
+{
+== CODING
+- Device screen size feedback added to ABOUT
+
+== SCHOOL
+- Event Calendar entry for Alumni, Elsoc & School added
+
+== TOOLBOX
+- Event Calendar - Links to Alumni Connect Nights activated
+- Patterns - Overwide Planet Movement tables were narrowed
+}
+
+
 ------=== 18 May 2024 ===------
 {
 == CODING
 - Date on Home screen added
 - Library functions moved to subdirectories
-- Search/Filter function tested on this run
 
 
 == TOOLBOX / CALENDAR
-+ Event tables for Alumni, Elsoc and School added
+- Event tables for Alumni, Elsoc and School added
 }
 
 

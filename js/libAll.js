@@ -62,3 +62,11 @@ function showDate() {
     // document.writeln(" -- (" + ihr + ":" + smins + " " + sampm + ")");
 }
 
+
+function showScrnWH() {
+    var w = window.innerWidth;
+    var h = window.innerHeight;
+    var x = document.getElementById("ScrnWH");
+    x.innerHTML = "Screen: " + w + "W, " + h + "H";
+}
+

@@ -6,6 +6,8 @@ File: 1_TbxPatnPlanets.html
 -->
 <!DOCTYPE HTML>
 <html lang="en">
+	<script src="/js/libScreen.js"></script>
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
@@ -19,11 +21,14 @@ File: 1_TbxPatnPlanets.html
 		<center>
 			<figure>
 				<h2>ElecEng EXPLORER</h2>
+				<p id="ScrnWH"></p>
+				<script>showScrnWH();</script>
 				<!--<img src="Img_BldgRnwl - Elsoc 180427_480p.webp" width="62%" height="50%" alt="Img_BldgRnwl - Elsoc 180427_480p.webp">-->
 
 				<!-- ok -->
-				<img class="#img_pghdr" src="/Images/Tbx/Img_PatnPlanets sml.webp" alt="Planets">
-				<figcaption id="img_pghdr">
+				<img id="img_pghdr" src="/Images/Tbx/Img_PatnPlanets sml.webp" alt="Planets">
+
+				<figcaption>
 					<a href="/index.html">HOME</a> >
 					<a href="/0_HmToolbox.html">TOOLBOX</a> >
 					<a href="/1_TbxPatn.html">PATTERNS & CYCLES</a> > PLANETARY
@@ -110,31 +115,100 @@ File: 1_TbxPatnPlanets.html
 			<a name="movements">
 			<h6>PLANET MOVEMENTS</h6>
 			<table class="cell_txtcenter">
-				<th>2024</th><th>SUN</th><th>MERC</th><th>VEN</th><th>MARS</th><th>JUP</th><th>SATN</th><th>URAN</th><th>NEPT</th><th>PLUT</th><th>2024</th>
-					<tr><td>STRT</td><td>CP</td><td>SA</td><td>SA</td><td>SA</td><td>TA</td><td>PI</td><td>TA</td><td>PI</td><td>CP</td><td>STRT</td></tr>
-					<tr><td class="centerLM">JAN</td><td>21.AQ</td><td></td><td>23.CP</td><td>05.CP</td><td></td><td></td><td>27.DI</td><td></td><td>21.AQ</td><td class="centerLM">JAN</td></tr>
-					<tr><td class="centerLM">FEB</td><td>19.PI</td><td>05.AQ</td><td>17.AQ</td><td>13.AQ</td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">FEB</td></tr>
-					<tr><td class="centerLM"></td><td></td><td>23.PI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM">MAR</td><td>20.AR</td><td>10.AR</td><td>12.PI</td><td>23.PI</td><td></td><td></td><td></td><td></td><td><td class="centerLM">MAR</td></tr>
-					<tr><td class="centerLM">APR</td><td>20.TA</td><td>02.RE</td><td>05.AR</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">APR</td></tr>
-					<tr><td class="centerLM"></td><td></td><td>25.DI</td><td>29.TA</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM">MAY</td><td>20.GE</td><td>16.TA</td><td>24.GE</td><td>01.AR</td><td>26.GE</td><td></td><td></td><td></td><td>03.RE</td><td class="centerLM">MAY</td></tr>
-					<tr><td class="centerLM">JUN</td><td>21.CA</td><td>03.GE</td><td>17.CA</td><td>09.TA</td><td></td><td>30.RE</td><td></td><td></td><td></td><td class="centerLM">JUN</td></tr>
-					<tr><td class="centerLM"></td><td></td><td>17.CA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM">JUL</td><td>22.LE</td><td>02.LE</td><td>12.LE</td><td>21.GE</td><td></td><td></td><td></td><td>02.RE</td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM"></td><td></td><td>26.VI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">JUL</td></tr>
-					<tr><td class="centerLM">AUQ</td><td>23.VI</td><td>05.RE</td><td>05.VI</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">AUG</td></tr>
-					<tr><td class="centerLM"></td><td></td><td>15.LE</td><td>29.LI</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM"></td><td></td><td>29.DI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM">SEP</td><td>22.LI</td><td>09.VI</td><td>23.SC</td><td>05.CA</td><td></td><td></td><td>02.RE</td><td></td><td>02.CP</td><td class="centerLM">SEP</td></tr>
-					<tr><td class="centerLM"></td><td></td><td>26.LI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM">OCT</td><td>23.SC</td><td>14.SC</td><td>18.SA</td><td></td><td>09.RE</td><td></td><td></td><td></td><td>12.DI</td><td class="centerLM">OCT</td></tr>
-					<tr><td class="centerLM">NOV</td><td>22.SA</td><td>03.SA</td><td>12.CP</td><td>04.LE</td><td></td><td>16.DI</td><td></td><td></td><td>20.AQ</td><td class="centerLM">NOV</td></tr>
-					<tr><td class="centerLM"></td><td></td><td>25.RE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
-					<tr><td class="centerLM">DEC</td><td>21.CP</td><td>12.DI</td><td>07.AQ</td><td>07.RE</td><td></td><td></td><td></td><td>08.DI</td><td></td><td class="centerLM">DEC</td></tr>
-					<tr><td><a href="#Top">TOP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><a href="#Top">TOP</td></tr>
+				<th>2024</th><th>SUN</th><th>MERCURY</th><th>VENUS</th><th>MARS</th>
+					<tr><td>START</td><td>CAP</td><td>SAG</td><td>SAG</td><td>SAG</td></tr>
+					<tr><td class="centerLM">JAN</td><td>21, AQ</td><td>14, CP</td><td>23, CP</td><td>05, CP</td></tr>
+					<tr><td class="centerLM">FEB</td><td>19, PI</td><td>05, AQ</td><td>17, AQ</td><td>13, AQ</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>23, PI</td><td></td><td></td></tr>
+					<tr><td class="centerLM">MAR</td><td>20, AR</td><td>10, AR</td><td>12, PI</td><td>23, PI</td></tr>
+					<tr><td class="centerLM">APR</td><td>20, TA</td><td>02, RET</td><td>05, AR</td><td></td></tr>
+					<tr><td class="centerLM"></td><td></td><td>25, DIR</td><td>29, TA</td><td></td></tr>
+					<tr><td class="centerLM">MAY</td><td>20, GE</td><td>16, TA</td><td>24, GE</td><td>01, AR</td></tr>
+					<tr><td class="centerLM">JUN</td><td>21, CA</td><td>03, GE</td><td>17, CA</td><td>09, TA</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>17, CA</td><td></td><td></td></tr>
+					<tr><td class="centerLM">JUL</td><td>22, LE</td><td>02, LE</td><td>12, LE</td><td>21, GE</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>26, VI</td><td></td><td></td></tr>
+					<tr><td class="centerLM">AUG</td><td>23, VI</td><td>05, RET</td><td>05.VI</td><td></td></tr>
+					<tr><td class="centerLM"></td><td></td><td>15, LE</td><td>29, LI</td><td></td></tr>
+					<tr><td class="centerLM"></td><td></td><td>29, DIR</td><td></td><td></td></tr>
+					<tr><td class="centerLM">SEP</td><td>22, LI</td><td>09, VI</td><td>23, SC</td><td>05, CA</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>26, LI</td><td></td><td></td></tr>
+					<tr><td class="centerLM">OCT</td><td>23, SC</td><td>14, SC</td><td>18, SA</td><td></td></tr>
+					<tr><td class="centerLM">NOV</td><td>22, SA</td><td>03, SA</td><td>12, CP</td><td>04, LE</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>25, RET</td><td></td><td></td></tr>
+					<tr><td class="centerLM">DEC</td><td>21, CP</td><td>12, DIR</td><td>07, AQ</td><td>07, RET</td></tr>
+					<tr><td><a href="#Top">TOP</td><td></td><td></td><td></td><td></td></tr>
 			</table>
 			<br><br>
+			<table  class="cell_txtcenter">
+					<th>2024</th><th>JUPITER</th><th>SATURN</th><th>URANUS</th><th>NEPTUNE</th><th>PLUTO</th>
+					<tr><td>START</td><td>TAU</td><td>PIS</td><td>TAU</td><td>PIS</td><td>CAP</td></tr>
+					<tr><td class="centerLM">JAN</td><td></td><td></td><td>27, DIR</td><td></td><td>21, AQ</td></tr>
+					<tr><td class="centerLM">FEB</td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">MAR</td><td></td><td></td><td></td><td></td><td></tr>
+					<tr><td class="centerLM">APR</td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">MAY</td><td>26, GE</td><td></td><td></td><td></td><td>03, RET</td></tr>
+					<tr><td class="centerLM">JUN</td><td></td><td>30, RET</td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM"></td><td></td><td></td><td></td><td>02, RET</td><td></td></tr>
+					<tr><td class="centerLM">JUL</td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">AUG</td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">SEP</td><td></td><td></td><td>02, RET</td><td></td><td>02, CP</td></tr>
+					<tr><td class="centerLM">OCT</td><td>09, RET</td><td></td><td></td><td></td><td>10, DIR</td></tr>
+					<tr><td class="centerLM">NOV</td><td></td><td>16, DIR</td><td></td><td></td><td>20, AQ</td></tr>
+					<tr><td class="centerLM">DEC</td><td></td><td></td><td></td><td>08, DI</td><td></td></tr>
+					<tr><td><a href="#Top">TOP</td><td></td><td></td><td></td><td></td><td></td></tr>
+						
+						<!-- <th>2024</th><th>SUN</th><th>MERC</th><th>VEN</th><th>MARS</th><th>JUP</th><th>SATN</th><th>URAN</th><th>NEPT</th><th>PLUT</th><th>2024</th>
+						<tr><td></td><td>CP</td><td>SA</td><td>SA</td><td>SA</td><td>TA</td><td>PI</td><td>TA</td><td>PI</td><td>CP</td><td></td></tr>
+						<tr><td class="centerLM">JAN</td><td>21.AQ</td><td></td><td>23.CP</td><td>05.CP</td><td></td><td></td><td>27.DI</td><td></td><td>21.AQ</td><td class="centerLM">JA</td></tr>
+						<tr><td class="centerLM">FEB</td><td>19.PI</td><td>05.AQ</td><td>17.AQ</td><td>13.AQ</td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">FE</td></tr>
+						<tr><td class="centerLM"></td><td></td><td>23.PI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM">MAR</td><td>20.AR</td><td>10.AR</td><td>12.PI</td><td>23.PI</td><td></td><td></td><td></td><td></td><td><td class="centerLM">MA</td></tr>
+						<tr><td class="centerLM">Apr</td><td>20.TA</td><td>02.RE</td><td>05.AR</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">AP</td></tr>
+						<tr><td class="centerLM"></td><td></td><td>25.DI</td><td>29.TA</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM">MAY</td><td>20.GE</td><td>16.TA</td><td>24.GE</td><td>01.AR</td><td>26.GE</td><td></td><td></td><td></td><td>03.RE</td><td class="centerLM">MY</td></tr>
+						<tr><td class="centerLM">JUN</td><td>21.CA</td><td>03.GE</td><td>17.CA</td><td>09.TA</td><td></td><td>30.RE</td><td></td><td></td><td></td><td class="centerLM">JN</td></tr>
+						<tr><td class="centerLM"></td><td></td><td>17.CA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM">JUL</td><td>22.LE</td><td>02.LE</td><td>12.LE</td><td>21.GE</td><td></td><td></td><td></td><td>02.RE</td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM"></td><td></td><td>26.VI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">JL</td></tr>
+						<tr><td class="centerLM">AUG</td><td>23.VI</td><td>05.RE</td><td>05.VI</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">AU</td></tr>
+						<tr><td class="centerLM"></td><td></td><td>15.LE</td><td>29.LI</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM"></td><td></td><td>29.DI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM">SEP</td><td>22.LI</td><td>09.VI</td><td>23.SC</td><td>05.CA</td><td></td><td></td><td>02.RE</td><td></td><td>02.CP</td><td class="centerLM">SE</td></tr>
+						<tr><td class="centerLM"></td><td></td><td>26.LI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM">OCT</td><td>23.SC</td><td>14.SC</td><td>18.SA</td><td></td><td>09.RE</td><td></td><td></td><td></td><td>12.DI</td><td class="centerLM">OC</td></tr>
+						<tr><td class="centerLM">NOV</td><td>22.SA</td><td>03.SA</td><td>12.CP</td><td>04.LE</td><td></td><td>16.DI</td><td></td><td></td><td>20.AQ</td><td class="centerLM">NV</td></tr>
+						<tr><td class="centerLM"></td><td></td><td>25.RE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+						<tr><td class="centerLM">DEC</td><td>21.CP</td><td>12.DI</td><td>07.AQ</td><td>07.RE</td><td></td><td></td><td></td><td>08.DI</td><td></td><td class="centerLM">DE</td></tr>
+						<tr><td><a href="#Top">TOP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><a href="#Top">TOP</td></tr> -->
+			</table>
+			<br><br>
+			<!-- <table class="cell_txtcenter">
+				<th>2024</th><th>SUN</th><th>MERC</th><th>VEN</th><th>MARS</th><th>JUP</th><th>SATN</th><th>URAN</th><th>NEPT</th><th>PLUT</th><th>2024</th>
+					<tr><td></td><td>CP</td><td>SA</td><td>SA</td><td>SA</td><td>TA</td><td>PI</td><td>TA</td><td>PI</td><td>CP</td><td></td></tr>
+					<tr><td class="centerLM">JAN</td><td>21.AQ</td><td></td><td>23.CP</td><td>05.CP</td><td></td><td></td><td>27.DI</td><td></td><td>21.AQ</td><td class="centerLM">JA</td></tr>
+					<tr><td class="centerLM">FEB</td><td>19.PI</td><td>05.AQ</td><td>17.AQ</td><td>13.AQ</td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">FE</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>23.PI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM">MAR</td><td>20.AR</td><td>10.AR</td><td>12.PI</td><td>23.PI</td><td></td><td></td><td></td><td></td><td><td class="centerLM">MA</td></tr>
+					<tr><td class="centerLM">Apr</td><td>20.TA</td><td>02.RE</td><td>05.AR</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">AP</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>25.DI</td><td>29.TA</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM">MAY</td><td>20.GE</td><td>16.TA</td><td>24.GE</td><td>01.AR</td><td>26.GE</td><td></td><td></td><td></td><td>03.RE</td><td class="centerLM">MY</td></tr>
+					<tr><td class="centerLM">JUN</td><td>21.CA</td><td>03.GE</td><td>17.CA</td><td>09.TA</td><td></td><td>30.RE</td><td></td><td></td><td></td><td class="centerLM">JN</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>17.CA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM">JUL</td><td>22.LE</td><td>02.LE</td><td>12.LE</td><td>21.GE</td><td></td><td></td><td></td><td>02.RE</td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM"></td><td></td><td>26.VI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">JL</td></tr>
+					<tr><td class="centerLM">AUG</td><td>23.VI</td><td>05.RE</td><td>05.VI</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM">AU</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>15.LE</td><td>29.LI</td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM"></td><td></td><td>29.DI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM">SEP</td><td>22.LI</td><td>09.VI</td><td>23.SC</td><td>05.CA</td><td></td><td></td><td>02.RE</td><td></td><td>02.CP</td><td class="centerLM">SE</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>26.LI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM">OCT</td><td>23.SC</td><td>14.SC</td><td>18.SA</td><td></td><td>09.RE</td><td></td><td></td><td></td><td>12.DI</td><td class="centerLM">OC</td></tr>
+					<tr><td class="centerLM">NOV</td><td>22.SA</td><td>03.SA</td><td>12.CP</td><td>04.LE</td><td></td><td>16.DI</td><td></td><td></td><td>20.AQ</td><td class="centerLM">NV</td></tr>
+					<tr><td class="centerLM"></td><td></td><td>25.RE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td class="centerLM"></td></tr>
+					<tr><td class="centerLM">DEC</td><td>21.CP</td><td>12.DI</td><td>07.AQ</td><td>07.RE</td><td></td><td></td><td></td><td>08.DI</td><td></td><td class="centerLM">DE</td></tr>
+					<tr><td><a href="#Top">TOP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><a href="#Top">TOP</td></tr>
+			</table>
+			<br><br> -->
 				
 			<img src="/Images/Tbx/Img_Planet Mvts 2024 sml.webp" alt="Planet Movements sml">
 			<figcaption>
@@ -146,6 +220,38 @@ File: 1_TbxPatnPlanets.html
 
 			<a name="retrogrades">
 			<h6>PLANET RETROGRADES</h6>
+				<table class="cell_txtcenter">
+					<th>2024</th><th>ME</th><th>VE</th><th>MA</th><th>JU</th><th>SN</th><th>UR</th><th>NE</th><th>PL</th><th>CH</th>
+					<tr><td class="centerLM">JAN</td><td>ME</td><td></td><td></td><td></td><td></td><td>UR</td><td></td><td></td><td></td></tr>
+					<tr><td></td><td>02</td><td></td><td></td><td></td><td></td><td>UR</td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td></td><td>27</td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">FEB</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">MAR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">APR</td><td>02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td>ME</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td>25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">MAY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>03</td><td></td></tr>
+					<tr><td class="centerLM">JUN</td><td></td><td></td><td></td><td></td><td>30</td><td></td><td></td><td>PL</td><td></td></tr>
+					<tr><td class="centerLM">JUL</td><td></td><td></td><td></td><td></td><td>SN</td><td></td><td>02</td><td>PL</td><td></td></tr>
+					<tr><td></td><td></td><td></td><td></td><td></td><td>SN</td><td></td><td>NE</td><td>PL</td><td>27</td></tr>
+					<tr><td class="centerLM">AUG</td><td>05</td><td></td><td></td><td></td><td>SN</td><td></td><td>NE</td><td>PL</td><td>CH</td></tr>
+					<tr><td></td><td>ME</td><td></td><td></td><td></td><td>SN</td><td></td><td>NE</td><td>PL</td><td>CH</td></tr>
+					<tr><td></td><td>29</td><td></td><td></td><td></td><td>SN</td><td></td><td>NE</td><td>PL</td><td>CH</td></tr>
+					<tr><td class="centerLM">SEP</td><td></td><td></td><td></td><td></td><td>SN</td><td></td><td>NE</td><td>PL</td><td>CH</td></tr>
+					<tr><td class="centerLM">OCT</td><td></td><td></td><td></td><td>09</td><td>SN</td><td>09</td><td>NE</td><td>PL</td><td>CH</td></tr>
+					<tr><td></td><td></td><td></td><td></td><td>JU</td><td>SN</td><td>UR</td><td>NE</td><td>10</td><td>CH</td></tr>
+					<tr><td class="centerLM">NOV</td><td></td><td></td><td></td><td>JU</td><td>16</td><td>UR</td><td>NE</td><td></td><td>CH</td></tr>
+					<tr><td></td><td>25</td><td></td><td></td><td>JU</td><td></td><td>UR</td><td>NE</td><td></td><td>CH</td></tr>
+					<tr><td class="centerLM">DEC</td><td>ME</td><td></td><td>07</td><td>JU</td><td></td><td>UR</td><td>NE</td><td></td><td>CH</td></tr>
+					<tr><td></td><td>ME</td><td></td><td>MA</td><td>JU</td><td></td><td>UR</td><td>08</td><td></td><td>CH</td></tr>
+					<tr><td></td><td>16</td><td></td><td>MA</td><td>JU</td><td></td><td>UR</td><td></td><td></td><td>CH</td></tr>
+					<tr><td class="centerLM">JAN</td><td></td><td></td><td>MA</td><td>JU</td><td></td><td>UR</td><td></td><td></td><td>15</td></tr>
+					<tr><td></td><td></td><td></td><td>MA</td><td>JU</td><td></td><td>31</td><td></td><td></td><td></td></tr>
+					<tr><td class="centerLM">FEB</td><td></td><td></td><td>MA</td><td>04</td><td></td><td></td><td></td><td></td><td></td></tr>
+					<tr><td></td><td></td><td></td><td>24</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+				</table>
+				<br><br>
+<!-- 
 				<table class="cell_txtcenter">
 				<th>2024</th><th>PERIOD_1</th><th>PERIOD_2</th><th>PERIOD_3</th>
 				<tr><td class="centerLM">MERCURY</td><td> ...  JAN 02</td><td>APR 02 ... APR 25</td><td>AUG 05 ... AUG 29</td></tr>	
@@ -163,7 +269,7 @@ File: 1_TbxPatnPlanets.html
 				<tr><td class="centerLM">PLUTO</td><td>MAY 03 ... OCT 10</td><td></td><td></td></tr>
 				<tr><td class="centerLM">CHIRON</td><td>JUL 27 ...</td><td>... JAN 15</td><td></td></tr>
 				<tr><td><a href="#Top">TOP</td><td></td><td></td><td><a href="" target="_blank"></a> MORE</a> (.1drv</td></tr>
-			</table>
+			</table> -->
 				<!-- <iframe src="/TxtPatterns/Pattern - Retrogrades.txt" style="height: 200px; border: none;"></iframe> -->
 			<br><br>
 			<img src="/Images/Tbx/Img_Panet Retro 2024 sml.webp" alt="WIP: Planet Retrogrades 2024">
