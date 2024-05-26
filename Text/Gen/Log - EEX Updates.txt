@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 26 May 2024 ===------
+{
+== ALUMNI
+- Post for 26 May with PDF, EPUB, MOBI uploaded
+- Index tables updated
+}
+
+
 ------=== 25 May 2024 ===------
 {
 == CODING
