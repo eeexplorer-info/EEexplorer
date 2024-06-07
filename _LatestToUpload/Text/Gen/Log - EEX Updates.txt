@@ -1,6 +1,358 @@
 Log - EEX Updates
 
 
+------=== 7 Jun 2024 ===------
+{
+== ABOUT
+- NAVIGATION - Event pathway added
+
+== ALUMNI
+- POST for 7 JUN added
+= POST VIEW COUNTS for 2024 updated
+
+
+== WORK n LIFE
+- QUOTES
+-- Abraham Lincoln - updated
+-- Epitetus - updated
+-- Mark Twain - updated
+-- Paul Coelho - updated
+-- Peter Drucker - added
+-- Pythagoras - updated
+-- Richard Feynman - updated
+-- Spain - updated
+-- Zig Ziglar - updated
+}
+
+
+------=== 26 May 2024 ===------
+{
+== ALUMNI
+- Post for 26 May with PDF, EPUB, MOBI uploaded
+- Index tables updated
+}
+
+
+------=== 25 May 2024 ===------
+{
+== CODING
+- Device screen size feedback added to ABOUT
+
+== SCHOOL
+- Event Calendar entry for Alumni, Elsoc & School added
+
+== TOOLBOX
+- Event Calendar - Links to Alumni Connect Nights activated
+- Patterns - Overwide Planet Movement tables were narrowed
+}
+
+
+------=== 18 May 2024 ===------
+{
+== CODING
+- Date on Home screen added
+- Library functions moved to subdirectories
+
+
+== TOOLBOX / CALENDAR
+- Event tables for Alumni, Elsoc and School added
+}
+
+
+------=== 16 May 2024 ===------
+{
+== PATTERNS & CYCLES
+- table groups cleaned-up
+- monthly cycles table created and linked
+- monthly aspects table created
+
+== SEARCH
+- Planetary summary tables entered
+}
+
+------=== 08 May 2024 ===------
+{
+== ALUMNI
+- Posts showing view count across platforms cleaned up
+
+== SCHOOL
+- Heads of School differing screen sizes made responsive
+}
+
+
+------=== 07 May 2024 ===------
+{
+== ALUMNI
+- Ctee Honour Board updated
+- Ctee Mtgs - Tables made to fit mobile screens
+- Social Network Posts - View Counts added
+
+== SEARCH
+- List expanded
+- Shortcuts to About, Index, SiteMap, Updates added
+
+== SITE-MAP
+- Column Indents & Font sizes cleaned up
+- Links to Switchboard, Work+Life Maps activated
+
+== TOOLBOX
+- HEALTH & SAFETY - Hazardous Chemical amd Material Handling links added
+- SHORTCUTS - SEARCH option added
+}
+
+
+------=== 04 May 2024 ===------
+{
+== CODING
+- Screens for Desktop, Laptop, Tablet and Mobile made responsive
+- Font style changed from Courier New to Helvetica
+- Shortcut links on page tops uncluttered
+_ SiteMap links - latest populated
+}
+
+
+------=== 30 Apr 2024 ===------
+{
+== CODING
+- Back end generator for A-Z of links created
+- same uploaded into Search Menu
+- Menu links from lower to upper case - cosmetic change
+
+== SEARCH
+- Generated list of links integrated
+- Launch option at bottom added
+}
+
+
+== ALUMNI
+- Connect Night big table separated into small tables
+- same for Site Tours
+- Connect Night Flyers back-linked to sub tables
+- same for Site Tour
+
+
+== SEARCH
+- Main graphic reconstructed
+- Lookup table mignifying glass icon added
+- Background and highlight colours adjusted to see easier
+}
+
+
+------=== 25 Apr 2024 ===------
+{
+== ALUMNI
+- Navigation system (PRV, NXT) for each Post added
++ same for each year index
+
+
+== CODING
+- Search Menu at ALL pages added
+- Created and tested
+- Search Items for List A-Z populated
+}
+
+
+
+------=== 24 Apr 2024 ===------
+{
+== ALUMNI
+- Posts for each year moves into separate files
+- Grid Table of Posts created
+- Grid Table overflow of Ctee mtgs fit to screen view
+
+== CODING
+- DropUp Menu at ALL pages added
+}
+
+
+------=== 22 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
+- ANZAC Day post added
+}
+
+
+
+------=== 20 Apr 2024 ===------
+{
+== CODING
+- Site-Map structure reformatted
+- Text alignment in post & some tables corrected
+}
+
+
+------=== 19 Apr 2024 ===------
+{
+== CODING 
+- Btm sticky menu bar to rest of pages added
+- Main Menu page overhauled
+- Responsive image sizes for Laptop / Desktop corrected
+}
+
+
+------=== 18 Apr 2024 ===------
+{
+== ABOUT page
++ Document types: ePUB & MOBI added
++ Funeral section added
+
+== ALUMNI Page
++ Posts for ANZAC and Mother's Day setup
+
+== CODING
++ Navigation Bar made to stick on screen bottom
++ Shortcut links on all pages reformatted
+
+== FUNERAL Page
++ Staff List link added
+
+== INDEX page
++ Funeral page for Staff & Students added
+
+== STAFF EMPLOYED page
++ Link to Funeral page added
+}
+
+
+------=== 16 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Funeral Round-up post added
+
+== SCHOOL RELATED
++ FUNERALS menu for Staff & Students added
++ Neville Rees, Robert Radzyner pages created
+}
+
+
+------=== 11 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Background for Prof. Neville Rees added
++ Background for Dr Radzyner added
+}
+
+
+------=== 06 Apr 2024 ===------
+{
+== ALUMNI ACTIVITY
+POSTS (2019-current): typos in titles corrected
++ Trialling "View as EPUB, MOBI and PDF" added
++ Funeral posts for ElecEng Staff added
+
+== TOOLBOX
++ CALENDAR - Table of UNSW and School Terms added
+}
+
+
+------=== 01 Apr 2024 ===------
+{
+== ALUMNI ACTIVITIY
++ Posts for December 2023 populated
+} morning
+
+
+------=== 31 Mar 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Social Network table of links simplified
++ Shared post Section Headings 2019..2023 populated
++ Graphic for image header was sketched & scanned
++ Navigation (PRV, NXT) at Bottom and Top Right of Post added
++ 
+}
+
+
+------=== 29 Mar 2024 ===------
+{
+== TOOLBOX
++ PUBLIC TRANSPORT - Fuel Check site added
++ CHARTS - Conversions for TV Screen sizes populated
++ same - for Torque populated
+
+== ALUMNI ACTIVITY
++ Table & tree of Posts created
++ Last two Posts in March 2024 created made responsive
+}
+
+
+------=== 25 Mar 2024 ===------
+{
+== ALUMNI ACTIVITY
++ Connect Nights - more dates found and updated
+
+== TOOLBOX
+[a] CHARTS - Computer Data lookup tables expanded
++ same - Online UNIT CONVERTER added
+[b] PIONEERS of Electricity table reogranised
+[c] PUBLIC TRANSPORT links for NSW added
+
+== WORK n LIFE
++ MAPS - Sydney Train, Bus, Ferry Networks added
+}
+
+
+------=== 21 Mar 2024 ===------
+{
+== INDEX
++ Entries for A, C, E, H, I, M, P, R, S, T, U updated
+
+== TOOLBOX \ PATTERNS
++ Charts of Moon's Eclipses (2015-2026) updated
++ Chart of Pluto Transit to Aquarius added
+}
+
+
+------=== 12 Mar 2024 ===------
+{
+== TOOLBOX
+[a] CHEAT SHEETS \ CODING = C, C++, Pascal links added
+[b] DICTIONARY \ DICTIONARY
++ Scrabble Dictionary, Word Finder added
+[b] DICTIONARY \ GRAMMAR
++ Parts of Speech added
+[c] DOCUMENTATION \ DRAWING CHARTS
++ Graph paper generation sites (A4, Print, Virtual) added
+
+[c] NOTEBOOKS section added
++  (eex240214) Forest Mims, Drill & Tap unfinished
+
+[d] CHARTS & TABLES
++ CONVERSION main table created
++ Two-way sub-tables with interconnected links created
++ same (AREA, DIAMETER, DISTANCE, LENGTH) filled
++ same (PRESSURE, SPEED, TEMPERATURE) filled
++ same (TORQUE, VOLUME, WEIGHT ) filled
++ formuale for all conversion tables added
++ LOGIC - DL/RTL/TTL created
+|
++ UNIVERSAL CONSTANTS table created
++ same Chemical, Mathematical, Physical added
+
+== WEBSITE \ SUPPORTIVE
++ Australian Health Resource Directory added
+}
+
+
+------=== 08 Mar 2024 ===------
+Alumni Post index, Ctee mtgs & Lightrail snaphots
+{
+== ALUMNI
++ Ctee Meetings table populated and uploaded
++ Index of Posts updated & uploaded
++ PDF of all my 2023 Posts uploaded
+
+== CODING
++ All Page Images converted from JPG to WEBP to render quicker
+
+== CORRECTIONS
++ Index - Acknowledgement (current/ancient) links fixed
+
+== SCHOOL
++ Anzac Pde Lightrail construction snapshots added
+}
+
+
 ------=== 04 Mar 2024 ===------
 {
 == ALUMNI
@@ -17,7 +369,6 @@ Log - EEX Updates
 [c] - unprintable characters made visible for Douglas Adams
 + Work Collar types - spelling corrected
 }
-
 
 ------=== 29 Feb 2024 ===------
 {
@@ -62,7 +413,7 @@ Log - EEX Updates
 == CORRECTIONS
 + Image for 2015 Alumni Connect Flyer uploaded
 + Image for Roundhouse Renewal uploaded
-+ Missing shortcuts to Buidling Renewal added
++ Missing shortcuts to Building Renewal added
 + Pioneers of Electricity mugshots - link fixed
 
 == ELSOC
@@ -106,7 +457,7 @@ Log - EEX Updates
 + Building Renewal table created
 + Online directories linked
 + Photos - ElecEng more found & uploaded
-+ Photos - Roundhose Renewal found & uploaded
++ Photos - Roundhouse Renewal found & uploaded
 
 == WORK N LIFE
 + Online directories for Hobbies linked
