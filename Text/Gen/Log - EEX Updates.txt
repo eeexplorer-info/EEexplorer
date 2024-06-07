@@ -1,6 +1,29 @@
 Log - EEX Updates
 
 
+------=== 7 Jun 2024 ===------
+{
+== ABOUT
+- NAVIGATION - Event pathway added
+
+== ALUMNI
+- POST for 7 JUN added
+= POST VIEW COUNTS for 2024 updated
+
+== WORK n LIFE
+- QUOTES
+-- Abraham Lincoln - updated
+-- Epitetus - updated
+-- Mark Twain - updated
+-- Paul Coelho - updated
+-- Peter Drucker - added
+-- Pythagoras - updated
+-- Richard Feynman - updated
+-- Spain - updated
+-- Zig Ziglar - updated
+}
+
+
 ------=== 26 May 2024 ===------
 {
 == ALUMNI
