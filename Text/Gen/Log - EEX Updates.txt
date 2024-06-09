@@ -1,6 +1,23 @@
 Log - EEX Updates
 
 
+------=== 9 Jun 2024 ===------
+{
+== ALUMNI
+- Post View counts for 2024 updated
+- same for 2023
+
+== ELSOC
+- Online Images for 2024 converted into PDF document
+
+== WORK n LIFE
+- QUOTES
+-- Anonymous - updated
+-- Goether - updated
+-- Plutarch - updated
+}
+
+
 ------=== 7 Jun 2024 ===------
 {
 == ABOUT
