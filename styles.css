@@ -983,6 +983,7 @@ details > summary {
 	cursor: pointer;
 }
 
+/* feedback of mouse pointer location */
 .img-gallery img:hover{
 	transform: scale(0.8) rotate(-15deg);
 	border-radius: 20px;
@@ -1007,6 +1008,7 @@ details > summary {
 	max-width: 700px;
 }
 
+/* location of 'X' for Close large image view */
 .full-img span{
 	position: absolute;
 	top: 5%;
