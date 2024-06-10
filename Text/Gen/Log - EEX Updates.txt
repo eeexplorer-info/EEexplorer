@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 10 Jun 2024 ===------
+{
+== ELSOC
+- Image Gallery for Labs & Workshops i 2024 created
+}
+
+
 ------=== 9 Jun 2024 ===------
 {
 == ALUMNI
@@ -13,7 +20,7 @@ Log - EEX Updates
 == WORK n LIFE
 - QUOTES
 -- Anonymous - updated
--- Goether - updated
+-- Goethe - updated
 -- Plutarch - updated
 }
 
