@@ -1,10 +1,25 @@
 Log - EEX Updates
 
 
+------=== 11 Jun 2024 ===------
+{
+== ELSOC
+- Images for 2024 Gallery titled & added into directories:
+-- Bbqs
+-- Crash Courses
+-- Events
+-- Executive
+-- External Programs
+-- First Year Camp
+-- Group photos
+-- Workshops
+}
+
+
 ------=== 10 Jun 2024 ===------
 {
 == ELSOC
-- Image Gallery for Labs & Workshops i 2024 created
+- Image Gallery for Labs & Workshops in 2024 created
 }
 
 
