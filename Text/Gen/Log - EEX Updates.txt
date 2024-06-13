@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 13 Jun 2024 ===------
+{
+== ELSOC
+- Newsletters from Term 1 and 2 added
+- same EPUB, MOBI, PDF formats added
+
+== SEARCH
+- Newsletters - Elsoc added
+- Index updated
+}
+
+
 ------=== 11 Jun 2024 ===------
 {
 == ELSOC
