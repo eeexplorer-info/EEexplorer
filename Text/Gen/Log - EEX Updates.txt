@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 19 Jun 2024 ===------
+{
+== ALUMNI
+- Some 2023 POSTS added & tested
+-- FEB 13 & 22 and MAR 07 & 22.
+- VIEW Counts for 2024 POSTS updated
+
+== SEARCH
+- ENGINE updated
+}
+
+
 ------=== 15 Jun 2024 ===------
 {
 == ALUMNI
