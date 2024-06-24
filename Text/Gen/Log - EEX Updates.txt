@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 24 Jun 2024 ===------
+{
+== ELSOC
+- Honour Board adjustments 2016 & 2018 made
+-- Supplied by Matthew Brener
+
+== SCHOOL
+- 75th ElecEng Anniversary place marker added
+}
+
 ------=== 19 Jun 2024 ===------
 {
 == ALUMNI
