@@ -4,10 +4,17 @@ Log - EEX Updates
 ------=== 26 Jun 2024 ===------
 {
 == ELSOC
-- NEWSLETTER for Week 5 in Term 2 added
-- same EPUB, MOBI, PDF formats added
+- ALUMNI NIGHT (PnP) Photos uploaded
+-- webpage populated
+-- online collection populated
+
 - HONOUR BOARD - Treasurer for 2018 expanded
 
+- NEWSLETTER for Week 5 in Term 2 added
+-- same EPUB, MOBI, PDF formats added
+
+== SEARCH
+- entries for Elsoc-Alumni entry added
 }
 
 ------=== 24 Jun 2024 ===------
