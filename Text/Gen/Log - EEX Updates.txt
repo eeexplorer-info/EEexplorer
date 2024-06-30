@@ -1,5 +1,19 @@
 Log - EEX Updates
 
+------=== 30 Jun 2024 ===------
+{
+== ACKNOWLEDGEMENTS
+- Jinhong Yuan, Matthew Priestley added
+
+== CODING
+- Gallery Images - click to make larger
+
+== WORK & LIFE
+- MAPS made easier to scroll and enlarge
+-- Engg, Ikigai, Johari, OSI Data, Unix 
+- WELLBEING GALLERY Images Gallery added
+}
+
 
 ------=== 26 Jun 2024 ===------
 {
@@ -7,9 +21,7 @@ Log - EEX Updates
 - ALUMNI NIGHT (PnP) Photos uploaded
 -- webpage populated
 -- online collection populated
-
 - HONOUR BOARD - Treasurer for 2018 expanded
-
 - NEWSLETTER for Week 5 in Term 2 added
 -- same EPUB, MOBI, PDF formats added
 

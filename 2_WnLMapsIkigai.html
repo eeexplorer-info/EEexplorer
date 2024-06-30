@@ -16,7 +16,7 @@ File: 2_WnlMapsIkigai.html
 		<center>
 			<figure>
 				<h2>ElecEng EXPLORER</h2>
-				<img  id="img_pghdr" src="./Images/Wnl/Maps/Img_Ikigai_0 sml.webp" alt="Ikigai Venn Diagram">
+				<!-- <img  id="img_pghdr" src="./Images/Wnl/Maps/Img_Ikigai_0 sml.webp" alt="Ikigai Venn Diagram"> -->
 				<figcaption id="img_pghdr">
 					<a href="/index.html">HOME</a> >
 					<a href="/0_HmWork+Life.html">WORK & LIFE</a> > 
@@ -33,17 +33,32 @@ File: 2_WnlMapsIkigai.html
 	<a name="ikigai">
 <h6>IKIGAI</h5>
 <!-- add wiki, website, pdf -->
-<table>
+<table class="noborders">
 	<tr>
-		<td><a href="" target="_blank"></a>A</a> (.com</td>
-		<td><a href="" target="_blank"></a> E</a> (.com</td>
-		<tr></tr>
-		<td><a href="" target="_blank"></a> A</a> (.com</td>
-		<td><a href="https://en.wikipedia.org/wiki/Ikigai" target="_blank">WIKI</a> (.org</td>
+		<td class="center"><a href="https://en.wikipedia.org/wiki/Ikigai" target="_blank">WIKI</a> (.org</td>
 	</tr>
 </table>
-<br><br><br>
-<img src="./Images/Wnl/Maps/Img_Ikigai_1 sml.webp" alt="Ikigai Map 1">
+<br>CLICK IMAGE TO ENLARGE<br><br>
+<a href="https://1drv.ms/f/" target="_blank"></a> COLLECTION</a> (.1drv
+
+<div class="full-img" id="fullImgBox">
+	<img src="./Images/Wnl/Maps/Img_Ikigai_0 sml.webp" id="fullImg">
+	<span onclick="closeFullImg()">X</span>
+</div>
+
+<!-- 240611: Latest on top -->
+<div class="img-gallery">
+	<img src="./Images/Wnl/Maps/Img_Ikigai sml.webp" id="fullImg" onclick="openFullImg(this.src)">
+	<img src="./Images/Wnl/Maps/Img_Ikigai_0 sml.webp" onclick="openFullImg(this.src)">
+	<img src="./Images/Wnl/Maps/Img_Ikigai_1 sml.webp" onclick="openFullImg(this.src)">
+	<img src="./Images/Wnl/Maps/Img_Ikigai_2 sml.webp" onclick="openFullImg(this.src)">
+	<img src="./Images/Wnl/Maps/Img_Ikigai_3 sml.webp" onclick="openFullImg(this.src)">
+	<!-- <img src="/Images/ sml.webp" onclick="openFullImg(this.src)"> -->
+
+</div>
+<script src="/js/libImgGallery.js"></script>
+
+<!-- <img src="./Images/Wnl/Maps/Img_Ikigai_1 sml.webp" alt="Ikigai Map 1">
 <figcaption><a href="#Top">TOP</figcaption>
 <br><br><br>
 
@@ -53,7 +68,7 @@ File: 2_WnlMapsIkigai.html
 
 <img src="./Images/Wnl/Maps/Img_Ikigai_3 sml.webp" alt="Ikigai Map 3">
 <figcaption><a href="#Top">TOP</figcaption>
-<br><br><br>
+<br><br><br> -->
 <!-- 
 <img src="./Images/Wnl/Maps/Img_Ikigai_4 sml.webp" alt="Ikigai Map 4">
 <figcaption><a href="#Top">TOP</figcaption>
