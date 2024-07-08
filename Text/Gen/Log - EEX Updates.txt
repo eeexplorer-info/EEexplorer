@@ -1,5 +1,38 @@
 Log - EEX Updates
 
+
+------=== 8 Jul 2024 ===------
+{
+== ALUMNI
+- Event Calendar shortcut integrated
+- Post for 8 July uploaded
+
+== ELSOC
+- Alumni Night menu structures 2016-2019 formed
+- Event Calendar shortcut integrated
+- Social Flyers - parallel links added
+
+== WORK & LIFE - HOBBIES
+- Wellbeing Gallery - parallel links added
+- Woodwork Project menu structure formed
+-- Image Gallery of one project added
+
+== SCHOOL
+- Event Calendar shortcut integrated
+}
+
+------=== 3 Jul 2024 ===------
+{
+== ELSOC
+- Link to Event Calendars added
+- Shortcuts to Flyer pages added
+- Shortcuts to PnP photo pages added
+
+== WORK & LIFE
+- WELLBEING GALLERY more images added
+}
+
+
 ------=== 30 Jun 2024 ===------
 {
 == ACKNOWLEDGEMENTS
@@ -11,7 +44,7 @@ Log - EEX Updates
 == WORK & LIFE
 - MAPS made easier to scroll and enlarge
 -- Engg, Ikigai, Johari, OSI Data, Unix 
-- WELLBEING GALLERY Images Gallery added
+- WELLBEING GALLERY Images added
 }
 
 
