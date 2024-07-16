@@ -335,7 +335,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 40rem; */
 	}
 	img {
-		width: 62%;
+		/* width: 62%; */
+		width: 50%;
 		/* width: 62%; */
 		/* width: 40rem; */
 		/* width: 90%; */
@@ -363,7 +364,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 90%; */
 	}
 	#img_pghdr {
-		width: 35%;
+		/* width: 35%; */
+		width: 20%;
 	}
 	#img_pgbdy0 {
 		width: 20%;
@@ -381,7 +383,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 40rem; */
 	}
 	img {
-		width: 80%;
+		/* width: 80%;		 */
+		width: 50%;
 		/* width: 40rem; */
 		/* width: 90%; */
 		/* border-radius: 2rem; */
@@ -506,7 +509,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 
 	#img_pghdr {
-		width: 90%;
+		/* width: 90%; */
+		width: 50%;
 	}
 	#img_pgbdy0 {
 		width: 50%;
@@ -1024,4 +1028,77 @@ details > summary {
 	font-size: 30px;
 	color: white;
 	cursor: pointer;
+}
+
+
+/* Random Quote Generator
+https://codepen.io/kkoutoup/pen/zxmGLE
+Found: 240707 */
+
+#container{
+	width:800px;
+	margin:50px auto;
+	padding: 20px;
+	width:50%;
+}
+#container h2{
+	text-align:center;
+	color:#045;
+}
+
+#quoteContainer{
+	width:75%;
+	/* background: #fff; */
+	background: darkgrey;
+	padding:10px;
+	margin:30px auto;
+	text-align: center;
+	height:70px;
+}
+
+#buttonContainer{
+	width: 100%;
+	text-align: center;
+}
+
+#quoteButton{
+	width:200px;
+	margin-top: 10px;
+	/* border:2px solid #46b8da; */
+	/* color:#045; */
+	color:#fff;
+	font-family: inherit;
+	/* font-weight: bold; */
+	padding:5px;
+	text-decoration: none;
+	text-align: center;
+}
+
+#quoteButton:hover{
+	cursor:pointer;
+	background:#09c;
+	border:2px solid #46b8da;
+	color: #fff;	
+}
+
+#quoteButton:active{
+	cursor: pointer;
+}
+
+#quoteButton{
+	display: inline-block;
+}
+
+#quoteGenius{
+	font-style: italic;
+	font-weight: 600;
+	text-align: center;
+}
+
+
+/*MEDIA QUERIES*/
+@media screen and(max-width:760px){
+	#quoteButton,#addNew{
+		display: block;
+	}
 }

@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 16 Jul 2024 ===------
+{
+== ELSOC
+- Industry Night photos for webpage added
+- same photo collection in 1drv uploaded
+
+- Newsletter for Term 2 Week 7 patched into menu
+}
+
+
 ------=== 9 Jul 2024 ===------
 {
 == ELSOC
