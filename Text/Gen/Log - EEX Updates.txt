@@ -3,6 +3,11 @@ Log - EEX Updates
 
 ------=== 18 Jul 2024 ===------
 {
+== ELSOC
+- Event Calendar
+-- Alumni Night 2022, 23, 24 links activated
+-- Industry Night 2022, 23, 24 links activated
+
 == WORK & LIFE
 - Interview Tips (YT) from typed notes added
 - Search engine updated
