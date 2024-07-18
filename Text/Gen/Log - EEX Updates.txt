@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 18 Jul 2024 ===------
+{
+== WORK & LIFE
+- Interview Tips (YT) from typed notes added
+- Search engine updated
+}
+
+
 ------=== 16 Jul 2024 ===------
 {
 == ELSOC
