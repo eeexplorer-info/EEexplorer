@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 19 Jul 2024 ===------
+{
+== WORK & LIFE
+- Interview Tips (YT)- display code corrected
+}
+
+
 ------=== 18 Jul 2024 ===------
 {
 == ELSOC
@@ -27,7 +34,7 @@ Log - EEX Updates
 ------=== 9 Jul 2024 ===------
 {
 == ELSOC
-- Newsletter for Wk9 PDF'd & uploaded
+- Newsletter for Wk7 PDF'd & uploaded
 }
 
 
