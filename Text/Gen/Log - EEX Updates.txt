@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+
+------=== 21 Jul 2024 ===------
+{
+== ALUMNI
+- Post for 21 July uploaded
+- Post View Count for 7 & 15 Jun, 8 Jul updated
+
+== CODING
+- Section shortcut tables made recognisable
+-- Alumni, About, Elsoc, Interviews,
+-- Newsletters, Wellbeing Gallery, Event Calendar
+}
+
 ------=== 19 Jul 2024 ===------
 {
 == WORK & LIFE
