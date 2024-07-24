@@ -1,9 +1,19 @@
 Log - EEX Updates
 
 
+------=== 24 Jul 2024 ===------
+{
+== CODING
+- Testing: Page Navigation system using TABs
+
+== ELSOC
+- Newsletter for Term 2 Week 9 patched into menu
+}
+
 
 ------=== 21 Jul 2024 ===------
 {
+
 == ALUMNI
 - Post for 21 July uploaded
 - Post View Count for 7 & 15 Jun, 8 Jul updated

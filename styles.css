@@ -34,6 +34,61 @@
 	font-family: Verdana, Helvetica, sans-serif;
 }
 
+/* testing 123 - 240724 */
+/* IEWS - How to Create Tabs with only HTML & CSS */
+/* works ok */
+
+.mytabs {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 90%;
+	/* margin: 5px auto; */
+	/* padding: 5px; */
+	/* -ms-flex-align: center; */
+}
+
+.mytabs input[type="radio"] {
+	display: none;
+}
+
+.mytabs label {
+	padding: 10px;
+	background: #e2e2e2;
+	font-weight: bold;
+	color: black;
+	/* blue; */
+	/* green; */
+	order: 0;
+}
+
+.mytabs .tab{
+	width: 100%;
+	padding: 20px;
+	background: grey;
+	/* f1f1f1; */
+	/* 404040; */
+	/* 262626; */
+	/* blue; */
+	order: 1;
+	display: none;
+}
+.mytabs .tab h2, h3, h4, h5, h6{
+	font-size: 1rem;
+	text-align: center;
+}
+
+.mytabs input[type="radio"]:checked + label + .tab {
+	display: block;
+}
+
+.mytabs input[type="radio"]:checked + label {
+	background: grey;
+	/* #f1f1f1; */
+	/* 404040; */
+	/* 262626; */
+	 /* blue; */
+}
+
  
 table, th, td {
   border: 1px solid white; /*#262626; /* black; /*1px solid white; /*black;*/
@@ -355,7 +410,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 	table {
 		/* width: 35rem; */
-		/* width: 80%; */
+		width: 60%;
 	}
 	td { text-align: left; }
 	th { text-align: center; }
@@ -402,7 +457,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 	table {
 		/* width: 35rem; */
-		/* width: 80%; */
+		width: 80%;
 	}
 	td { text-align: left; }
 	th { text-align: center; }
@@ -498,7 +553,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 20rem; */
 	}
 	table {
-		width: 90%;
+		width: 100%;
 		/* width: 20 rem; */
 	}
 	td { text-align: left; }
