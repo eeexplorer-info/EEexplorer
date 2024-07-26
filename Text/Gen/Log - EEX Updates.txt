@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 26 Jul 2024 ===------
+{
+== CODING
+- About & Elsoc pages - tabbed navigation on trial
+}
+
+
 ------=== 24 Jul 2024 ===------
 {
 == CODING
