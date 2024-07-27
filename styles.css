@@ -436,6 +436,12 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	.mytabs {
 		width: 35%;
 	}
+	/* .mytabs tabs h3 {
+		width: 80%;
+	} */
+	#img_pgftr {
+		width: 80%;
+	}
   }
 
  
@@ -485,6 +491,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 	.mytabs {
 		width:50%;
+	}
+	#img_pgftr {
+		width: 80%;
 	}
   }
 
