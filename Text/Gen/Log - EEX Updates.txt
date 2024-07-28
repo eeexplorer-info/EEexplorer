@@ -1,6 +1,24 @@
 Log - EEX Updates
 
 
+------=== 28 Jul 2024 ===------
+{
+== CODING
+- Alumni tables tightened-up to recognise quicker
+
+- Page Images recreated for narrower profile
+-- About, Alumni, AlumniPosts, Construction, Elsoc,
+-- Index, School,  Search, Toolbox, Work+Life
+}
+
+
+------=== 27 Jul 2024 ===------
+{
+== CODING
+- Alumni: Home, Posts, Social Rules - converted to tab navigation
+}
+
+
 ------=== 26 Jul 2024 ===------
 {
 == CODING
