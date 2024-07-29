@@ -415,13 +415,14 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 	table {
 		/* width: 35rem; */
-		width: 40%;
+		width: 35%;
 	}
 	td { text-align: left; }
 	th { text-align: center; }
 
-	#myUL, #myInput {
-		/* width: 90%; */
+	/* #myUL,  */
+	#myInput {
+		width: 30%;
 	}
 	#img_pghdr {
 		width: 35%;
@@ -476,8 +477,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	td { text-align: left; }
 	th { text-align: center; }
 
-	#myUL, #myInput {
-		/* width: 90%; */
+	#myUL, 
+	#myInput {
+		width: 50%;
 	}
 
 	#img_pghdr {
@@ -529,8 +531,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	td { text-align: left; }
 	th { text-align: center; }
 
-	#myUL, #myInput {
-		width: 90%;
+	#myUL, 
+	#myInput {
+		width: 40%;
 	}
 
 	#img_pghdr {
@@ -583,7 +586,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	td { text-align: left; }
 	th { text-align: center; }
 
-	#myUL, #myInput {
+	#myUL, 
+	#myInput {
 		width: 90%;
 	}
 
