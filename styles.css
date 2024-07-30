@@ -59,6 +59,7 @@
 	/* blue; */
 	/* green; */
 	order: 0;
+	border: 1px solid black;
 }
 
 .mytabs .tab{

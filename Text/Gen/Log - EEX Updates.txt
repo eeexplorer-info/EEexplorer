@@ -1,10 +1,22 @@
 Log - EEX Updates
 
 
+------=== 30 Jul 2024 ===------
+{
+== CODING
+- Page Images recreated for narrower profile
+
+- Shortcut links converted into Tab structure
+-- About, Alumni, Elsoc, Index, School,
+-- SiteMap, Toolbox, Work_Life,
+-- Flyers, Honour Boards, Posts, Hobbies,
+-- Wellbeing Galleries, Acknowledgements
+}
+
 ------=== 28 Jul 2024 ===------
 {
 == CODING
-- Alumni tables tightened-up to recognise quicker
+- Alumni tables tightened-up to quickly recognise entries
 
 - Page Images recreated for narrower profile
 -- About, Alumni, AlumniPosts, Construction, Elsoc,
