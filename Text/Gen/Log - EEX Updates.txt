@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 1 Aug 2024 ===------
+{
+== CODING
+- Shortcut links converted into Tab structure
+-- ElsocNewsletter, Acronyms, Calculators,
+-- DateTime, Cheatsheets, Charts, CalendarTerms
+-- more to transform
+}
+
+
 ------=== 30 Jul 2024 ===------
 {
 == CODING
@@ -12,6 +22,7 @@ Log - EEX Updates
 -- Flyers, Honour Boards, Posts, Hobbies,
 -- Wellbeing Galleries, Acknowledgements
 }
+
 
 ------=== 28 Jul 2024 ===------
 {
