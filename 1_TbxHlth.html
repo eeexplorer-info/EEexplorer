@@ -22,73 +22,104 @@ File: 1_TbxHlth.html
 					<a href="/index.html">HOME</a> >
 					<a href="/0_HmToolbox.html">TOOLBOX</a> > HEALTH & SAFETY
 				</figcaption>
-				<br><br>
-				<table class="noborders">
-					<th class="centerCY">SHORTCUTS</th>
-					<tr><td class="center"><a href="#firstaid">FIRST_AID</a> --- <a href="#hazchem">HAZARDOUS_CHEMICALS</a> --- <a href="#health">HEALTH_ENGINE</a> --- <a href="#handling">MATERIAL_HANDLING</a> --- <a href="#radiation">RADIATION_AWARENESS</a></td></tr>
-				</table>
-				<br><br>
 			</figure>
 		</center>
 	</head>
 
 	<body>
 		<center>
-			<a name="firstaid"></a>
-			<h5>FIRST AID</h5>
-			<table>
-				<th>TYPE</th><th>COMMENT</th>
-				<tr><td><a href="" target="_blank"></a>Kits</a></td><td></td></tr>
-				<tr><td><a href="" target="_blank"></a>St John's</a></td><td>Ambulance</td></tr>
-				<tr><td><a href="#Top">TOP</a></td><td></td></tr>
-			</table>
-			<br><br>
-
-			<a name="hazchem"></a>
-			<h5>HAZARDOUS CHEMICALS</h5>
-			<table>
-				<th>TOPIC</th><th>COMMENT</th>
-				<tr><td><a href="https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/hazardous-chemicals/overview" target="_blank">OVERVIEW</a> (.gov.au</td><td></td></tr>
-				<tr><td><a href="https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/hazardous-chemicals" target="_blank">SAFE WORK AUSTRALIA</a> (.gov.au</td><td>ENGINE</td></tr>
-				<tr><td><a href="https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets" target="_blank">SAFETY DATA SHEETS</a> (.gov.au</td><td></td></tr>
-				<tr><td><a href="#Top">TOP</a></td><td></td></tr>
-			</table>
-			<br><br>
-
-			<a name="handling"></a>
-			<h5>MATERIAL HANDLING</h5>
-			<table>
-				<th>TOPIC</th><th>COMMENT</th>
-				<tr><td><a href="https://www.vic.gov.au/safework/safework-general-module/hazardous-substances-dangerous-goods">DEFINITION</a> (.gov.au</a></td><td>VIC</td></tr>
-				<tr><td><a href="https://www.safework.nsw.gov.au/hazards-a-z" target="_blank">HAZARDS A-Z</a> (.gov.au </td><td>NSW SAFEWORK</td></tr>
-				
-				<!-- <tr><td><a href="#"></a>W</a></td><td></td></tr> -->
-				<!-- <tr><td><a href="#"></a>W</a></td><td></td></tr> -->
-				<tr><td><a href="#Top">TOP</a></td><td></td></tr>
-			</table>
-			<br><br>
+			<br><br><br>
+			<div class="mytabs">
+				<a name="0-9"></a>
+				<input type="radio" id="tab0-9" name="mytabs" checked="checked">
+				<label for="tab0-9">FIRST AID</label>
+				<div class="tab">
+				<center>
+					<a name="firstaid"></a>
+					<h5>FIRST AID</h5>
+					<table>
+						<th>TYPE</th><th>COMMENT</th>
+						<tr><td><a href="" target="_blank"></a>Kits</a></td><td></td></tr>
+						<tr><td><a href="" target="_blank"></a>St John's</a></td><td>Ambulance</td></tr>
+						<!-- <tr><td><a href="#Top">TOP</a></td><td></td></tr> -->
+					</table>
+				</center>
+				</div> <!-- tab -->
 			
-			<a name="personalhealth"></a>
-			<h5>PERSONAL HEALTH</h5>
-			<table>
-				<th>TYPE</th><th>COMMENT</th>
-				<tr><td><a href="https://healthresourcedirectory.org.au/en/" target="_blank">RESOURCE DIRECTORY</a> (.org.au</td><td>CONDITIONS, TOPICS, SERVICES</td></tr>
-				<!-- <tr><td><a href="" target="_blank"></a>.</a></td><td>.</td></tr> -->
-				<tr><td><a href="#Top">TOP</a></td><td></td></tr>
-			</table>
-			<br><br>
+			
+				<a name="A"></a>
+				<input type="radio" id="tabA" name="mytabs">
+				<label for="tabA">HAZARDOUS CHEMICALS</label>
+				<div class="tab">
+				<center>
+					<a name="hazchem"></a>
+					<h5>HAZARDOUS CHEMICALS</h5>
+					<table>
+						<th>TOPIC</th><th>COMMENT</th>
+						<tr><td><a href="https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/hazardous-chemicals/overview" target="_blank">OVERVIEW</a> (.gov.au</td><td></td></tr>
+						<tr><td><a href="https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/hazardous-chemicals" target="_blank">SAFE WORK AUSTRALIA</a> (.gov.au</td><td>ENGINE</td></tr>
+						<tr><td><a href="https://www.safeworkaustralia.gov.au/safety-topic/hazards/chemicals/safety-data-sheets" target="_blank">SAFETY DATA SHEETS</a> (.gov.au</td><td></td></tr>
+						<!-- <tr><td><a href="#Top">TOP</a></td><td></td></tr> -->
+					</table>
+				</center>
+				</div> <!-- tab -->
+			
+			
+				<a name="C"></a>
+				<input type="radio" id="tabC" name="mytabs">
+				<label for="tabC">MATERIAL HANDLING</label>
+				<div class="tab">
+				<center>
+					<a name="handling"></a>
+					<h5>MATERIAL HANDLING</h5>
+					<table>
+						<th>TOPIC</th><th>COMMENT</th>
+						<tr><td><a href="https://www.vic.gov.au/safework/safework-general-module/hazardous-substances-dangerous-goods">DEFINITION</a> (.gov.au</a></td><td>VIC</td></tr>
+						<tr><td><a href="https://www.safework.nsw.gov.au/hazards-a-z" target="_blank">HAZARDS A-Z</a> (.gov.au </td><td>NSW SAFEWORK</td></tr>
+						
+						<!-- <tr><td><a href="#"></a>W</a></td><td></td></tr> -->
+						<!-- <tr><td><a href="#"></a>W</a></td><td></td></tr> -->
+						<!-- <tr><td><a href="#Top">TOP</a></td><td></td></tr> -->
+					</table>
+				</center>
+				</div> <!-- tab -->
 
-			<a name="radiation"></a>
-			<h5>RADIATION AWARENESS</h5>
-			<table>
-				<th>TYPE</th><th>COMMENT</th>
-				<tr><td><a href="" target="_blank"></a>.<td>.</td></tr>
-				<tr><td><a href="#Top">TOP</a></td><td></td></tr>
-			</table>
+				<a name="D"></a>
+				<input type="radio" id="tabD" name="mytabs">
+				<label for="tabD">PERSONAL HEALTH</label>
+				<div class="tab">
+				<center>
+					<a name="personalhealth"></a>
+					<h5>PERSONAL HEALTH</h5>
+					<table>
+						<th>TYPE</th><th>COMMENT</th>
+						<tr><td><a href="https://healthresourcedirectory.org.au/en/" target="_blank">RESOURCE DIRECTORY</a> (.org.au</td><td>CONDITIONS, TOPICS, SERVICES</td></tr>
+						<!-- <tr><td><a href="" target="_blank"></a>.</a></td><td>.</td></tr> -->
+						<!-- <tr><td><a href="#Top">TOP</a></td><td></td></tr> -->
+					</table>
+				</center>
+				</div> <!-- tab -->
+			
+				<a name="E"></a>
+				<input type="radio" id="tabE" name="mytabs">
+				<label for="tabE">RADIATION AWARENESS</label>
+				<div class="tab">
+				<center>
+					<a name="radiation"></a>
+					<h5>RADIATION AWARENESS</h5>
+					<table>
+						<th>TYPE</th><th>COMMENT</th>
+						<tr><td><a href="" target="_blank"></a>.<td>.</td></tr>
+						<!-- <tr><td><a href="#Top">TOP</a></td><td></td></tr> -->
+					</table>
+				</center>
+				</div> <!-- tab -->
+
+			</div>	<!-- mytabs -->
+			<br><br><br><br><br><br>
 
 		</center>
 	</body>
-	<br><br><br><br><br><br>
 
 	<footer>
 		<nav class="fixed-nav-bar-btm">

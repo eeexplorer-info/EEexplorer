@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 2 Aug 2024 ===------
+{
+== CODING
+- Images made narrower for 
+-- Acronyms, Cheatsheets, Calculators,
+-- Calendar Date & Time
+
+- Shortcut links converted into Tab structure
+-- Dictionaries, Documentation, Energy Groups,
+-- Health & Safety, Interview Tips
+
+}
 ------=== 1 Aug 2024 ===------
 {
 == CODING
