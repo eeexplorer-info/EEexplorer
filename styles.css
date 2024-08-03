@@ -57,7 +57,7 @@
 }
 
 .mytabs label {
-	padding: 5px;
+	padding: 7px;
 	background: #e2e2e2;
 	font-weight: bold;
 	color: black;
@@ -104,6 +104,10 @@
 }
 
 .mytabs iframe {
+	width: 100%;
+}
+
+.mytabs img {
 	width: 100%;
 }
 
@@ -408,8 +412,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 		/* width: 40rem; */
 	}
 	img {
-		/* width: 62%; */
-		width: 50%;
+		width: 62%;
+		/* width: 50%; */
 		/* width: 62%; */
 		/* width: 40rem; */
 		/* width: 90%; */

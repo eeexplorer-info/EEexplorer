@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+------=== 3 Aug 2024 ===------
+{
+== CODING
+- Images made narrower for 
+-- Charts&Tables, Dictionary&Thesaurus,
+-- Documentation, ElectricityGroups, 
+-- InterviewTips, Manuals, WorkHealthSafety
+
+- Shortcut links converted into Tab structure
+-- Dictionaries, Documentation, Energy Groups,
+-- Health & Safety, Interview Tips
+-- Manuals, Dictionary/Grammar
+}
+
+
 ------=== 2 Aug 2024 ===------
 {
 == CODING
@@ -11,8 +26,9 @@ Log - EEX Updates
 - Shortcut links converted into Tab structure
 -- Dictionaries, Documentation, Energy Groups,
 -- Health & Safety, Interview Tips
-
 }
+
+
 ------=== 1 Aug 2024 ===------
 {
 == CODING
