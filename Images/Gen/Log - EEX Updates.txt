@@ -1,6 +1,298 @@
 Log - EEX Updates
 
 
+------=== 4 Aug 2024 ===------
+{
+== TOOLBOX
+-- Electromagnetic Spectrum populated
+-- Radio Spectrum table populated
+}
+
+
+------=== 3 Aug 2024 ===------
+{
+== CODING
+- Images made narrower for 
+-- Charts&Tables, Dictionary&Thesaurus,
+-- Documentation, ElectricityGroups, 
+-- InterviewTips, Manuals, WorkHealthSafety
+
+- Shortcut links converted into Tab structure
+-- Dictionaries, Documentation, Energy Groups,
+-- Health & Safety, Interview Tips
+-- Manuals, Dictionary/Grammar
+}
+
+
+------=== 2 Aug 2024 ===------
+{
+== CODING
+- Images made narrower for 
+-- Acronyms, Cheatsheets, Calculators,
+-- Calendar Date & Time
+
+- Shortcut links converted into Tab structure
+-- Dictionaries, Documentation, Energy Groups,
+-- Health & Safety, Interview Tips
+}
+
+
+------=== 1 Aug 2024 ===------
+{
+== CODING
+- Shortcut links converted into Tab structure
+-- ElsocNewsletter, Acronyms, Calculators,
+-- DateTime, Cheatsheets, Charts, CalendarTerms
+-- more to transform
+}
+
+
+------=== 30 Jul 2024 ===------
+{
+== CODING
+- Page Images recreated for narrower profile
+
+- Shortcut links converted into Tab structure
+-- About, Alumni, Elsoc, Index, School,
+-- SiteMap, Toolbox, Work_Life,
+-- Flyers, Honour Boards, Posts, Hobbies,
+-- Wellbeing Galleries, Acknowledgements
+}
+
+
+------=== 28 Jul 2024 ===------
+{
+== CODING
+- Alumni tables tightened-up to quickly recognise entries
+
+- Page Images recreated for narrower profile
+-- About, Alumni, AlumniPosts, Construction, Elsoc,
+-- Index, School,  Search, Toolbox, Work+Life
+}
+
+
+------=== 27 Jul 2024 ===------
+{
+== CODING
+- Alumni: Home, Posts, Social Rules - converted to tab navigation
+}
+
+
+------=== 26 Jul 2024 ===------
+{
+== CODING
+- About & Elsoc pages - tabbed navigation on trial
+}
+
+
+------=== 24 Jul 2024 ===------
+{
+== CODING
+- Testing: Page Navigation system using TABs
+
+== ELSOC
+- Newsletter for Term 2 Week 9 patched into menu
+}
+
+
+------=== 21 Jul 2024 ===------
+{
+
+== ALUMNI
+- Post for 21 July uploaded
+- Post View Count for 7 & 15 Jun, 8 Jul updated
+
+== CODING
+- Section shortcut tables made recognisable
+-- Alumni, About, Elsoc, Interviews,
+-- Newsletters, Wellbeing Gallery, Event Calendar
+}
+
+------=== 19 Jul 2024 ===------
+{
+== WORK & LIFE
+- Interview Tips (YT)- display code corrected
+}
+
+
+------=== 18 Jul 2024 ===------
+{
+== ELSOC
+- Event Calendar
+-- Alumni Night 2022, 23, 24 links activated
+-- Industry Night 2022, 23, 24 links activated
+
+== WORK & LIFE
+- Interview Tips (YT) from typed notes added
+- Search engine updated
+}
+
+
+------=== 16 Jul 2024 ===------
+{
+== ELSOC
+- Industry Night photos for webpage added
+- same photo collection in 1drv uploaded
+
+- Newsletter for Term 2 Week 7 patched into menu
+}
+
+
+------=== 9 Jul 2024 ===------
+{
+== ELSOC
+- Newsletter for Wk7 PDF'd & uploaded
+}
+
+
+------=== 8 Jul 2024 ===------
+{
+== ALUMNI
+- Event Calendar shortcut integrated
+- Post for 8 July uploaded
+
+== ELSOC
+- Alumni Night menu structures 2016-2019 formed
+- Event Calendar shortcut integrated
+- Social Flyers - parallel links added
+
+== WORK & LIFE - HOBBIES
+- Wellbeing Gallery - parallel links added
+- Woodwork Project menu structure formed
+-- Image Gallery of one project added
+
+== SCHOOL
+- Event Calendar shortcut integrated
+}
+
+------=== 3 Jul 2024 ===------
+{
+== ELSOC
+- Link to Event Calendars added
+- Shortcuts to Flyer pages added
+- Shortcuts to PnP photo pages added
+
+== WORK & LIFE
+- WELLBEING GALLERY more images added
+}
+
+
+------=== 30 Jun 2024 ===------
+{
+== ACKNOWLEDGEMENTS
+- Jinhong Yuan, Matthew Priestley added
+
+== CODING
+- Gallery Images - click to make larger
+
+== WORK & LIFE
+- MAPS made easier to scroll and enlarge
+-- Engg, Ikigai, Johari, OSI Data, Unix 
+- WELLBEING GALLERY Images added
+}
+
+
+------=== 26 Jun 2024 ===------
+{
+== ELSOC
+- ALUMNI NIGHT (PnP) Photos uploaded
+-- webpage populated
+-- online collection populated
+- HONOUR BOARD - Treasurer for 2018 expanded
+- NEWSLETTER for Week 5 in Term 2 added
+-- same EPUB, MOBI, PDF formats added
+
+== SEARCH
+- entries for Elsoc-Alumni entry added
+}
+
+------=== 24 Jun 2024 ===------
+{
+== ELSOC
+- Honour Board adjustments 2016 & 2018 made
+-- Supplied by Matthew Brener
+
+== SCHOOL
+- 75th ElecEng Anniversary place marker added
+}
+
+------=== 19 Jun 2024 ===------
+{
+== ALUMNI
+- Some 2023 POSTS added & tested
+-- FEB 13 & 22 and MAR 07 & 22.
+- VIEW Counts for 2024 POSTS updated
+
+== SEARCH
+- ENGINE updated
+}
+
+
+------=== 15 Jun 2024 ===------
+{
+== ALUMNI
+- POST for 15 Jun added
+
+== WORK n LIFE
+- QUOTES
+-- Alan Watts updated
+-- Richard Branson updated
+-- Walter Deming updated
+}
+
+
+
+------=== 13 Jun 2024 ===------
+{
+== ELSOC
+- Newsletters from Term 1 and 2 added
+- same EPUB, MOBI, PDF formats added
+
+== SEARCH
+- Newsletters - Elsoc added
+- Index updated
+}
+
+
+------=== 11 Jun 2024 ===------
+{
+== ELSOC
+- Images for 2024 Gallery titled & added into directories:
+-- Bbqs
+-- Crash Courses
+-- Events
+-- Executive
+-- External Programs
+-- First Year Camp
+-- Group photos
+-- Workshops
+}
+
+
+------=== 10 Jun 2024 ===------
+{
+== ELSOC
+- Image Gallery for Labs & Workshops in 2024 created
+}
+
+
+------=== 9 Jun 2024 ===------
+{
+== ALUMNI
+- Post View counts for 2024 updated
+- same for 2023
+
+== ELSOC
+- Online Images for 2024 converted into PDF document
+
+== WORK n LIFE
+- QUOTES
+-- Anonymous - updated
+-- Goethe - updated
+-- Plutarch - updated
+}
+
+
 ------=== 7 Jun 2024 ===------
 {
 == ABOUT
@@ -9,7 +301,6 @@ Log - EEX Updates
 == ALUMNI
 - POST for 7 JUN added
 = POST VIEW COUNTS for 2024 updated
-
 
 == WORK n LIFE
 - QUOTES
