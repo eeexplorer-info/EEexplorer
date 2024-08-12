@@ -1,6 +1,40 @@
 Log - EEX Updates
 
 
+------=== 12 Aug 2024 ===------
+{
+== CODING
+- Start-up Content page added for
+-- Acronyms
+-- Elsoc Newsletter
+-- Interview coaches
+-- Heads of School
+}
+
+
+------=== 6 Aug 2024 ===------
+{
+== CODING
+- Start-up Content page added for
+-- About, Alumni, Elsoc, School, Work_Life,
+-- Alumni Rules
+-- Elsoc HonourBoard & Newsletters,
+-- Toolbox (Acronyms, Calcualtors, Date& Time,
+-- Cheatsheets, Charts & Tables,
+-- Energy groupd, Health & Safety,
+-- Manuals, Grammar Dictionary
+-- Work Interview Tips
+}
+
+
+------=== 4 Aug 2024 ===------
+{
+== TOOLBOX
+-- Electromagnetic Spectrum populated
+-- Radio Spectrum table populated
+}
+
+
 ------=== 3 Aug 2024 ===------
 {
 == CODING
