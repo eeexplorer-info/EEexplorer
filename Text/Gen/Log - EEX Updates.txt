@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 13 Aug 2024 ===------
+{
+== CODING
+- Tabbed index code ripped out & cleaned-up
+-- Alumni, Toolbox, Charts & Tables, Converters
+}
+
+
 ------=== 12 Aug 2024 ===------
 {
 == CODING

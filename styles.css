@@ -25,7 +25,7 @@
 	--width-dsktp: 35%;
 	--width-laptp: 50%;
 	--width-tblt: 50%;
-	--width-mb: 40%;
+	--width-mb: 80%;
 }
 
 
@@ -90,7 +90,7 @@
 	display: none;
 	border-radius: 1rem;
 }
-.mytabs .tab h2, h3, h4, h5, h6{
+.mytabs .tab h1, h2, h3, h4, h5, h6{
 	font-size: 1rem;
 	text-align: center;
 	border-radius: 1rem;
@@ -226,7 +226,7 @@ h2 {
 	background-color: black;
 	border-radius: 1rem;
 	padding: 10px;
-	margin: 5px;
+	margin: 10x;
 	width: 15rem;
 }
 
@@ -426,7 +426,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
   
   /* For Desktops */
   @media only screen and (min-width:1200px) {
-	h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6 {
 		/* width: 35%; */
 		width: var(--width-dsktp);
 		/* width: 40rem; */
@@ -489,7 +489,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
  
   /* For Laptops */
   @media only screen and (min-width:992px) and (max-width:1199px) {
-	h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6 {
 		/* width: 50%; */
 		width: var(--width-laptp);
 		/* width: 40rem; */
@@ -548,7 +548,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 /* @media only screen and (max-width:800px) { */
 	@media only screen and (min-width: 768px) and (max-width:991px) {
 	/* For tablets: */
-	h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6 {
 	  /* width: 50%; */
 	  width: var(--width-tblt);
 	  /* padding: 10px; */
@@ -604,7 +604,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 /* @media only screen and (max-width:600px) { */
 	@media only screen and (max-width:767px) {
 	/* For mobile phones: */
-	h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6 {
 	  /* width: 40%; */
 	  width: var(--width-mb);
 	  /* padding: 10px; */
