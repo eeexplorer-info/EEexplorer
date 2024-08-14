@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 14 Aug 2024 ===------
+{
+== CODING
+- Tabbed index code ripped out & cleaned-up
+-- Alumni, School, Work_Life,
+-- School (Dept, Staff, HOS),
+-- Toolbox (Chart & Tables, Wiki (History, EE)
+}
+
+
 ------=== 13 Aug 2024 ===------
 {
 == CODING
