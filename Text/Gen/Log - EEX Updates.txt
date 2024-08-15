@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 15 Aug 2024 ===------
+{
+== CODING
+- Menu System upgrade so far for:
+-- Alumni, Elsoc, School,
+-- Elsoc: Newsletter, PnP & Industry, Rules,
+-- School: Dept, Funerals, Renewal, Staff.
+}
+
+
 ------=== 14 Aug 2024 ===------
 {
 == CODING
