@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 16 Aug 2024 ===------
+{
+== CODING
+- Menu System upgrade so far for:
+-- Toolbox Charts & Tables
+-- Work n Life (main, Maps, Stories, Wellbeing)
+}
+
+
 ------=== 15 Aug 2024 ===------
 {
 == CODING
