@@ -6,7 +6,15 @@ Log - EEX Updates
 == CODING
 - Event Calendars links corrected
 -- Alumni, Elsoc, School
+
 - Map for Electronics created
+
+- Menu System upgrade so far for:
+-- About, Interview Questions
+
+== INTERVIEW Questions - more added to:
+- CareerVidz, Elon Musk, Don Georgevich,
+- The Companies Expert
 }
 
 
