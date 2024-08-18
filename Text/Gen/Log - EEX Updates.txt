@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 18 Aug 2024 ===------
+{
+== CODING
+- Event Calendars links corrected
+-- Alumni, Elsoc, School
+- Map for Electronics created
+}
+
+
 ------=== 17 Aug 2024 ===------
 {
 == CODING
