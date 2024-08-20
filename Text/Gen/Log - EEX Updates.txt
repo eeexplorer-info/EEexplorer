@@ -1,16 +1,28 @@
 Log - EEX Updates
 
 
+------=== 20 Aug 2024 ===------
+{
+== ABOUT
+- ACKNOWLEDGEMENTS link for WHO section added
+
+== ELSOC
+- CAMPUS VISIT 'IMG' links cleaned-up
+- ALUMNI NIGHT pages for 2020 & 2021 added
+- Images for ELSOC AGM, BBQ, CMN RM added
+}
+
+
 ------=== 18 Aug 2024 ===------
 {
 == CODING
 - Event Calendars links corrected
 -- Alumni, Elsoc, School
 
-- Map for Electronics created
+- MAP for Electronics created
 
 - Menu System upgrade so far for:
--- About, Interview Questions
+-- ABOUT, INTERVIEW Questions
 
 == INTERVIEW Questions - more added to:
 - CareerVidz, Elon Musk, Don Georgevich,
