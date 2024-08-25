@@ -1,6 +1,24 @@
 Log - EEX Updates
 
 
+------=== 25 Aug 2024 ===------
+{
+== CODING
+- Menu System upgrade so far for:
+-- ACKNOWLEDGEMENTS, COMPONENTS,
+-- ELECTRONICS BRANCHES, INTERACTION,
+-- MANUALS, MAPS, PROFESSIONAL,
+-- PROGRAMMING, TUTORIALS, WIKI for EE
+
+== TOOLBOX
+- Alphabets for Human Communication added 
+-- Braille, Greek, Morse Code, Phonetic, Semaphore
+
+- Magazine page for Electronics created & populated
+}
+
+
+
 ------=== 20 Aug 2024 ===------
 {
 == ABOUT
