@@ -698,11 +698,12 @@ a:visited {
 	color: pink; /*hotpink; /* pink;*/
 	text-decoration: none;
 }
-/* unresolved 240515: underlines all text inside the <a> </a> tags instead of only the active links */
+/* 240515 unresolved: underlines all text inside the <a> </a> tags instead of only the active links */
+/* 240828 solved: adding the ':hover' now only underlines the link under the mouse pointer */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/:hover */
-/* a:hover {
+a:link:hover {
 	text-decoration: underline lightgreen;
-} */
+}
 a:active {
 	color: yellow;
 	text-decoration: none;

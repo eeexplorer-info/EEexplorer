@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 29 Aug 2024 ===------
+{
+== CODING
+- Menu System upgrade so far for:
+-- INDEX
+
+== TOOLBOX
+- CALCULATORS (Electrical) Cables & Motors added
+- GRAMMAR - Parts of Speech added
+- WELLBING GALLERY & SUPPORTIVE pages linked together
+}
+
+
 ------=== 25 Aug 2024 ===------
 {
 == CODING

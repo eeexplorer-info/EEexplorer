@@ -12,6 +12,9 @@ BDC -- Bottom Dead Centre
 CAN -- Controller Area Network (Bosch Intel)
 
 
+DIN -- Dutsches Institute fur Normung. A Standard by Bosch
+
+
 ECM -- Electronic Control Module
 
 
