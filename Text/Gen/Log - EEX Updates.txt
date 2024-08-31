@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 31 Aug 2024 ===------
+{
+== ALUMNI
+- Post for Father's Day upload
+}
+
+
 ------=== 29 Aug 2024 ===------
 {
 == CODING
