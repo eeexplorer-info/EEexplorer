@@ -1,6 +1,20 @@
 Log - EEX Updates
 
 
+------=== 1 Sep 2024 ===------
+{
+== ALUMNI POSTS
+- View Counts updated
+
+== CODING
+- Menu System upgrade so far for:
+-- ALUMNI POSTS
+-- ALUMNI social group RULES
+-- HOBBIES - Woodworking Projects
+-- QUOTATIONS from People
+}
+
+
 ------=== 31 Aug 2024 ===------
 {
 == ALUMNI
