@@ -1,6 +1,20 @@
 Log - EEX Updates
 
 
+------=== 3 Sep 2024 ===------
+{
+== TOOLBOX
+- MAGAZINES - 'Nuts & Volts' wiki & site added
+- PATTERNS & CYCLES
+-- Planet tables & charts untangled
+-- Sun(rise & set) calculator added
+
+
+== WORK & LIFE
+- INTERVIEW TIPS - CareerVidz clip added
+}
+
+
 ------=== 1 Sep 2024 ===------
 {
 == ALUMNI POSTS
@@ -18,7 +32,7 @@ Log - EEX Updates
 ------=== 31 Aug 2024 ===------
 {
 == ALUMNI
-- Post for Father's Day upload
+- Post for 'Father's Day' uploaded
 }
 
 
