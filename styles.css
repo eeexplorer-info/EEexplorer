@@ -26,6 +26,52 @@
 	--width-laptp: 50%;
 	--width-tblt: 50%;
 	--width-mb: 80%;
+
+	--bgcolor-body: #262626;
+	
+	--color-table: white;
+	--bgcolor-table: #404040;
+
+	--color-h1: red;
+	--bgcolor-h1: black;
+	--color-h2: white;
+	--bgcolor-h2: black;
+	--color-h3:  black;
+	--bgcolor-h3: #CF9FFF; /* lightviolet */
+	--color-h4: black;
+	--bgcolor-h4: gold;
+	--color-h5: black;
+	--bgcolor-h5: cyan;
+	--color-h6: black;
+	--bgcolor-h6: lime;
+	/* extra */
+	--color-h7: black;
+	--bgcolor-h7: #FFBF00; /* lightorange */
+	 /* #FFBF00; lightorange 	#FAD5A5; desert; 	#FFBF00; amber; 	#FFA500; orange; */
+
+
+	/* no go here in using var(--..) */
+	/* --color-lv0: var(--color-h4);
+	--bgcolor-lv0: var(--bgcolor-h4);
+
+	--color-lv1: var(--color-h5);
+	--bgcolor-lv1: var(--bgcolor-h5);
+
+	--color-lv2: var(--color-h6);
+	--bgcolor-lv2: var(--bgcolor-h6);
+
+	--color-lv3: var(--color-h3);
+	--bgcolor-lv3: var(--bgcolor-h3);
+	
+	--color-lv4: red;
+	--bgcolor-lv4: black;	
+	
+	--color-lv5: red;
+	--bgcolor-lv5: black;	
+
+	--color-lv6: red;
+	--bgcolor-lv6: black;	
+	 */
 }
 
 
@@ -126,11 +172,11 @@
 
  
 table, th, td {
-  border: 1px solid white; /*#262626; /* black; /*1px solid white; /*black;*/
+  border: 1px solid white; /*var(--bgcolor-body); /* black; /*1px solid white; /*black;*/
   border-collapse: collapse;
-  color: white; /* lightgreen; /*black; /*white;*/
-  /*background-color: #262626;/* grey;*/
-  background-color: #404040;	/* to match the lime green links */
+  color: var(--color-table);
+  /*background-color: var(--bgcolor-body);/* grey;*/
+  background-color: var(--bgcolor-table);	/* to match the lime green links */
   
   padding: 5px;
   /* text-align: center; */ /* ON HOLD */
@@ -143,14 +189,14 @@ table, th, td {
 }
 /* zebra table row markings */
 /* https://www.w3schools.com/colors/colors_picker.asp?colorhex=000000 */
-/* tr:nth-child(even) { background-color: #404040;} /* dark grey */
-/* tr:nth-child(odd) { background-color: #404040; } /*#4d4d4d;}  /* slightly lighter grey */
+/* tr:nth-child(even) { background-color: var(--bgcolor-table);} /* dark grey */
+/* tr:nth-child(odd) { background-color: var(--bgcolor-table); } /*#4d4d4d;}  /* slightly lighter grey */
 /* lightgrey = https://www.w3schools.com/colors/colors_picker.asp?colorhex=D3D3D3 */
 
 
 table {
-	color: white; /* black;*/
-	background-color: #404040; /* #e6e6e6; /*grey; /*black;*/
+	color: var(--color-table);
+	background-color: var(--bgcolor-table); /* #e6e6e6; /*grey; /*black;*/
 	table-layout: auto;
 	border: blue;
 	/* border-radius: 1rem; */
@@ -172,12 +218,12 @@ table {
 	/* border-style: none; */
 	/* border-radius: 1rem; */
 	
-	/* background-color: #404040; */
+	/* background-color: var(--bgcolor-table); */
 	/* border-color: yellow; */
 	/* border : 1px white; */
 
 	/* background-color: lightblue; */
-	/* background-color: #262626; */
+	/* background-color: var(--bgcolor-body); */
 }
 
 .radius table {
@@ -202,7 +248,7 @@ caption {
 body {
 	color: white;
 	/* a couple whiter shades away from pitch black*/
-	background-color: #262626;	/*black;*/
+	background-color: var(--bgcolor-body);	/*black;*/
 	/* font-size: 0.875em;		 */
 	/* 14px/16 = 0.875em */
 	font-size: 0.75em;
@@ -212,8 +258,9 @@ body {
 
 h1 {
 	/*color: black; background-color: white;*/
-	color: white;
-	background-color: black;
+	color: var(--color-h1);
+	background-color: var(--bgcolor-h1);
+	 /* black; */
 	padding: 10px;
 	border-radius: 1rem;
 	width: 15rem;
@@ -222,8 +269,8 @@ h1 {
 
 h2 {
 	/*color: black; background-color: white;*/
-	color: white;
-	background-color: black;
+	color: var(--color-h2);
+	background-color:  var(--bgcolor-h2);
 	border-radius: 1rem;
 	padding: 10px;
 	margin: 10x;
@@ -234,8 +281,8 @@ h2 {
 /* Should be for h7 in YW, BU, LM, OR */
 h3 {
 	/* For Laptop or Desktop: */
-	color: black;
-	background-color: orange;
+	color: var(--color-h3);
+	background-color: var(--bgcolor-h3);
 		/* font-size: 1.5em; /*0.875em;	/14px/16 = 0.875em */
 	padding: 10px;
 	margin: 10px;
@@ -252,8 +299,8 @@ h3 {
 
 h4 {
 	/* For Laptop or Desktop: */
-	color: black;
-	background-color: gold;/* #ffff4d; /*yellow; /*gold;*/
+	color: var(--color-h4);
+	background-color: var(--bgcolor-h4);
 	padding: 10px;
 	margin: 10px;
 	/* border-radius: 1rem; */
@@ -270,8 +317,9 @@ h4 {
 /* trying an alternate background colour to h4 level heading */
 h5 {
 	/* For Laptop or Desktop: */
-	color: black;
-	background-color: cyan;/* #ffff4d; /*yellow; /*gold;*/
+	color: var(--color-h5);
+	background-color: var(--bgcolor-h5);
+	 /* cyan;/* #ffff4d; /*yellow; gold; */
 	/* padding: 10px; */
 	margin: 10px;
 	border-radius: 1rem;
@@ -284,8 +332,8 @@ h5 {
 /* trying an alternate background colour to h4 level heading */
 h6 {
 	/* For Laptop or Desktop: */
-	color: black;
-	background-color: lime; /* lightgreen;/* #ffff4d; /*yellow; /*gold;*/
+	color: var(--color-h6);
+	background-color: var(--bgcolor-h6);
 	/* padding: 10px; */
 	margin: 10px;
 	border-radius: 1rem;
@@ -401,7 +449,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
   #myUL li a {
 	border: 1px solid #ddd; /* Add a border to all links */
 	margin-top: -1px; /* Prevent double borders */
-	background-color: #404040;
+	background-color: var(--bgcolor-table);
 	/* background-color: #f6f6f6; */
 	padding: 10px;
 	text-decoration: none; /* Remove default text underline */
@@ -660,8 +708,8 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 
 
 nav {
-	color: white; /*#404040;/* black;*/
-	background-color: #262626; /*#e6e6e6; /*grey; */
+	color: white; /*var(--bgcolor-table);/* black;*/
+	background-color: var(--bgcolor-body); /*#e6e6e6; /*grey; */
 	/*color: lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
 		
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
@@ -671,8 +719,8 @@ nav {
 
 section {
 	font-size: 1em; /*0.875em;	//* 14px/16 = 0.875em */	
-	color: white;/* #262626; /*black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
-	background-color: #262626; /*#e6e6e6;*/
+	color: white;/* var(--bgcolor-body); /*black; /*lemonchiffon; /*lightyellow;	/*lemonchiffon = FFFF00; white;*/
+	background-color: var(--bgcolor-body); /*#e6e6e6;*/
 	text-align: center;	/*right;*/
 }
 
@@ -726,47 +774,47 @@ a:active {
 	text-align: center;
 }
 
-.centerYW{
+.centerH4{
 	text-align: center;
-	color: gold; /*white; /* black;*/
-	background-color: #262626; /* gray;*/
+	color: var(--bgcolor-h4);
+	background-color: var(--bgcolor-body); /* gray;*/
 	font-size: 0.875rem;	/* same size as table */
 }
 
 
-.centerCY{
+.centerH5{
 	text-align: center;
-	color: cyan;
-	background-color: #262626; /* gray;*/
+	color: var(--bgcolor-h5);
+	background-color: var(--bgcolor-body); /* gray;*/
 	font-size: 0.875rem;
 }
 
 
-.centerLM{
+.centerH6{
 	text-align: center;
-	color: lime;
-	background-color: #262626; /* gray;*/
+	color: var(--bgcolor-h6);
+	background-color: var(--bgcolor-body); /* gray;*/
 	font-size: 0.875rem;
 }
 
-.centerOR{
+.centerH3{
 	text-align: center;
-	color: orange;
-	background-color: #262626; /* gray;*/
+	color: var(--bgcolor-h3);
+	background-color: var(--bgcolor-body); /* gray;*/
 	font-size: 0.875rem;
 }
 
 .rightWT{
 	text-align: right;
 	color: white;
-	background-color: #262626; /* gray;*/
+	background-color: var(--bgcolor-body); /* gray;*/
 	font-size: 0.875rem;
 }
 
 .leftWT{
 	text-align: left;
 	color: white;
-	background-color: #262626; /* gray;*/
+	background-color: var(--bgcolor-body); /* gray;*/
 	font-size: 0.875rem;
 }
 
@@ -789,50 +837,60 @@ a:active {
 
 .colourBkYw {
 	color: black;
-	background-color: gold;
+	background-color: var(--bgcolor-h4);
 }
 
 .colourBkCy {
 	color: black;
-	background-color: cyan;
+	background-color: var(--bgcolor-h5);
 }
 
 .colourBkLm {
 	color: black;
-	background-color: lime;
+	background-color: var(--bgcolor-h6);
+}
+
+.colourBkVi {
+	color: var(--color-h3);
+	background-color: var(--bgcolor-h3);
 }
 
 .colourBkOr {
-	color: black;
-	background-color: orange;
+	color: var(--color-h7);
+	background-color: var(--bgcolor-h7);
 }
 
-.colourYW {
+.colourOrBk {
+	color: var(--bgcolor-h7);
+	background-color: var(--bgcolor-body);
+}
+
+/* .colourYW {
 	border-style: solid;
-	border-color: gold;
+	border-color: var(--bgcolor-h4);
 }
 
 .colourLM {
 	border-style: solid;
-	border-color: lime;
+	border-color: var(--bgcolor-h6);
 }
 
 .colourCY {
 	border-style: solid;
-	border-color: cyan;
+	border-color: var(--bgcolor-h5);
 }
 
 .colourOR {
 	border-style: solid;
-	border-color: orange;
-}
+	border-color: var(--bgcolor-h3);
+} */
 
 
 
 details > summary {
 	padding: 4px;
 	width: 200px;
-	background-color: #262626;
+	background-color: var(--bgcolor-body);
 	border: none;
 	/* box-shadow: 1px 1px 2px #bbbbbb; */
 	cursor: pointer;
@@ -841,7 +899,7 @@ details > summary {
   
   details > p {
 	/* background-color: black; */
-	background-color: #262626;
+	background-color: var(--bgcolor-body);
 	padding: 4px;
 	border: 1px lightgreen solid;
 	border-radius: 1rem;
@@ -878,7 +936,7 @@ details > summary {
 
   .noborderscenter td { border:0; text-align: center;}
 
-  .fixed-nav-bar-btm { position: fixed; bottom: 0; left: 0; z-index: 9999; width: 100%; height: 60px; background-color: #262626; }
+  .fixed-nav-bar-btm { position: fixed; bottom: 0; left: 0; z-index: 9999; width: 100%; height: 60px; background-color: var(--bgcolor-body); }
 
 
 /* not being used as yet */
@@ -898,7 +956,7 @@ details > summary {
   
 /* Dropdown Button */
 .dropbtn {
-	background-color: #262626;
+	background-color: var(--bgcolor-body);
 	 /* #04AA6D; */
 	color: lime;
 	 /* white; */
@@ -917,7 +975,7 @@ details > summary {
   .dropdown-content {
 	display: none;
 	position: absolute;
-	background-color: #404040;
+	background-color: var(--bgcolor-table);
 	/* #f1f1f1; */
 	min-width: 160px;
 	/* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
@@ -934,7 +992,7 @@ details > summary {
   }
   
   /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #262626;}
+  .dropdown-content a:hover {background-color: var(--bgcolor-body);}
 	 /* #ddd;} */
   
   /* Show the dropdown menu on hover */
@@ -1054,9 +1112,10 @@ details > summary {
   /* The 'Goldilocks' Version 240424 */
 /* Dropup Button */
 .dropbtnup {
-	background-color: #262626;
+	background-color: var(--bgcolor-body);
 	 /* #04AA6D; */
 	color: lightgreen;
+	/* color: lightgreen; */
 	 /* white; */
 	padding: 
 	/* 0.875rem; */
@@ -1077,7 +1136,7 @@ details > summary {
 	display: none;
 	position: absolute;
 	background-color: black;
-	 /* #262626; */
+	 /* var(--bgcolor-body); */
 	/* #04040; */
 	 /* #f1f1f1; */
 	bottom: 40px;
@@ -1102,14 +1161,14 @@ details > summary {
   .dropup-content a:hover {background-color:lightgreen;color:black}
   /* .dropup-content a:hover {background-color:grey;color:lime} */
   /* .dropup-content a:hover {background-color:purple;} */
-	/* #262626;} */
+	/* var(--bgcolor-body);} */
 	 /* #ddd;} */
   
   /* Show the dropdown menu on hover */
   .dropup:hover .dropup-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropup:hover .dropbtnup {background-color: #262626;	color:white;}
+  .dropup:hover .dropbtnup {background-color: var(--bgcolor-body);	color:white;}
   /* .dropup:hover .dropbtnup {background-color: #3e8e41;	color:white;} */
 
 
