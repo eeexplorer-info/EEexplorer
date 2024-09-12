@@ -1,6 +1,26 @@
 Log - EEX Updates
 
 
+------=== 12 Sep 2024 ===------
+{
+== CODING
+- ELSOC's Campus Visit Photos & Video links cleaned up
+
+== ELSOC
+- Newsletter for T3-Wk01 (PDF, EPub, MOBI) format added
+
+== SCHOOL
+- CONTACTS -- Student projects & society links added
+- Menu Structure for DEPARTMENTS updated
+- RELATED
+-- Press Articles from 75th Anniversary added 
+-- Wellbeing campus support links added
+
+== WORK n LIFE
+- Interview Tips from YT - a couple more added
+}
+
+
 ------=== 6 Sep 2024 ===------
 {
 == ELSOC
