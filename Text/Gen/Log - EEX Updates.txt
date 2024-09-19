@@ -1,6 +1,23 @@
 Log - EEX Updates
 
 
+------=== 19 Sep 2024 ===------
+{
+== SCHOOL
+- CONTACTS - sub-menus restructured
+
+== TOOLBOX
+- ENERGY GROUP - all sub-menus restructured
+
+== WORK n LIFE
+- Interview Tips from YT - a couple more added
+
+== YESTER-YEAR
+- ACKNOWLEDGEMENTS - more people added
+- MAIN menu restructured
+}
+
+
 ------=== 13 Sep 2024 ===------
 {
 == SCHOOL / RELATED ARTICLES
