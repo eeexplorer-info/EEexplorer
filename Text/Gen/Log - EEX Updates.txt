@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+------=== 23 Sep 2024 ===------
+{
+== ALUMNI
+- Post for 22 September added
+- Some Tree structures from tables made
+
+== ELSOC
+- EMAIL ELSOC strip floated to the top
+- Some Tree structures from tables made
+
+== WORK-n-LIFE
+- DEFINITIONS - Paradox, Future-Proof added
+}
+
+
 ------=== 19 Sep 2024 ===------
 {
 == SCHOOL
