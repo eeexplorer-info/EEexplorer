@@ -3,12 +3,17 @@ Log - EEX Updates
 
 ------=== 23 Sep 2024 ===------
 {
+== ABOUT
+- WHAT is shared - updated
+
 == ALUMNI
 - Post for 22 September added
 - Some Tree structures from tables made
 
 == ELSOC
 - EMAIL ELSOC strip floated to the top
+- Honour Boards adjusted for better recognition
+- SOCIAL NETWORK tree untangled
 - Some Tree structures from tables made
 
 == WORK-n-LIFE
@@ -1108,7 +1113,7 @@ Alumni Post index, Ctee mtgs & Lightrail snaphots
 
 
 
-------=== dd Mmm 2024 ===------
+------=== dd Mmm 202y ===------
 {
 == 
 + 
