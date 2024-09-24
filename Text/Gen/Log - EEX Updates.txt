@@ -1,12 +1,21 @@
 Log - EEX Updates
 
 
+------=== 24 Sep 2024 ===------
+{
+== WORK-n-LIFE
+- PEOPLE RELATED page created and populated
+- Slogans page started
+}
+
+
 ------=== 23 Sep 2024 ===------
 {
 == ABOUT
 - WHAT is shared - updated
 
 == ALUMNI
+- HONOUR BOARDS - made easier to view
 - Post for 22 September added
 - Some Tree structures from tables made
 
