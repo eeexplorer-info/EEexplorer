@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 25 Sep 2024 ===------
+{
+== WORK-n-LIFE
+- SOFT SKILLS page created & populated
+}
+
+
 ------=== 24 Sep 2024 ===------
 {
 == WORK-n-LIFE
