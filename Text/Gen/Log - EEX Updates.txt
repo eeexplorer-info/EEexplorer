@@ -1,5 +1,15 @@
 Log - EEX Updates
 
+
+------=== 1 Oct 20204 ===------
+{
+== ALUMNI
+- Post of Elsoc AGM on 27 September added
+
+== ELSOC
+- Week 3 Newsletter in PDF, Epub & Mobi formats added
+}
+
 ------=== 29 Sep 2024 ===------
 {
 == ELSOC
