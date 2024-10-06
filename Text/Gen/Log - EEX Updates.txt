@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 6 Oct 20204 ===------
+{
+== WORK-n-LIFE
+- STORY expand & contract menu created
+- Top graphics for PEOPLE, SOFT SKILLS, STORIES, WORK COLLARS created
+- WORK COLLAR expand & contract menu created
+}
+
 ------=== 1 Oct 20204 ===------
 {
 == ALUMNI
