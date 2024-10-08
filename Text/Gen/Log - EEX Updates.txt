@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 8 Oct 20204 ===------
+{
+== WORK n LIFE
+- PEOPLE branch
+-- Ferengi Rules of Acquisition added
+-- GENERATION XYZ page & timeline added
+-- SOFT SKILLS index groups added
+-- STORIES separator lines added
+-- WORK COLLARS same
+}
+
+
 ------=== 6 Oct 20204 ===------
 {
 == WORK-n-LIFE
