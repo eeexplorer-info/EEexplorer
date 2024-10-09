@@ -1,5 +1,15 @@
 Log - EEX Updates
 
+------=== 9 Oct 20204 ===------
+{
+== ELSOC
+- PROGRESSION BOARD created & populated
+
+== WORK n LIFE
+- SCI-FI shows moved here from YESTER-YEAR branch
+_ SCI-FI - SOUNDTRACKS from YT added
+}
+
 
 ------=== 8 Oct 20204 ===------
 {
