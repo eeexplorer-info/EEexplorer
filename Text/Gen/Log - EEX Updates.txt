@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 15 Oct 20204 ===------
+{
+== WORK + LIFE
+- DEFLATORS - Creativity & Club notes added
+- NETWORKS - PERSON STYLE menu system overhauled
+- SOFT SKILLS - some set examples added
+- TRANSFERABLE SKILLS - branch added but no page defined yet
+}
+
+
 ------=== 12 Oct 20204 ===------
 {
 == ALUMNI
