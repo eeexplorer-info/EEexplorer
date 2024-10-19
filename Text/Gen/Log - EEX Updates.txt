@@ -1,6 +1,22 @@
 Log - EEX Updates
 
 
+------=== 19 Oct 20204 ===------
+{
+== ALUMNI
+- POST - UNSW ALUMNI Awards
+-- Page started
+-- Photos from Night embedded
+
+== HOME
+- Statistics Tab added to show Last Update
+
+== SCHOOL
+- UNSW Section for AWARDS added
+- 
+}
+
+
 ------=== 15 Oct 20204 ===------
 {
 == WORK + LIFE
