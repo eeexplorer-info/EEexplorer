@@ -1,6 +1,23 @@
 Log - EEX Updates
 
 
+------=== 20 Oct 20204 ===------
+{
+== ELSOC, SCHOOL
+- TERM CALENDAR table added
+
+== SCHOOL
+- RELATED MENU & link tables better organised
+- WELLBEING
+-- Campus Support (1980, 2024) tab (no content) added
+-- PICTURE GALLLERY tab of AURORA (no content) added
+
+== WORK + LIFE
+- HOBBIES - RSL SOCIAL EVENTS page added
+-- FISHERIES & BARRA FARM photos added
+}
+
+
 ------=== 19 Oct 20204 ===------
 {
 == ALUMNI
