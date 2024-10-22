@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 21 Oct 20204 ===------
+{
+== ALUMNI
+- POST of UNSW Alumni Awards uploaded
+-- other Reading Formats (PDF, ePub, Mobi) too.
+
+== SCHOOL
+- SUB MENU tree for RELATED section was added
+- TERM CALENDAR table added
+- WELLBEING (image) GALLERY connected to RELATED
+}
+
+
 ------=== 20 Oct 20204 ===------
 {
 == ELSOC, SCHOOL
