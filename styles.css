@@ -22,6 +22,9 @@
 
 /* apply to all */
 :root {
+	/* from YT KevinPowell for chrome: 21m35 / 22m07, My top 5 most popular front-end tips */
+	interpolate-size: allow-keywords;
+
 	--width-dsktp: 35%;
 	--width-laptp: 50%;
 	--width-tblt: 50%;
@@ -79,6 +82,9 @@
 *:: before,
 *:: after {
 	box-sizing: border-box;
+	/* finding border overflows - Kevin Powell / 22m07 */
+	/* outline: 2px solid lime;  */
+	/* background: hsl(0 100% 50% / .1); */
 }
 
 * {
@@ -518,6 +524,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	#img_pgbdy0 {
 		width: 62%;
 	}
+	#img_pgPost {
+		width: 100%;
+	}
 	#flyer {
 		/* width: 35%; */
 		width: var(--width-dsktp);
@@ -578,6 +587,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	#img_pgbdy0 {
 		width: 90%;
 	}
+	#img_pgPost {
+		width: 100%;
+	}
 	#flyer {
 		width: 50%;
 	}
@@ -637,6 +649,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	#img_pgbdy0 {
 		width: 90%;
 	}
+	#img_pgPost {
+		width: 100%;
+	}
 	#flyer {
 		width: 80%;
 	}
@@ -694,6 +709,9 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	}
 	#img_pgbdy0 {
 		width: 90%;
+	}
+	#img_pgPost {
+		width: 100%;
 	}
 	#flyer {
 		width: 90%;
