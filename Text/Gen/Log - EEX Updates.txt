@@ -4,7 +4,7 @@ Log - EEX Updates
 ------=== 5 Nov 20204 ===------
 {
 == ALUMNI
-- POST of QR CODES and earlier genertions uploaded
+- POST of QR CODES and earlier generations uploaded
 -- other Reading Formats (PDF, ePub, Mobi) too.
 
 == TOOLBOX
