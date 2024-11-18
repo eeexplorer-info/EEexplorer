@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 18 Nov 20204 ===------
+{
+== WORK + LIFE / HOBBIES
+- RSL SCONE day Trip 2023 photos uploaded
+}
+
+
 ------=== 17 Nov 20204 ===------
 {
 == ALUMNI
@@ -11,7 +18,7 @@ Log - EEX Updates
 
 == WORK + LIFE
 - SOFT SKILLS made easier to read
-- TRANSFERRABLE SKILLS created & titles populated
+- TRANSFERABLE SKILLS created & titles populated
 
 == TOOLBOX / CALENDAR
 - UNSW Terms for 2025 populated
