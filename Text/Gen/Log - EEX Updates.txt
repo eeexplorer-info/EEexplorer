@@ -1,8 +1,25 @@
 Log - EEX Updates
 
 
+------=== 21 Nov 20204 ===------
+{
+== 19:25 - SITE ERROR still remains
+
+Try:
+== WORK + LIFE / HOBBIES
+- RSL Day Trip - Scone 2024 - First 20 photos uploaded
+}
+
+
 ------=== 18 Nov 20204 ===------
 {
+== 16:30 - SITE ERROR MSG
+//
+// Hmm. We’re having trouble finding that site.
+//
+// We can’t connect to the server at eeexplorer.info
+//
+
 == WORK + LIFE / HOBBIES
 - RSL Day Trip - Scone 2023 photos uploaded
 }
