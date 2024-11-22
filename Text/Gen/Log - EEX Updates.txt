@@ -1,9 +1,26 @@
 Log - EEX Updates
 
 
+------=== 22 Nov 20204 ===------
+{
+== hh:mm - SITE ERROR still - Server has no connection
+//
+// Address Not Found
+//
+// The browser could not find the host server for the provided address.
+//
+
+== ALUMNI
+- POST - School's Thesis Competition (20 Nov) added
+
+== SCHOOL
+- EVENT CALENDAR - Bldg Reno Plans & Funding dates added
+}
+
+
 ------=== 21 Nov 20204 ===------
 {
-== 19:25 - SITE ERROR still remains
+== 19:25 - SITE ERROR - Server has no connection
 
 Try:
 == WORK + LIFE / HOBBIES
@@ -15,9 +32,9 @@ Try:
 {
 == 16:30 - SITE ERROR MSG
 //
-// Hmm. We’re having trouble finding that site.
+// Hmm. We're having trouble finding that site.
 //
-// We can’t connect to the server at eeexplorer.info
+// We can't connect to the server at eeexplorer.info
 //
 
 == WORK + LIFE / HOBBIES
