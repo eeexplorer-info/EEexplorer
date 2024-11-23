@@ -1,7 +1,7 @@
 Log - EEX Updates
 
 
-------=== 22 Nov 20204 ===------
+------=== 23 Nov 20204 ===------
 {
 == hh:mm - SITE ERROR still - Server has no connection
 //
@@ -15,6 +15,7 @@ Log - EEX Updates
 
 == SCHOOL
 - EVENT CALENDAR - Bldg Reno Plans & Funding dates added
+- LOCAL EVENTS - Thesis Poster Competition added
 }
 
 
