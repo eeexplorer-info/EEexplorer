@@ -94,7 +94,17 @@
 	font-family: Verdana, Helvetica, sans-serif;
 }
 
-
+body {
+	/* From Magic Pattern Design 241205 */
+	/* https://www.magicpattern.design/tools/css-backgrounds */
+	/* backround imgae: hz, vt */
+	/* background-color: ##262626;
+	opacity: 0.8;
+	background-image:
+	  linear-gradient(green 1px, transparent 1px),
+	linear-gradient(to right, green 1px, #262626 1px);
+	background-size: 20px 20px; */
+}
 
 /* testing 123 - 240724 */
 /* IEWS - How to Create Tabs with only HTML & CSS */
