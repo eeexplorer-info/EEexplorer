@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+
+------=== 09 Dec 20204 ===------
+{
+== hh:mm - SITE ERROR still - Server has no connection
+//
+// Address Not Found
+//
+// The browser could not find the host server for the provided address.
+//
+
+== ALUMNI
+- POST - Head of School - Meet & Greet with Alumni Ctee added
+}
+
+
 ------=== 23 Nov 20204 ===------
 {
 == hh:mm - SITE ERROR still - Server has no connection
