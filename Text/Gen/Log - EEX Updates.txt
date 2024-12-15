@@ -1,39 +1,52 @@
 Log - EEX Updates
 
 
+------=== 15 Dec 20204 ===------
+{
+# 13:30 - SITE ERROR - Resolved on 12 Dec 2024
+
+== ALUMNI
+- Honour Board Ctee updated
+- Tables for 2025 (Hnr, Ctee Mtg) created
+
+== WORK n LIFE
+- HOBBIES - Country Flag pages started
+- PATTERNS
+-- Moon Eclipse menu simplified
+-- Planets Movements chart for 2025 added
+}
 
 ------=== 12 Dec 20204 ===------
 {
-== hh:mm - SITE ERROR - Server has no connection
-From 18 Nov to 11 Dec 2024 (today).
+# SITE ERROR - Server has no connection
+From 18 Nov to 12 Dec 2024 (today).
 {
-Hello there,
-
-Thank you for your response. Hope you are having a great day!
-
-My sincere apoloies for the inconvenience here.
-
-We are still looking into this internally. We will get back to you as soon as possible.
-
-Best Regards,
-
-Christine
-Senior Billing Support Specialist
+/ Hello there,
+/ 
+/ Thank you for your response. Hope you are having a great day!
+/
+/ My sincere apoloies for the inconvenience here.
+/
+/ We are still looking into this internally. We will get back to you as soon as possible.
+/
+/ Best Regards,
+/
+/ Christine
+/ Senior Billing Support Specialist
 }
 
-== YEASTERYEAR
+== YESTERYEAR
 - TEXTBOOK COVERS - for undergaduate subjects added
 }
 
 
 ------=== 09 Dec 20204 ===------
 {
-== hh:mm - SITE ERROR still - Server has no connection
-//
-// Address Not Found
-//
-// The browser could not find the host server for the provided address.
-//
+# hh:mm - SITE ERROR still - Server has no connection
+/
+/ Address Not Found
+/
+/ The browser could not find the host server for the provided address.
 
 == ALUMNI
 - POST - Head of School - Meet & Greet with Alumni Ctee added
@@ -42,12 +55,11 @@ Senior Billing Support Specialist
 
 ------=== 23 Nov 20204 ===------
 {
-== hh:mm - SITE ERROR still - Server has no connection
-//
-// Address Not Found
-//
-// The browser could not find the host server for the provided address.
-//
+# hh:mm - SITE ERROR still - Server has no connection
+{
+/ Address Not Found
+/
+/ The browser could not find the host server for the provided address.
 
 == ALUMNI
 - POST - School's Thesis Competition (20 Nov) added
@@ -60,9 +72,8 @@ Senior Billing Support Specialist
 
 ------=== 21 Nov 20204 ===------
 {
-== 19:25 - SITE ERROR - Server has no connection
+# 19:25 - SITE ERROR - Server has no connection
 
-Try:
 == WORK + LIFE / HOBBIES
 - RSL Day Trip - Scone 2024 - First 20 photos uploaded
 }
@@ -70,12 +81,10 @@ Try:
 
 ------=== 18 Nov 20204 ===------
 {
-== 16:30 - SITE ERROR MSG
-//
-// Hmm. We're having trouble finding that site.
-//
-// We can't connect to the server at eeexplorer.info
-//
+# 16:30 - SITE ERROR MSG
+/ Hmm. We're having trouble finding that site.
+/
+/ We can't connect to the server at eeexplorer.info
 
 == WORK + LIFE / HOBBIES
 - RSL Day Trip - Scone 2023 photos uploaded
