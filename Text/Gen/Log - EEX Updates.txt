@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+
+------=== 17 Dec 20204 ===------
+{
+== ALUMNI
+- Template for 2025 Posts created
+}
+
+
 ------=== 15 Dec 20204 ===------
 {
 # 13:30 - SITE ERROR - Resolved on 12 Dec 2024
