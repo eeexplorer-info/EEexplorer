@@ -2,10 +2,17 @@ Log - EEX Updates
 
 
 
-------=== 17 Dec 20204 ===------
+------=== 21 Dec 20204 ===------
 {
 == ALUMNI
+- POST for 22 DEC added
+- POSTS - breadcumb path at top for all corrected
 - Template for 2025 Posts created
+
+== SCHOOL
+- LOCAL EVENTS - Open Day page for 2025 started
+- RELATED / EMU ROBOTICS Page started
+- TERM CALENDAR - updated
 }
 
 
