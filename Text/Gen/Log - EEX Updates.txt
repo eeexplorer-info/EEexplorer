@@ -2,7 +2,14 @@ Log - EEX Updates
 
 
 
-------=== 21 Dec 20204 ===------
+------=== 21 Dec 2024 ===------
+{
+== ALUMNI
+- POST - month column hyperlinks activated
+}
+
+
+------=== 21 Dec 2024 ===------
 {
 == ALUMNI
 - POST for 22 DEC added
@@ -16,7 +23,7 @@ Log - EEX Updates
 }
 
 
-------=== 15 Dec 20204 ===------
+------=== 15 Dec 2024 ===------
 {
 # 13:30 - SITE ERROR - Resolved on 12 Dec 2024
 
@@ -31,7 +38,7 @@ Log - EEX Updates
 -- Planets Movements chart for 2025 added
 }
 
-------=== 12 Dec 20204 ===------
+------=== 12 Dec 2024 ===------
 {
 # SITE ERROR - Server has no connection
 From 18 Nov to 12 Dec 2024 (today).
@@ -55,7 +62,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 09 Dec 20204 ===------
+------=== 09 Dec 2024 ===------
 {
 # hh:mm - SITE ERROR still - Server has no connection
 /
@@ -68,7 +75,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 23 Nov 20204 ===------
+------=== 23 Nov 2024 ===------
 {
 # hh:mm - SITE ERROR still - Server has no connection
 {
@@ -85,7 +92,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 21 Nov 20204 ===------
+------=== 21 Nov 2024 ===------
 {
 # 19:25 - SITE ERROR - Server has no connection
 
@@ -94,7 +101,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 18 Nov 20204 ===------
+------=== 18 Nov 2024 ===------
 {
 # 16:30 - SITE ERROR MSG
 / Hmm. We're having trouble finding that site.
@@ -106,7 +113,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 17 Nov 20204 ===------
+------=== 17 Nov 2024 ===------
 {
 == ALUMNI
 - POST - Comments on ELSOC BBQ & BENCHMARK added
@@ -123,7 +130,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 10 Nov 20204 ===------
+------=== 10 Nov 2024 ===------
 {
 == ALUMNI
 - POST of ELSOC's Sundowner BBQ uploaded
@@ -136,14 +143,14 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 7 Nov 20204 ===------
+------=== 7 Nov 2024 ===------
 {
 == ELSOC
 - CAMPUS BBQ Photos for Wk 9 uploaded
 }
 
 
-------=== 5 Nov 20204 ===------
+------=== 5 Nov 2024 ===------
 {
 == ALUMNI
 - POST of QR CODES and earlier generations uploaded
@@ -154,7 +161,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 31 Oct 20204 ===------
+------=== 31 Oct 2024 ===------
 {
 == ALUMNI
 - Comments on POST (UNSW Alumni Awards) added & uploaded
@@ -166,7 +173,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 21 Oct 20204 ===------
+------=== 21 Oct 2024 ===------
 {
 == ALUMNI
 - POST of UNSW Alumni Awards uploaded
@@ -179,7 +186,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 20 Oct 20204 ===------
+------=== 20 Oct 2024 ===------
 {
 == ELSOC, SCHOOL
 - TERM CALENDAR table added
@@ -196,7 +203,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 19 Oct 20204 ===------
+------=== 19 Oct 2024 ===------
 {
 == ALUMNI
 - POST - UNSW ALUMNI Awards
@@ -212,7 +219,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 15 Oct 20204 ===------
+------=== 15 Oct 2024 ===------
 {
 == WORK + LIFE
 - DEFLATORS - Creativity & Club notes added
@@ -222,7 +229,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 12 Oct 20204 ===------
+------=== 12 Oct 2024 ===------
 {
 == ALUMNI
 - POSTS - View count back to May 2024 updated
@@ -238,7 +245,7 @@ From 18 Nov to 12 Dec 2024 (today).
 }
 
 
-------=== 9 Oct 20204 ===------
+------=== 9 Oct 2024 ===------
 {
 == ELSOC
 - PROGRESSION BOARD created & populated
@@ -249,7 +256,7 @@ _ SCI-FI - SOUNDTRACKS from YT added
 }
 
 
-------=== 8 Oct 20204 ===------
+------=== 8 Oct 2024 ===------
 {
 == WORK n LIFE
 - PEOPLE branch
@@ -261,7 +268,7 @@ _ SCI-FI - SOUNDTRACKS from YT added
 }
 
 
-------=== 6 Oct 20204 ===------
+------=== 6 Oct 2024 ===------
 {
 == WORK-n-LIFE
 - STORY expand & contract menu created
@@ -269,7 +276,7 @@ _ SCI-FI - SOUNDTRACKS from YT added
 - WORK COLLAR expand & contract menu created
 }
 
-------=== 1 Oct 20204 ===------
+------=== 1 Oct 2024 ===------
 {
 == ALUMNI
 - Post of Elsoc AGM on 27 September added
