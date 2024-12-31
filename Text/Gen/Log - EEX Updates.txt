@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 31 Dec 20204 ===------
+{
+== ALUMNI
+- CONNECT NIGHT tables converted into separate pages
+-- Emailed Flyers, Presenter & Panellist names populated
+}
+
+
 ------=== 29 Dec 20204 ===------
 {
 == ALUMNI
