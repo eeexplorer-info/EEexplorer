@@ -916,7 +916,7 @@ a:active, summary:active {
 
 details > summary {
 	padding: 4px;
-	width: 200px;
+	width: 380px;
 	background-color: var(--bgcolor-body);
 	border: none;
 	/* box-shadow: 1px 1px 2px #bbbbbb; */
@@ -935,6 +935,10 @@ details > summary {
 	/* width: 200 px; */
 	min-width: 100px;
 	max-width: 400px;
+  }
+
+  details table {
+	width: 100%;
   }
 
   /* .hero-image {

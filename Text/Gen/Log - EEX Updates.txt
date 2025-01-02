@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 2 Jan 2025 ===------
+{
+SCHOOL / RELATED
+- REUNIONS menu fitted into tree
+
+YESTERYEAR
+- COURSE MAP picture added
+- COURSE SUBJECT tables added
+}
+
+
+
 ------=== 31 Dec 20204 ===------
 {
 == ALUMNI
