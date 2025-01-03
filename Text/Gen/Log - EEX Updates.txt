@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 3 Jan 2025 ===------
+{
+SCHOOL / RELATED
+- REUNIONS sub page added
+-- 2013, 2019, 2021 group photos added
+-- 2025 space to populate added 
+}
+
+
 ------=== 2 Jan 2025 ===------
 {
 SCHOOL / RELATED
@@ -10,7 +19,6 @@ YESTERYEAR
 - COURSE MAP picture added
 - COURSE SUBJECT tables added
 }
-
 
 
 ------=== 31 Dec 20204 ===------
