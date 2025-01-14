@@ -1,9 +1,26 @@
 Log - EEX Updates
 
 
+------=== 14 Jan 2025 ===------
+{
+== ELSOC 
+- Page Navigation for 2016-2025
+-- AGM, ALUMNI, INDUSTRY (PRV & NXT) btns added
+
+== WORK + LIFE / WELLBEING GALLERY
+- Page Navigation (PRV & NXT) btns added
+-- Aurora, Beaches, Bridges, Creeks,
+-- Fireworks, Flowers, Houses, Kitchens,
+-- Lakes, Landscapes, Libraries, Mountains,
+-- Movies, Offices, Paths, Ponds,
+-- Shorelines, Snow, Snowflakes, Trains,
+-- Valleys, Villages, Waterfalls, Zen
+}
+
+
 ------=== 11 Jan 2025 ===------
 {
-ALUMNI
+== ALUMNI
 - CONNECT NIGHT
 -- Links to photos: 2016-2025 added
 -- Publications for 2012 and 2022 PDFs added
@@ -15,7 +32,7 @@ ALUMNI
 
 ------=== 3 Jan 2025 ===------
 {
-SCHOOL / RELATED
+== SCHOOL / RELATED
 - REUNIONS sub page added
 -- 2013, 2019, 2021 group photos added
 -- 2025 space to populate added 
