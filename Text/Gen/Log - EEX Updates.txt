@@ -1,8 +1,12 @@
 Log - EEX Updates
 
 
-------=== 14 Jan 2025 ===------
+------=== 15 Jan 2025 ===------
 {
+== ALUMNI
+- Ctee Mtgs tables compressed & hidden
+- Site Tour tables compressed & hidden
+
 == ELSOC 
 - Page Navigation for 2016-2025
 -- AGM, ALUMNI, INDUSTRY (PRV & NXT) btns added
@@ -15,6 +19,7 @@ Log - EEX Updates
 -- Movies, Offices, Paths, Ponds,
 -- Shorelines, Snow, Snowflakes, Trains,
 -- Valleys, Villages, Waterfalls, Zen
+- Images for Kitchen, Library, Flowers added
 }
 
 
