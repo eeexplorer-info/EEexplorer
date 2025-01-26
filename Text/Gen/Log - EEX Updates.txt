@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 26 Jan 2025 ===------
+{
+== ALUMNI
+- POSTS
+-- 24 Jan 2025 uploaded
+-- Earlier View counts for Dec & Jan updated
+
+== WORK n LIFE
+- ARTICLES page added
+-- Selected from IEEE Spectrum site added
+}
+
+
 ------=== 15 Jan 2025 ===------
 {
 == ALUMNI
