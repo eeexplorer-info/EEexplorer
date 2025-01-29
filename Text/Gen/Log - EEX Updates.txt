@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 30 Jan 2025 ===------
+{
+== ELSOC
+- CAMPUS VISITS -- tables restructured
+- SOCIAL GRAPHICS - same restucture - part 1
+
+== WORK n LIFE
+- SCI-FI SHOWS -- Doctor Who table added
+}
+
+
 ------=== 26 Jan 2025 ===------
 {
 == ALUMNI
@@ -10,7 +21,7 @@ Log - EEX Updates
 
 == WORK n LIFE
 - ARTICLES page added
--- Selected from IEEE Spectrum site added
+-- Selected 128 from IEEE Spectrum site added
 }
 
 
