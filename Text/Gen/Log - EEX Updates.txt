@@ -1,11 +1,22 @@
 Log - EEX Updates
 
 
+------=== 19 Feb Jan 2025 ===------
+{
+== WORK + LIFE / HOBBIES
+- PROJECT - TABLE EXTENSION
+}
+
+
 ------=== 30 Jan 2025 ===------
 {
 == ELSOC
 - CAMPUS VISITS -- tables restructured
-- SOCIAL GRAPHICS - same restucture - part 1
+// - SOCIAL GRAPHICS - same restucture
+
+== TOOLBOX
+- CALENDAR - 3 cols x 4 rows added
+
 
 == WORK n LIFE
 - SCI-FI SHOWS -- Doctor Who table added
