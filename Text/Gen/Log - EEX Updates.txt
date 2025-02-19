@@ -4,7 +4,7 @@ Log - EEX Updates
 ------=== 19 Feb Jan 2025 ===------
 {
 == WORK + LIFE / HOBBIES
-- PROJECT - TABLE EXTENSION
+- PROJECT - TABLE EXTENSION added
 }
 
 
