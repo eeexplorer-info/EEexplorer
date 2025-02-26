@@ -1,15 +1,26 @@
 Log - EEX Updates
 
 
-------=== 23 Feb Jan 2025 ===------
+------=== 26 Feb 2025 ===------
+{
+== ALUMNI > POSTS
+-- 25 Feb 2025 uploaded
+
+== WORK + LIFE / HOBBIES / WOODWORK
+- PROJECT - MICROPHONE STAND added
+}
+
+
+------=== 23 Feb 2025 ===------
 {
 == WORK + LIFE / DEFINITIONS
 - Terms (Baseline, Guideline, Policy, Procedure, Standard) added
 }
 
+
 ------=== 19 Feb Jan 2025 ===------
 {
-== WORK + LIFE / HOBBIES
+== WORK + LIFE / HOBBIES / WOODWORK
 - PROJECT - TABLE EXTENSION added
 }
 
