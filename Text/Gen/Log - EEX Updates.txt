@@ -1,6 +1,37 @@
 Log - EEX Updates
 
 
+
+------=== 12 Mar 2025 ===------
+{
+== ELSOC
+EVENTS
+- Site Tour - Transgrid entry added
+PUBLICATIONS
+- Newsletter for Term 1 Week 3 added
+
+== SCHOOL / RELATED / DEPARTMENTS
+- Current Head of School photo updated
+
+== TOOLBOX / CALENDAR
+- TERMS for Unsw Academic updated
+
+== WORK + LIFE
+DEFINITIONS
+- Page navigation restructured
+HOBBIES
+- Field Test & Repair pages added
+- Images for MICROPHONE STAND expanded
+}
+
+
+------=== 28 Feb 2025 ===------
+{
+== TOOLBOX / CALENDAR / TERMS
+- 2025 - Federal Parliament, School, Taxation updated
+}
+
+
 ------=== 26 Feb 2025 ===------
 {
 == ALUMNI > POSTS
