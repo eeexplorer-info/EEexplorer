@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 14 Mar 2025 ===------
+{
+== SCHOOL / Thesis Poster Night
+- Images separated & grouped
+- Navigation (PRV, NXT) added
+
+== WORK + LIFE /  HOBBIES
+- Project navigation (PRV, NXT) added
+}
+
 
 ------=== 12 Mar 2025 ===------
 {
