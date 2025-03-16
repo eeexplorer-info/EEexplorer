@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 16 Mar 2025 ===------
+{
+== ELSOC
+- ALUMNI (PnP) NIGHT page navigation added
+- AGM NIGHT page navigation added
+- INDUSTRY NIGHT page navigation added
+}
+
+
 ------=== 14 Mar 2025 ===------
 {
 == SCHOOL / Thesis Poster Night
