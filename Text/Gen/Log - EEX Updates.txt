@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+
+------=== 23 Mar 2025 ===------
+{
+== ALUMNI > POSTS
+-- Post for 23 Mar 2025 added
+
+== ELSOC > PUBLICATIONS
+- Newsletter #2 for Term 1 added
+}
+
+
 ------=== 19 Mar 2025 ===------
 {
 == ALUMNI > POSTS
@@ -33,7 +44,7 @@ Log - EEX Updates
 - Images separated & grouped
 - Navigation (PRV, NXT) added
 
-== WORK + LIFE /  HOBBIES
+== WORK + LIFE > HOBBIES
 - Project navigation (PRV, NXT) added
 }
 
@@ -63,7 +74,7 @@ HOBBIES
 
 ------=== 28 Feb 2025 ===------
 {
-== TOOLBOX / CALENDAR / TERMS
+== TOOLBOX > CALENDAR > TERMS
 - 2025 - Federal Parliament, School, Taxation updated
 }
 
@@ -73,21 +84,21 @@ HOBBIES
 == ALUMNI > POSTS
 -- 25 Feb 2025 uploaded
 
-== WORK + LIFE / HOBBIES / WOODWORK
+== WORK + LIFE > HOBBIES > WOODWORK
 - PROJECT - MICROPHONE STAND added
 }
 
 
 ------=== 23 Feb 2025 ===------
 {
-== WORK + LIFE / DEFINITIONS
+== WORK + LIFE > DEFINITIONS
 - Terms (Baseline, Guideline, Policy, Procedure, Standard) added
 }
 
 
 ------=== 19 Feb Jan 2025 ===------
 {
-== WORK + LIFE / HOBBIES / WOODWORK
+== WORK + LIFE > HOBBIES > WOODWORK
 - PROJECT - TABLE EXTENSION added
 }
 
