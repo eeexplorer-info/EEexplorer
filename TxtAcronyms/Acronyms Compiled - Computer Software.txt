@@ -27,9 +27,11 @@ DXF -- Drawing eXchange file Format
 
 EFI -- Extensible Firmware Interface (partition)
 EMS -- Expanded Memory Specification
+exFAT -- extensible File Allocation Table (2006 - 2019)
 
 
 FAT -- File Allocation Table
+FAT32 - File Allocation Table - 32-bit version
 FLOP -- FLoating point OPeration
 
 
@@ -63,6 +65,9 @@ MIME -- Multipurpose Internet Mail Extensions
 MIPS -- Millions of Instructions Per Second
 MPEG -- Motion Picture Experts Group
 MS-DOS -- MicroSoft Disk Operating System
+
+
+NTFS -- New Technology File System
 
 
 OS -- Operating System

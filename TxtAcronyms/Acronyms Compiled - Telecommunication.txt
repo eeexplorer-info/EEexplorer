@@ -128,6 +128,7 @@ OSI - Open Systems Interconnection Model
 
 
 M2M -- Machine to Machine
+MNO -- Mobile Network Operators
 
 
 NBN -- National Broadband Network
@@ -139,6 +140,7 @@ NRZI -- Non Return to Zero Inverted
 
 ODI -- Open Data-Link Interface (Netware)
 OQPSK -- Offset Quad Phone Shift Keying
+O-RAN -- Open Radio Aceess Network
 
 
 PAM -- Pulse Amplitude Modulation
@@ -164,6 +166,7 @@ QoS -- Quality of Service
 QPSK -- Quadrature/Quaternary Phase Shift Keying
 
 
+RAN -- Radio Access Network
 RF -- Radio Frequency
 RS -- Recommended Standard (EIA)
 RTD - Round Trip Delay

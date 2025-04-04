@@ -1,6 +1,7 @@
 Acronyms Compiled - Aviation
 
 
+AATIP - Advanced Areospace Threat Identification Program
 ALT -- Altitude
 AMSL -- Above Mean Sea Level
 ATC -- Air Trafic Control
@@ -19,7 +20,13 @@ ETA -- Estimated time of arrival
 ETD -- Estimated time of departure
 
 
+HARP -- High Altitude Research Project
+
+
 SBY -- Standby
+
+UAP - Unidentified Areial Phenomena
+UFO - Unidentified Flying Object
 
 
 
