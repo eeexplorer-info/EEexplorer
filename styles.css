@@ -916,7 +916,8 @@ a:active, summary:active {
 
 details > summary {
 	padding: 4px;
-	width: 350px;
+	/* width: 350px; */
+	width: 90%;
 	background-color: var(--bgcolor-body);
 	border: none;
 	/* box-shadow: 1px 1px 2px #bbbbbb; */
@@ -934,7 +935,8 @@ details > summary {
 	/* box-shadow: 1px 1px 2px #bbbbbb; */
 	/* width: 200 px; */
 	min-width: 100px;
-	max-width: 400px;
+	/* max-width: 400px; */
+	max-width: 90%;
   }
 
   details table {
