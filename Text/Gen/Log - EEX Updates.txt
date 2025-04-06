@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 06 Apr 2025 ===------
+{
+== SEARCH
+- FAQ table added
+
+== CODE cleanup - big time
+}
+
 
 ------=== 01 Apr 2025 ===------
 {
