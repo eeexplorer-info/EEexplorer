@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 13 Apr 2025 ===------
+{
+== TOOLBOX > CALENDARS
+- DATE, TIME, 
+- TERMS (Parliament, School, Unsw Academic)
+-- restructured into accordian style menu
+
+== WORK + LIFE
+- DEFINITIONS - Business Rules added
+- QUOTES > SLOGANS updated 
+}
+
+
 ------=== 06 Apr 2025 ===------
 {
 == SEARCH
