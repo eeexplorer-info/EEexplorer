@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+------=== 20 Apr 2025 ===------
+{
+
+== ELSOC CAMPUS VISIT
+- latest BBQ (16 Apr) images added
+
+== ELSOC Menus converted into Accordian style
+- CAMPUS VISITS (fn, yr),
+- EVENT CALENDAR (Big Events),
+- PUBLICATION > ELSOC DOCUMENT,
+- SOCIAL GRAPHICS (fn, yr),
+- SOCIAL NETWORK
+}
+
+
 ------=== 13 Apr 2025 ===------
 {
 == TOOLBOX > CALENDARS
