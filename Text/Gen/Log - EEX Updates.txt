@@ -13,6 +13,12 @@ Log - EEX Updates
 - PUBLICATION > ELSOC DOCUMENT,
 - SOCIAL GRAPHICS (fn, yr),
 - SOCIAL NETWORK
+
+== ELSOC > PUBLICATIONS
+- DOCUMENTS Menu compressed
+-- PDF of Constitutions, Course Maps added
+-- PDF of First Year Guides, Other Activity added
+-- PDF of Reports, Yearbooks added
 }
 
 
