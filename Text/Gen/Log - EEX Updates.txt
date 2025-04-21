@@ -1,9 +1,15 @@
 Log - EEX Updates
 
 
+------=== 21 Apr 2025 ===------
+{
+== ELSOC > PUBLICATIONS
+- Newsltter #3, T1Wk9 converted and added
+}
+
+
 ------=== 20 Apr 2025 ===------
 {
-
 == ELSOC CAMPUS VISIT
 - latest BBQ (16 Apr) images added
 
