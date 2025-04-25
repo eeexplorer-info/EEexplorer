@@ -1,6 +1,26 @@
 Log - EEX Updates
 
 
+------=== 25 Apr 2025 ===------
+{
+== ELSOC
+- Constitution for 2025 added
+
+== SCHOOL > RELATED > REUNIONS
+- PHOTOS for First ElecEng Graduates added
+
+== WORK & LIFE > HOBBIES > WOODWORK
+Pages & Images added for
+- Kitchen Stool Repair
+- Mirror Card project
+- Wood-Offcut project
+- Workspace Bench & Carts
+
+== YESTERYEAR
+- Subject Course Map PDF added
+}
+
+
 ------=== 21 Apr 2025 ===------
 {
 == ELSOC > PUBLICATIONS
