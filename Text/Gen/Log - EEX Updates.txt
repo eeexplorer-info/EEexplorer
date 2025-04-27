@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 27 Apr 2025 ===------
+{
+== CODING
+- Navigation in Woodwork pages repaired
+
+== WORK & LIFE > HOBBIES > WOODWORK
+Pages & Images added for
+- Foldable Workbench Repair
+}
+
+
 ------=== 25 Apr 2025 ===------
 {
 == ELSOC
