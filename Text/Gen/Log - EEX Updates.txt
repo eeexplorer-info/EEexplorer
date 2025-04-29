@@ -1,5 +1,14 @@
 Log - EEX Updates
 
+------=== 29 Apr 2025 ===------
+{
+== ALUMNI > POSTS
+-- Post for 29 & 30 Mar 2025 added
+
+== WORK & LIFE > HOBBIES
+- Tree to Accordian menu converted
+}
+
 
 ------=== 27 Apr 2025 ===------
 {
