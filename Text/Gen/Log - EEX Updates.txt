@@ -6,11 +6,15 @@ Log - EEX Updates
 == ALUMNI > POSTS
 -- Post for 29 & 30 Mar 2025 added
 
-== CODING
-- Page auto-resize between mobile .. desktop screens repaired
+== ELSOC > PUBLICATIONS
+- Newsletter #4 for Term 1 added
 
-== WORK & LIFE > HOBBIES
-- Tree to Accordian menu converted
+== CODING
+- Page auto-resize between viewing screens repaired
+-- mobile, tablet, laptop, desktop
+
+== WORK & LIFE > HOBBIES > WOODWORK
+- Tree menu separated into Viewable and Unpopulated tables
 }
 
 
