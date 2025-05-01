@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 2 May 2025 ===------
+{
+== ALUMNI > POSTS
+- Views for 2025 - updated
+
+== WORK & LIFE > HOBBIES > WOODWORK
+- Tables converted into accordian style 
+}
+
+
 ------=== 30 Apr 2025 ===------
 {
 == ALUMNI > POSTS
