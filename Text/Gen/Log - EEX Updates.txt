@@ -1,6 +1,22 @@
 Log - EEX Updates
 
 
+------=== 10 May 2025 ===------
+{
+== ALUMNI > POSTS
+- Mother's Day Post added
+
+== SCHOOL
+- CONTACTS > STUDENT SOCIETIES
+-- Elsoc & QSoC Social channels updated
+
+- EVENTS
+-- First ElecEng Graduates (70th Reunion) - UNSW article added
+
+- Menus converted into accordian style
+}
+
+
 ------=== 2 May 2025 ===------
 {
 == ALUMNI > POSTS
