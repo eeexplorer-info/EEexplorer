@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 11 May 2025 ===------
+{
+== ALUMNI
+- CONNECT NIGHTS
+-- Menus converted into accordian style
+
+== ELSOC
+- CAMPUS VISITS, PUBLICATIONS, SOCIAL GRAPHICS
+-- Menus converted into accordian style
+}
+
+
 ------=== 10 May 2025 ===------
 {
 == ALUMNI > POSTS
