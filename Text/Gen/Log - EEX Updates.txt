@@ -1,6 +1,30 @@
 Log - EEX Updates
 
 
+------=== 20 May 2025 ===------
+{
+== ALUMNI > POSTS
+- New Alumni Members Post added
+
+== WORK & LIFE > HOBBIES > WOODWORK
+- Project - Inherited Patio Leak repair
+
+== WORK n LIFE > QUOTES
+-- Africa - updated
+-- Anonymous - updated
+-- Aurelius - updated
+-- Bruce Lee - updated
+-- Jack Ma - added
+-- Japan - updated
+-- Mark Twain - updated
+-- Musashi - updated
+-- Napoleon Hill - updated
+-- Richard Feynman - updated
+-- Rumi - updated
+-- Yip Man - updated
+}
+
+
 ------=== 11 May 2025 ===------
 {
 == ALUMNI
