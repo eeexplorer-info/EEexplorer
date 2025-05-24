@@ -221,6 +221,10 @@ table {
 	width: var(--width-dsktp);
 }
 
+#img_pgqr {
+	width: 100px;
+}
+
 .cell_txtcenter td {
 	text-align: center;
 }
