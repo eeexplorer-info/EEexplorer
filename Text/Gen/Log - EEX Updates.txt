@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 24 May 2025 ===------
+{
+== FAQ
+- Search and Statistics menu items added
+
+== HOME
+- QR Code to share site with others added
+}
+
+
 ------=== 21 May 2025 ===------
 {
 == ALUMNI > POSTS
