@@ -666,7 +666,7 @@ details > summary {
 	padding: 4px;
 	/* width: 350px; */
 	width: 90%;
-	background-color: var(--bgcolor-body);
+	background-color: var(--bgcolor-table);
 	border: none;
 	/* box-shadow: 1px 1px 2px #bbbbbb; */
 	cursor: pointer;
