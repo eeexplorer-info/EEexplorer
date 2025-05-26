@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 26 May 2025 ===------
+{
+== WORK & LIFE > HOBBIES > WOODWORK
+- Project - Air Conditioner Base repair added
+}
+
+
 ------=== 24 May 2025 ===------
 {
 == FAQ
