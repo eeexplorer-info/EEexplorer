@@ -640,6 +640,12 @@ a:active, summary:active {
 	background-color: var(--bgcolor-body);
 }
 
+.colourCyBkCenter {
+	color: var(--bgcolor-h5);
+	background-color: var(--bgcolor-body);
+	text-align: center;
+}
+
 /* .colourYW {
 	border-style: solid;
 	border-color: var(--bgcolor-h4);

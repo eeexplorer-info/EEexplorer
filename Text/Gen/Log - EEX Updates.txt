@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 27 May 2025 ===------
+{
+QR Codes for Top Level & Alumni Post pages added
+
+== ALUMNI > POSTS
+- List of people emailed regularly added
+}
+
+
 ------=== 26 May 2025 ===------
 {
 == WORK & LIFE > HOBBIES > WOODWORK
