@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 30 May 2025 ===------
+{
+== FAQ
+- Favourite accordian menu added
+- QR Codes - printable list added
+- Other navigation pathways menu added
+
+== WORK n LIFE > HOBBIES > WOODWORK
+- Field test images of RSL Table Extension added
+- Field test images of RSL Microphone Stands added
+}
+
+
 ------=== 27 May 2025 ===------
 {
 QR Codes for Top Level & Alumni Post pages added
