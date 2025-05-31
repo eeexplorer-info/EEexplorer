@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 31 May 2025 ===------
+{
+== SEARCH > FAQ
+- QR-CODES scollable list created and started
+-- Alumni(Home, Connect, Events, Rules) added
+-- Elsoc (Home, Events, Rules) added
+-- WorknLife (Home, Deflators, GenXYZ, InterviewTips, Maps, SoftSkills, People(ware), TransferrableSkills, WorkCollars) added
+-- QR-Codes in connected pages added
+}
+
+
 ------=== 30 May 2025 ===------
 {
 == FAQ
