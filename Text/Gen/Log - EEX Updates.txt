@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 01 Jun 2025 ===------
+{
+== CODING
+- Simplified bottom screen menu in all files down to BRANCHES, SEARCH, [SHARE]
+-- Branches = Alumni, Elsoc, School, Toolbox, Work&Life, Yesteryear
+-- Search = Engine, Faq, Qr-codes
+-- [Share] = local QR code when useful
+}
+
+
 ------=== 31 May 2025 ===------
 {
 == SEARCH > FAQ
