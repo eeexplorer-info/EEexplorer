@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 04 Jun 2025 ===------
+{
+== ALUMNI > POSTS
+- List of people emailed updated
+}
+
+
 ------=== 01 Jun 2025 ===------
 {
 == CODING
