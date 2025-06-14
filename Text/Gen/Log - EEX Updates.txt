@@ -6,17 +6,17 @@ Log - EEX Updates
 == ALUMNI > EVENT CALENDAR
 - Accordian menu system reorganised
 
+== ALUMNI > POSTS
+- View counts 2025 so far updated
+
 == ELSOC > EVENT CALENDAR
 - Accordian menu system reorganised
 
+== ELSOC > INDUSTRY Night
+- Pages with photos in sections created
+
 == WORK n LIFE > HOBBIES > MUSIC
 - Uncategorised menu system compacted
-
-
-------=== 08 Jun 2025 ===------
-{
-== ALUMNI > POSTS
-- View counts 2025 so far updated
 }
 
 
