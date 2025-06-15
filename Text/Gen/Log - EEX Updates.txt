@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 15 Jun 2025 ===------
+{
+== ALUMNI > POSTS
+- Elsoc Industry post with Alumni Table added
+}
+
+
 ------=== 14 Jun 2025 ===------
 {
 == ALUMNI > EVENT CALENDAR
