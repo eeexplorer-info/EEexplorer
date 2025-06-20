@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 20 Jun 2025 ===------
+{
+== WORK n LIFE > QUOTES
+- random quote generation worked out
+}
+
+
 ------=== 15 Jun 2025 ===------
 {
 == ALUMNI > POSTS

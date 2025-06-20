@@ -17,12 +17,15 @@ Local: http://127.0.0.1:5500/0_HmWorknLife.html
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" href="styles.css">
 	<link rel="stylesheet" href="css/queries.css">
+	<link rel="stylesheet" href="css/quotes.css">
+	
 	<meta name="language" content="English">
 	<meta name="author" content="Robert Smith">
 	<title>Work & Life Musings</title>
 
 	<head>
-		<script src="/js/libFortuneCookie.js"></script>
+		<!-- <script src="/js/libFortuneCookie.js"></script> -->
+
 		<!-- <script src="main.js"></script> -->
 		<!-- <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> -->
 		<!-- <script src="jquery-1.11.2.min.js" type="text/javascript"></script> -->
@@ -40,6 +43,7 @@ Local: http://127.0.0.1:5500/0_HmWorknLife.html
 			</figure>
 		</center>
 	</head>
+
 
 	<body>
 		<center>
@@ -66,13 +70,37 @@ Local: http://127.0.0.1:5500/0_HmWorknLife.html
 				<!-- <tr><td>|</td><td>|</td></tr> -->
 				<!-- <tr><td>|</td><td>|</td></tr> -->
 				<tr><td><br></td><td></td></tr>
-
 			</table>
 
-			<br><br><br>
 			<a name="fortune"></a>
-			<h4>FORTUNE COOKIE</h4>
-			<br>
+			<table class="noborders">
+				<tr><td>
+				<div class="quote-container" class="justify">
+					<br>
+					<p id="quotes"></p>
+					<br>
+					<p id="author"></p>
+					<br>
+					<button id="generate">Generate Quote</button>
+			   </div></td></tr>
+			</table>
+
+			<!-- <br><br><br> -->
+			<!-- <a name="fortune"></a> -->
+			<!-- <h4>FORTUNE COOKIE</h4> -->
+			<!-- <br> -->
+			<!-- <div class="outer-container">
+				<p id="quotes"></p>
+				<p id="author"></p>
+				<button id="generate">Generate Quote</button>
+		   </div> -->
+
+
+			<!-- <div class="containerquote">
+				<p id="quote">Click the button to generate a random quote.</p>
+				<button id="generateButton">Generate Quote</button>
+			</div> -->
+
 			<!-- <div id="container">
 				<h2>Get Your Daily Quote</h2>
 				<div id="quoteContainer">
@@ -83,6 +111,7 @@ Local: http://127.0.0.1:5500/0_HmWorknLife.html
 					<a href="#" id="quoteButton">NEW QUOTE</a>
 				</div>
 			</div> -->
+			<!-- <br><br>
 			<table class="noborders"><tr><td><details>
 				<summary onclick="random()">TOGGLE</summary>
 				<p>
@@ -93,10 +122,12 @@ Local: http://127.0.0.1:5500/0_HmWorknLife.html
 				</p>
 				<p id="one"></p>
 				</details>
-			</td></tr></table>
-			<table class="noborders">
+			</td></tr></table> -->
+
+
+			<!-- <table class="noborders">
 				<tr><td colspan="3"><a href="#Top">TOP</a></td></tr>
-			</table>
+			</table> -->
 
 
 			<br><br><br>
@@ -479,6 +510,7 @@ Local: http://127.0.0.1:5500/0_HmWorknLife.html
 
 			<br><br><br><br><br><br>
 		</center>
+		<script src="/js/libFortuneCookie.js"></script>
 	</body>
 	
 	<footer>
