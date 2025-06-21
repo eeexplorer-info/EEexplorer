@@ -1,12 +1,185 @@
 Acronyms Compiled - Computer Network
 
 
-ARPANET - 
+1G - Analog Voice
+2G - Digital Voice
+3G - Digital Voice and data (internet, emal, ..) p165 Tanenbaum
+100Base-T - 
 
-DDCMP -
 
-KERMIT - 
+ADSL - Asymetric Digital Subscriber Loop
+AES - Advanced Encryption Standard
+AMI - Alternate Mark Inversion
+AMPS - Advanced Mobile Phone System, 1982
+AP - Access Point
+ARP - Address Resolution Protocol
+ARPA - Advanced Research Projects Agency
+ARPANET - Advanced Research Projects Agency NETwork
+ASK - Amplitude Shift Keying
+ATM - Asynchronous Transfer Mode
 
-OSI - Open System Connect (7 layer model)
 
-SNA - 
+BGP - Border Gateway Protocol
+BPSK - Binary Phase Shift Keying
+
+
+CCITT - Comite Consultatif International Telegrahpique et Telephonique
+CDMA - Code Division Multiple Access
+CDN - Content Delivery Network
+CGI - Common Gateway Interface
+CLIENT - 
+CMTS - Cable Modem Termination System
+CRC - Cyclic Redundancy Check
+CSMA - Collision Sense Multiple Access
+CSMA/CD - Collision Sense Multiple Access / Collision Detection
+CSNET - Computer Science Network
+CSS - Cascading Style Sheets
+CTS - Clear To Send
+
+
+DES - Data Encryption Standard
+DHT - Distrubuted Hash Table
+DHCP - Dynamic Host Configuration Protocol
+DMT - Discrete MultiTone
+DNS - Domain Name System
+DOM - Document Object Model
+DSL - Digital Subscriber Line
+DSLAM - Digital Subscriber Line Access Multiplier
+
+
+FCC - Federal Communication Commission
+FCFS - First Come First Serve
+FDM - Frquency Division Multiplexing
+FEC - Forward Error Correction
+FIFO - First In First Out
+FSK - Frequency Shift Keying
+FTP - File Transfer Protocol
+FTTH - Fibre To The Home
+
+
+GEO - Geostationary Earth Orbit
+GSM - Global System for Mobile Communications, 1991
+GPRS - General Packet Radio Service
+
+
+HDLC - High Level Data Link Control
+HFC - Hybrid Fiber Coax
+HSS - Home Subscriber Server
+HTML - Hyper Text Markup Language
+HTTP - Hyper Text Transfer Protocol
+HTTPS - 
+
+
+ICANN - Internet Coproation for Assigned Names and Numbers
+ICMP - Internet Message Control Message Protocol
+IEEE - Institute of Electrical and Electronics Engineers
+IEEE 802.3 - Ethernet
+IEEE 802.3ab - gigbit Ethernet
+IEEE 802.3u - fast Ethernet
+IEEE 802.11 - WiFi Standard
+IEEE 802.16 - WiMAX (Broadband) - Worldwide Interoperabilty for Microwave Access
+IMAP - 
+IMP - Interface Message Processors
+ISP - Internet Service Provider
+IP - Internet Protocol
+IPv4 - 
+IPv6 - SIPP - Simple Internet Protocol Plus
+IrDA - Infrared Data Association
+ISO - International Standard Organisation
+IXP - Internet Exchange Points
+
+
+LAN - Local Area Network
+LCP - Link Control Protocol
+LDPC - Low Density Parity Check
+LEO - Low Earth Orbit
+LTE - Long Term Evolution
+
+
+MAC - Medium Access Control
+MAN - Metropolitan Area Network
+MEO - Medium Earth Oribt
+MIMO - Multiple Input Multiple Output
+
+
+NAP - Network Access Point
+NCP - Network Control Protocol
+NETWORK - 
+NIC - Network Interface Card
+NID - Network Interface Device
+NIST - National  Institute of Standards and Technology
+NRZ - Non Return to Zero
+
+
+OFDM - Orthogonal Frequency Division Multiplexing
+OSI - International Standards Organisation
+OSI Model - Physical, Data link, Network, Transport, Session, Presentation, Application layers
+OSPF - Open Shortest Path First Protocol
+
+
+PACKET - 
+PAN - Personal Area Network
+PCM - Pulse Code Modulation
+PHP - HyperText Preprocessor
+PON - Passing Optical Network
+POP - Point of Presence
+POP3 - Post Office Protocol version 3
+POTS - Plain Old Telephone Service
+PPP - Point To Point Protocol
+PSK - Phase Shift Keying
+PSTN - Public Switched Telephone Network
+PTT - Push To Talk
+
+
+QAM - Quadrature Amplitude Modulation
+QOS - Qualtiy of Service
+
+
+RFID - Radio Frequency IDentification
+RNC - Radio Network Controller
+RTS - Request To Send
+RTSP - Real Time Streaming Protocol
+
+
+SERVER - 
+SHA - Secure Hash Algorithm
+SIM - Subscriver Identity Module
+SIPP - Simple Internet Protocol Plus
+SMTP - Simple Mail Transfer Protocol
+SNA - System Network Architecture (IBM?)
+SNR - Signal To Noise Ratio
+SSL - Secure Sockets Layer
+STDM - Statistical Time Division Multiplexing
+
+
+TCP - Transmission Control Protocol
+TCP/IP - Transmission Control Protocol / Internet Protocol
+TDM - Time Division Multiplexing
+TELNET - 
+TPDU - Transport Protocol Data Unit
+
+
+UDP - User Datagram Protocol
+UMTS - Universal Mobile Telecommunications System, 2001
+URL - Uniform Resource Locator
+USB - Universal Serial Bus
+UTP - Unshielded Twisted Pair
+
+
+VLAN - Virutal Local Area Network
+VPN - Virtual Private Network
+VSAT - Very Small Aperture Terminals
+
+
+W3C - World Wide Web Consortium
+WAN - Wide Area Network
+WAP - Wireless Application Protocol
+WEP - Wired Equivalent Privacy
+WCDMA - Wideband Code Division Multiple Access
+WDM - Wavelength Division Multiplexing
+WLAN - Wireless Local Area Network
+WPA - WiFi Protected Access
+
+
+XML - eXtensible Markup Language
+XON/XOFF - 
