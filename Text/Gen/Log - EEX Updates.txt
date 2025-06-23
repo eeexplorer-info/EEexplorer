@@ -1,10 +1,25 @@
 Log - EEX Updates
 
 
+------=== 23 Jun 2025 ===------
+{
+== ALUMNI > POSTS
+- Follow me on LinkedIn added
+- Official Elsoc Industry Night post integrated
+- Posted community list with 'follow me' upgraded
+
+== SEARCH > ABOUT
+- Follow me on LinkedIn added
+
+== TOOLBOX > ACRONYMS
+- Computer Networking added
+}
+
+
 ------=== 20 Jun 2025 ===------
 {
 == WORK n LIFE > QUOTES
-- random quote generation worked out
+- random quote generator worked out
 }
 
 
