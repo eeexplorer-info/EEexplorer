@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 24 Jun 2025 ===------
+{
+== ALUMNI > POSTS
+- Index of Posts updated
+- Latest post impressions updated
+
+== ELSOC > PUBLICATIONS
+- Newsletter for Week 3 in Term 2 integrated
+}
+
+
 ------=== 23 Jun 2025 ===------
 {
 == ALUMNI > POSTS
