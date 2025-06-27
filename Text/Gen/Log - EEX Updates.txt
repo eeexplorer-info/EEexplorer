@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 27 Jun 2025 ===------
+{
+== ALUMNI > POSTS
+- Index of Posts updated
+- Technology Translator New Roles post added
+}
+
+
 ------=== 24 Jun 2025 ===------
 {
 == ALUMNI > POSTS
