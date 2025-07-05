@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 06 Jul 2025 ===------
+{
+== WORK n LIFE > HOBBIES > WOODWORK
+- Hand Planer repair added
+
+== YESTER-YEAR > ACKNOWLEDGEMENTS
+- James Bott, Mark Hiscocks, Peter Vickery added
+}
+
+
 ------=== 04 Jul 2025 ===------
 {
 == ALUMNI > POSTS
