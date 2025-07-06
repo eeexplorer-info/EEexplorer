@@ -3,6 +3,9 @@ Log - EEX Updates
 
 ------=== 06 Jul 2025 ===------
 {
+== ELSOC > ALUMNI Night
+- Conversation with Events Co-ordinator added
+
 == WORK n LIFE > HOBBIES > WOODWORK
 - Hand Planer repair added
 
