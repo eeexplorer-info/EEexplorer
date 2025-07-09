@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 08 Jul 2025 ===------
+{
+== ELSOC > PUBLICATIONS
+- Newsletter for Week 6 in Term 2 integrated
+
+== WORK n LIFE > HOBBIES > RSL
+- Page navigation added
+}
+
 ------=== 06 Jul 2025 ===------
 {
 == ELSOC > ALUMNI Night

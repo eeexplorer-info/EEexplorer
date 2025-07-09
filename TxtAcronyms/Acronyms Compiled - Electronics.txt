@@ -14,6 +14,7 @@ CRT -- Cathode Ray Tube
 
 D/A -- Digital to Analog Converter (DAC)
 DPDT -- Double-Pole Double-Throw (switch)
+DIAC - DIode for Alternating Current
 DSO -- Digital Storage Oscilloscope
 DTL -- Diode-Transistor Logic
 
@@ -126,6 +127,7 @@ SPST -- Single Pole Single Throw (switch)
 
 TFT -- Thin Film Transistor
 THD -- Total Harmonic Distortion
+TRIAC - TRIode for Alternating Current
 TSOP -- Thin Small Outline Package (SMD)
 TTL -- Transistor-Transistor Logic
 
