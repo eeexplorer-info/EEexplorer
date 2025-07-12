@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 12 Jul 2025 ===------
+{
+== TOOLBOX > PATTERNS > PLANETS
+- MOON ECLIPSE Fornight tables restructured
+}
+
+
 ------=== 08 Jul 2025 ===------
 {
 == ELSOC > PUBLICATIONS
