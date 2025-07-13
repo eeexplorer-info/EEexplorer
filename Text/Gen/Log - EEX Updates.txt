@@ -1,8 +1,14 @@
 Log - EEX Updates
 
 
-------=== 12 Jul 2025 ===------
+------=== 13 Jul 2025 ===------
 {
+== ALUMNI POSTS
+- View Count of last two posts updated
+
+== ELSOC > CONTINUITY
+- Board updated
+
 == TOOLBOX > PATTERNS > PLANETS
 - MOON ECLIPSE Fornight tables restructured
 }
