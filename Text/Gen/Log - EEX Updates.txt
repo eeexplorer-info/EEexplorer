@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 17 Jul 2025 ===------
+{
+== ALUMNI > POSTS
+- Index of Posts updated
+- Post 250717 - Alumni Ctee Notes added
+}
+
+
 ------=== 13 Jul 2025 ===------
 {
 == ALUMNI POSTS
@@ -40,7 +48,7 @@ Log - EEX Updates
 {
 == ALUMNI > POSTS
 - Index of Posts updated
-- Reminder Post 260704 added
+- Reminder Post 250704 added
 }
 
 
