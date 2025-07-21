@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+------=== 21 Jul 2025 ===------
+{
+== ALUMNI > POSTS
+- Index of Posts updated
+- Post 250721 - ELSOC-ALUMNI Night added
+
+== TOOLBOX > CALENDAR & CLOCK
+- Yearly calendars (Prv, Cur, Nxt) added
+
+== WORK n LIFE
+- DEFINITION table improved
+- PEOPLE > HUMOUR Formats reorganised
+}
+
+
 ------=== 17 Jul 2025 ===------
 {
 == ALUMNI > POSTS
