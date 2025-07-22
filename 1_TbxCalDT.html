@@ -36,7 +36,7 @@ File: 1_TbxCalDT.html
 				<a href="/0_HmToolbox.html">TOOLBOX</a> > CALENDAR & CLOCK
 			</figCaption>
 		</figure>
-		<script>showDate();</script>
+		<!-- <script>showDate();</script> -->
 	<!-- nbg
 		<include src="./1_TrailerTbx.html"></include>
 	nbg
@@ -54,7 +54,7 @@ File: 1_TbxCalDT.html
 			<a name="time"></a>
 
 		<table class="noborders">
-		<th>CALENDAR & CLOCK</th>
+		<th>CALENDAR &ThickSpace; & &ThickSpace; CLOCK</th>
 		<tr><td class="right">Toggle to Show / Hide</td></tr>
 		<tr><td class="right">Refresh Page to Hide All</td></tr>
 		
@@ -140,21 +140,30 @@ File: 1_TbxCalDT.html
 		<br><br>
 		<a name="calcur"></a>
 		<!-- <br><br><br> -->
-		<table class="noborderscenter"><tr><td><a href="#calprv">previous</a> --- <a href="#calcur">CURRENT</a> --- <a href="#calnxt">next</a></td></tr></table>
+		<table class="noborderscenter"><tr><td>
+			<script>showDate();</script><hr>
+			<a href="#calprv">previous</a> --- <a href="#calcur">CURRENT</a> --- <a href="#calnxt">next</a>
+			<br><br></td></tr></table>
 		<img id="img_pghdr" src="/Images/Gen/Img_CalendarAusCur sml.webp" alt="Current year calendar">
-		<table class="noborders"><tr><td><a href="#Top">TOP</td></tr></table>
+		<table class="noborders"><tr><td><a href="#Top">TOP</td><td class="right">from <a href="https://www.timeanddate.com/calendar" target="_blank">TIMEandDATE</a> (.com</a></td></tr></table>
 		<br><br>
 
 		<a name="calnxt"></a>
-		<table class="noborderscenter"><tr><td><a href="#calprv">previous</a> --- <a href="#calcur">current</a> --- <a href="#calnxt">NEXT</a></td></tr></table>
+		<table class="noborderscenter"><tr><td>
+			<script>showDate();</script><hr>
+			<a href="#calprv">previous</a> --- <a href="#calcur">current</a> --- <a href="#calnxt">NEXT</a>
+			<br><br></td></tr></table>
 		<img id="img_pghdr" src="/Images/Gen/Img_CalendarAusNxt sml.webp" alt="Next year calendar">
-		<table class="noborders"><tr><td><a href="#Top">TOP</td></tr></table>
+		<table class="noborders"><tr><td><a href="#Top">TOP</td><td class="right">from <a href="https://www.timeanddate.com/calendar" target="_blank">TIMEandDATE</a> (.com</a></td></tr></table>
 		<br><br>
 
 		<a name="calprv"></a>
-		<table class="noborderscenter"><tr><td><a href="#calprv">PREVIOUS</a> --- <a href="#calcur">current</a> --- <a href="#calnxt">next</a></td></tr></table>
+		<table class="noborderscenter"><tr><td>
+			<script>showDate();</script><hr>
+			<a href="#calprv">PREVIOUS</a> --- <a href="#calcur">current</a> --- <a href="#calnxt">next</a>
+			<br><br></td></tr></table>
 		<img id="img_pghdr" src="/Images/Gen/Img_CalendarAusPrv sml.webp" alt="Last year calendar">
-		<table class="noborders"><tr><td><a href="#Top">TOP</td></tr></table>
+		<table class="noborders"><tr><td><a href="#Top">TOP</td><td class="right">from <a href="https://www.timeanddate.com/calendar" target="_blank">TIMEandDATE</a> (.com</a></td></tr></table>
 
 		<br><br><br><br><br><br>
 	</center>
