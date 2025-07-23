@@ -1,6 +1,12 @@
 Log - EEX Updates
 
 
+------=== 23 Jul 2025 ===------
+{
+== ALUMNI > POSTS
+- Posted groups PDF added
+}
+
 ------=== 21 Jul 2025 ===------
 {
 == ALUMNI > POSTS
