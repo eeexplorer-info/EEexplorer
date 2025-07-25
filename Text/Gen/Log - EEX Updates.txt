@@ -1,10 +1,20 @@
 Log - EEX Updates
 
 
-------=== 23 Jul 2025 ===------
+------=== 25 Jul 2025 ===------
 {
 == ALUMNI > POSTS
 - Posted groups PDF added
+- Nbr of Views for last 6 posts updated
+
+== DOCUMENTS > ALUMNI
+- Contact names & groups over LI, FB, EM updated
+
+== ELSOC > PUBLICATIONS
+- Newsletter for Week 8 in Term 2 integrated
+
+== WORK n LIFE > QUOTES
+- Anonymous, Jack Ma, Latin, Richard Feynman, Zig Ziglar upated
 }
 
 ------=== 21 Jul 2025 ===------

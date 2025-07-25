@@ -3,3 +3,6 @@ Acronyms Compiled - Renewable
 
 ARENA -- Australian Renewable Energy Agency
 
+EIS - Energy Impact Statement
+
+REZ - Regional Enchancement Zone
