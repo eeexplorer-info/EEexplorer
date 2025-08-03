@@ -1,6 +1,23 @@
 Log - EEX Updates
 
 
+------=== 03 Aug 2025 ===------
+{
+== ELSOC > CAMPUS VISITS
+- Alumni Night Photos group and added
+}
+
+
+------=== 30 Jul 2025 ===------
+{
+== ALUMNI > POSTS
+- Nbr of Views for last 6 posts updated
+
+== WORK n LIFE > HOBBIES > RSL
+- Page navigation NXT links corrected
+}
+
+
 ------=== 25 Jul 2025 ===------
 {
 == ALUMNI > POSTS
@@ -16,6 +33,7 @@ Log - EEX Updates
 == WORK n LIFE > QUOTES
 - Anonymous, Jack Ma, Latin, Richard Feynman, Zig Ziglar upated
 }
+
 
 ------=== 21 Jul 2025 ===------
 {
