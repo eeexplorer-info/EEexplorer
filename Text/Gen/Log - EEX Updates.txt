@@ -1,8 +1,15 @@
 Log - EEX Updates
 
 
-------=== 03 Aug 2025 ===------
+------=== 05 Aug 2025 ===------
 {
+== ALUMNI > POSTED COMMUNITY
+- Daniel Rose, Lindsay Holt added
+
+== ALUMNI > POSTS
+- Post 250804 - Elsoc-Alumni Night added
+- Index of Posts updated
+
 == ELSOC > CAMPUS VISITS
 - Alumni Night Photos grouped and added
 }
