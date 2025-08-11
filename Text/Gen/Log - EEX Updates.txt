@@ -1,8 +1,14 @@
 Log - EEX Updates
 
 
-------=== 10 Aug 2025 ===------
+------=== 11 Aug 2025 ===------
 {
+== ALUMNI > POSTS
+- Nbr of Views for last 15 posts updated
+
+== ELSOC > CAMPUS VISITS > ALUMNI NIGHT
+- Video playlist populated & simplified
+
 == WORK n LIFE > HOBBIES > WOODWORK
 - Garden Kneeler / Seat project added
 }
