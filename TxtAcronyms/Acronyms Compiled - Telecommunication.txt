@@ -8,6 +8,7 @@ Acronyms Compiled - Telecommunication
 5G -- Voidce as data, shared speeds of 10,000 Mbps
 
 
+AA -- Anti-aliasing
 ADSL -- Asymmetric Digital Subscriber Line
 ARP -- Address Resolution Protocol (Layer 3)
 AK -- Amplitude Shift Keying
@@ -24,6 +25,7 @@ CD -- Carrier Detect (V24)
 CDM -- Code Disvision Multiplexing
 CDMA -- Code Disvision Multiple Access 
 CMRR -- Common Mode Rejection Rate
+CSAA - coverage-sampling AA
 CSMA/CD -- Carrier Sense with Multiple Access/Collision Detection (Ethernet IEEE 802.3)
 CSP - Cloud Service Provider
 CTS -- Clear To Send
@@ -74,6 +76,7 @@ FTTC -- Fiber To The Curb
 FTTH  -- Fiber To The Home
 FTTN -- Fibre to the Node
 FTTP - Fibre to the Premisses
+FXAA - fast-approximate AA
 
 
 GEO -- Geosynchronous Earth Orbit
@@ -119,9 +122,12 @@ LTE -- Long Term Evolution
 
 MAC -- Media Access Control (sub-layer 2)
 MFA -- Multi-Factor Authentication
+MFAA -- multi-frame AA
 MEO -- Medium Earth Orbit
+MLAA - morphological AA
 MNO -- Mobile Network Operator
 MODEM - Modulator - Demodulator
+MSAA -- multi-sampling AA
 
 
 OSI - Open Systems Interconnection Model
@@ -186,6 +192,7 @@ SNMP -- Simple Network Management Protocol
 SNR -- Signal to Noise Ratio (S/N)
 SOH -- Start Of Header (char 01 - 01H)
 SPX -- Sequenced Packet Exchange (layer 4, Netware)
+SSAA -- super-sampling AA
 SSH -- Secure Shell
 SxS -- Step by Step Telephone Exchange
 

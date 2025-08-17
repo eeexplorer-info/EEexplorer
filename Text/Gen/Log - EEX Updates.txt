@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 17 Aug 2025 ===------
+{
+== ALUMNI > POSTS
+- Nbr of Views for last 6 posts updated
+
+== WORK n LIFE > ACRONYMS
+- anti-alisaing types in Telecommunication group added
+}
+
+
 ------=== 11 Aug 2025 ===------
 {
 == ALUMNI > POSTS
