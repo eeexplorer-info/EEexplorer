@@ -1,6 +1,21 @@
 Log - EEX Updates
 
 
+
+------=== 27 Aug 2025 ===------
+{
+== ALUMNI > POSTS
+- Post 250903 - 40th Reunion - Last Stop started
+- Index of Posts updated
+
+== SCHOOL > BIG EVENTS
+-- 40th Reunion structure added
+
+== SCHOOL > BUILDING TOUR
+-- Images from 2022 visit organised for upload over new couple of days
+}
+
+
 ------=== 22 Aug 2025 ===------
 {
 == ALUMNI > POSTS
