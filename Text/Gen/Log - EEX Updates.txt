@@ -2,6 +2,21 @@ Log - EEX Updates
 
 
 
+------=== 02 Sep 2025 ===------
+{
+== ALUMNI > POSTS
+- Post 250903 - 40th Reunion added
+- Index of Posts updated
+
+== HOME
+- 'QUOTE of the moment' from WORK n LIFE page added
+
+== SCHOOL > BUILDING TOUR
+-- Images from 2022 visit uploaded
+-- Individual Pages to areas created and linked
+}
+
+
 ------=== 27 Aug 2025 ===------
 {
 == ALUMNI > POSTS
