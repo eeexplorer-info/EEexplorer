@@ -14,6 +14,7 @@ Log - EEX Updates
 == SCHOOL > BUILDING TOUR
 -- Images from 2022 visit uploaded
 -- Individual Pages to areas created and linked
+-- Page for 2025 Lab Tour started
 }
 
 
