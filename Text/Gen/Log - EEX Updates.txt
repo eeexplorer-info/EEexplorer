@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 04 Sep 2025 ===------
+{
+== SCHOOL > BUILDING TOUR
+-- The bulk of Images from 2022 visit uploaded
+-- Individual Pages to areas created and linked
+
+== WORK n LIFE > HOBBIES > RSL SOCIAL
+- Christams Party date added
+- Lucas Heights tour date added
+}
+
 
 ------=== 02 Sep 2025 ===------
 {
@@ -12,8 +23,7 @@ Log - EEX Updates
 - 'QUOTE of the moment' from WORK n LIFE page added
 
 == SCHOOL > BUILDING TOUR
--- Images from 2022 visit uploaded
--- Individual Pages to areas created and linked
+-- Brief images from 2022 visit uploaded
 -- Page for 2025 Lab Tour started
 }
 
