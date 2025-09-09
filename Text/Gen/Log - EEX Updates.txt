@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+
+------=== 07 Sep 2025 ===------
+{
+== SCHOOL > PHOTO GALLERY
+- Viewing structure prototype defined
+}
+
+
 ------=== 04 Sep 2025 ===------
 {
 == SCHOOL > BUILDING TOUR
