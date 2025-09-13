@@ -1,4 +1,5 @@
 Acronyms Compiled - Telecommunication
+13 Sep 2025
 
 
 1G --
@@ -98,7 +99,7 @@ HT -- Horizontal Tab (TAB, char 09 - 09H)
 
 ICMP -- Internet Control Message Protocol
 ICP -- Internet Content Provider (i.e Netflix)
-ICT - Information and Communication Technology
+ICT -- Information and Communication Technology
 IMAP -- Internet Message Access Protocol
 IoT -- Internet of Things
 IP -- Internetwork Protocol (layer 3)

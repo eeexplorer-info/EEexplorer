@@ -1,153 +1,155 @@
-Acronyms Compiled - Workplace
-
-AFK - Away from Keyboard
-AKA - Also Known As
-AM - Ante Meridian
-ASAP - As Soon As Possible
-ATEOTD - At The End Of The Day
-ATM - At The Moment
-AWOL - Absent without Leave
-AYW - As You Want/Wish
+Acronyms Compiled -- Workplace
+01 Aug 2024
 
 
-B2B - Business To Business
-B2C - Busineess To Consumer
-BC - Because
-BID - Break It Down
-BRB - Be Right Back
-BTW - By The Way
+AFK -- Away from Keyboard
+AKA -- Also Known As
+AM -- Ante Meridian
+ASAP -- As Soon As Possible
+ATEOTD -- At The End Of The Day
+ATM -- At The Moment
+AWOL -- Absent without Leave
+AYW -- As You Want/Wish
 
 
-CEO - Chief Executive Officer
-CFO - Chief Financial Officer
-COB - Close if Business
-COB or COP - Close of business or close of play.
-COO - Chief Operating Officer
-CRAAP - Currency, Relevance, Authority, Accuracy, and Purpose.
-CRM - Customer Relationship Management
-CRM - Customer Relationship Manager
-CSR - Customer Sales Representative
+B2B -- Business To Business
+B2C -- Busineess To Consumer
+BC -- Because
+BID -- Break It Down
+BRB -- Be Right Back
+BTW -- By The Way
 
 
-DAE - Does anyone else...?
-DEF - Definitely
-DEI - Diversity, Equity and Inclusion
-DFTBA - Don't forget to be awesome!
-DILO - Day In the Life Of
-DM - Direct Message
-DMC - Deep and meaningful conversation.
+CEO -- Chief Executive Officer
+CFO -- Chief Financial Officer
+COB -- Close if Business
+COB or COP -- Close of business or close of play.
+COO -- Chief Operating Officer
+CRAAP -- Currency, Relevance, Authority, Accuracy, and Purpose.
+CRM -- Customer Relationship Management
+CRM -- Customer Relationship Manager
+CSR -- Customer Sales Representative
 
 
-ELI5 - Explain like I'm 5 (years old).
-EOD - End of Day
-EOT - End of Thread
-EOW - End of Week
-ETA - Estimated Time of Arrival
+DAE -- Does anyone else...?
+DEF -- Definitely
+DEI -- Diversity, Equity and Inclusion
+DFTBA -- Don't forget to be awesome!
+DILO -- Day In the Life Of
+DM -- Direct Message
+DMC -- Deep and meaningful conversation.
 
 
-FTFY - Fixed that for you
-FUTAB - Feet up, take a break
-FWIW - For What It's Worth
-FYI - For Your Information
+ELI5 -- Explain like I'm 5 (years old).
+EOD -- End of Day
+EOT -- End of Thread
+EOW -- End of Week
+ETA -- Estimated Time of Arrival
 
 
-GDP - Gross Domestic Product
-GROW - Goal, current Reality, Options (or Obstacles), and Will (or Way forward).
-GTMTA - Great Minds Think Alike
-GTR - Getting ready.
+FTFY -- Fixed that for you
+FUTAB -- Feet up, take a break
+FWIW -- For What It's Worth
+FYI -- For Your Information
 
 
-HAND - Have a nice day.
+GDP -- Gross Domestic Product
+GROW -- Goal, current Reality, Options (or Obstacles), and Will (or Way forward).
+GTMTA -- Great Minds Think Alike
+GTR -- Getting ready.
 
 
-IAC - In Any Case
-IAM - In A Meeting
-ICYMI - In Case You Missed It
-IMO - In My Opinion
-IRL - In real life.
+HAND -- Have a nice day.
 
 
-JGI - Just Google It
+IAC -- In Any Case
+IAM -- In A Meeting
+ICYMI -- In Case You Missed It
+IMO -- In My Opinion
+IRL -- In real life.
 
 
-KISS - Keep It Simple Stupid
-KPI - Key Performance Indicator
-KRA - Key Result Area
-LET - Leaving early today.
+JGI -- Just Google It
 
 
-LLC - Limited Liability Company
-LMK - Let Me Know
-LOL - Laughing out loud
+KISS -- Keep It Simple Stupid
+KPI -- Key Performance Indicator
+KRA -- Key Result Area
+LET -- Leaving early today.
 
 
-MBO - Management by Objectives
-MBWA - Management by Wandering Around
+LLC -- Limited Liability Company
+LMK -- Let Me Know
+LOL -- Laughing out loud
 
 
-NASA - National Areonautics and Space Administration
-NBD - No Big Deal
-NDA - Non-Disclosure Agreement
-NP - No Problem
-NRN - No Relply Necessary
-NSFW - Not Safe for Work
-NWR - Not Work Related
+MBO -- Management by Objectives
+MBWA -- Management by Wandering Around
 
 
-OGSM - Objective, Goal, Strategies, and Measures
-OHIO - Only Handle It Once
-OLT - On Line Training
-OMY - On My Way
-OOO - Out of Office
-OSKAR - Outcome, Scale, Know-how, Affirm + Action, and Review
-OT - Off Topic
-OTP - On The Phone
+NASA -- National Areonautics and Space Administration
+NBD -- No Big Deal
+NDA -- Non-Disclosure Agreement
+NP -- No Problem
+NRN -- No Relply Necessary
+NSFW -- Not Safe for Work
+NWR -- Not Work Related
 
 
-PEST - Political, Economic, Socio-cultural, and Technological changes in your environment.
-POC - Point of Contact
-POSDCORB - Planning, Organizing, Staffing, Directing, Coordinating, Reporting, and Budgeting
-PTO - Paid Time Off
+OGSM -- Objective, Goal, Strategies, and Measures
+OHIO -- Only Handle It Once
+OLT -- On Line Training
+OMY -- On My Way
+OOO -- Out of Office
+OSKAR -- Outcome, Scale, Know-how, Affirm + Action, and Review
+OT -- Off Topic
+OTP -- On The Phone
 
 
-RFP - Request for Proposal
-ROI - Return on Investment
+PEST -- Political, Economic, Socio-cultural, and Technological changes in your environment.
+POC -- Point of Contact
+POSDCORB -- Planning, Organizing, Staffing, Directing, Coordinating, Reporting, and Budgeting
+PTO -- Paid Time Off
 
 
-SCAMPER - Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse
-SEO - Search Engine Optimization
-SMART - Specific, Measurable, Achievable, Realistic and Timely
-SMART - Specific, Measurable, Achievable, Relevant, and Time bound
-SME - Subject Matter Expert
-SMH - Shaking my head.
-SOAR - Strengths, Opportunities, Aspirations, and Results.
-SPAM - Special Processed American Meat
-SWOT - Strength, Weakness, Opportunities, Strengths
+RFP -- Request for Proposal
+ROI -- Return on Investment
 
 
-TBD - To Be Decided
-TBH - To Be Honest
-TIFU - Today I fudged up.
-TL;DR - Too Long, Didn't Read
-TTYL - Talk to you later
-TYT - Take Your Time
+SCAMPER -- Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse
+SEO -- Search Engine Optimization
+SMART -- Specific, Measurable, Achievable, Realistic and Timely
+SMART -- Specific, Measurable, Achievable, Relevant, and Time bound
+SME -- Subject Matter Expert
+SMH -- Shaking my head.
+SOAR -- Strengths, Opportunities, Aspirations, and Results.
+SPAM -- Special Processed American Meat
+SWOT -- Strength, Weakness, Opportunities, Strengths
 
 
-VAK - Visual, Auditory and Kinesthetic.
-VC - Virtual Class
-VLE - Virtual Learning Environment
-VPN - Virtual Private Network
-VRIO - Value, Rarity, Inimitability, and Organization.
-VUCA - Volatile, Uncertain, Complex and Ambiguous.
+TBD -- To Be Decided
+TBH -- To Be Honest
+TIFU -- Today I fudged up.
+TL;DR -- Too Long, Didn't Read
+TTYL -- Talk to you later
+TYT -- Take Your Time
 
 
-WBT - Web Based Training
-WDTY - What Do You Think?
-WEG - Wicked evil grin.
-WFH - Working from home
-WIIFM - What's In It For Me
-WOM - Word of mouth
-WTF - What The F*
+VAK -- Visual, Auditory and Kinesthetic.
+VC -- Virtual Class
+VLE -- Virtual Learning Environment
+VPN -- Virtual Private Network
+VRIO -- Value, Rarity, Inimitability, and Organization.
+VUCA -- Volatile, Uncertain, Complex and Ambiguous.
+
+
+WBT -- Web Based Training
+WDTY -- What Do You Think?
+WEG -- Wicked evil grin.
+WFH -- Working from home
+WIIFM -- What's In It For Me
+WOM -- Word of mouth
+WTF -- What The F*
 
 
 
@@ -157,7 +159,7 @@ https://www.workhonors.com/top-10-common-workplace-acronyms-explained
 WFH? 5 confusing workplace acronyms explained
 https://www.perkbox.com/au/resources/blog/wfh-5-confusing-workplace-acronyms-explained
 
-Safe Work Australia - Acronyms and abbreviations
+Safe Work Australia -- Acronyms and abbreviations
 https://www.safeworkaustralia.gov.au/book/comparison-workers-compensation-arrangements-australia-and-new-zealand-2021-28th-edition/acronyms-and-abbreviations
 
 Common Workplace Abbreviations and Business Acronyms

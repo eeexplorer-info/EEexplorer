@@ -1,7 +1,8 @@
 Acronyms Compiled - Aviation
+13 Sep 2025
 
 
-AATIP - Advanced Areospace Threat Identification Program
+AATIP -- Advanced Areospace Threat Identification Program
 ALT -- Altitude
 AMSL -- Above Mean Sea Level
 ATC -- Air Trafic Control
@@ -25,8 +26,8 @@ HARP -- High Altitude Research Project
 
 SBY -- Standby
 
-UAP - Unidentified Areial Phenomena
-UFO - Unidentified Flying Object
+UAP -- Unidentified Areial Phenomena
+UFO -- Unidentified Flying Object
 
 
 

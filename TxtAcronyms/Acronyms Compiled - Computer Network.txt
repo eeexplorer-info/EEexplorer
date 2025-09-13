@@ -1,4 +1,5 @@
 Acronyms Compiled - Computer Network
+13 Sep 2025
 
 
 1G - Analog Voice
@@ -42,9 +43,15 @@ DHT - Distrubuted Hash Table
 DHCP - Dynamic Host Configuration Protocol
 DMT - Discrete MultiTone
 DNS - Domain Name System
+DoH - DNS over HTTPS
 DOM - Document Object Model
+DoT - DNS over TLS
 DSL - Digital Subscriber Line
 DSLAM - Digital Subscriber Line Access Multiplier
+
+
+ECH - Encrypted Client Hello
+ECS - eDNS Client Subnet
 
 
 FCC - Federal Communication Commission
@@ -147,6 +154,7 @@ SIM - Subscriver Identity Module
 SIPP - Simple Internet Protocol Plus
 SMTP - Simple Mail Transfer Protocol
 SNA - System Network Architecture (IBM?)
+SNI - Server Name Indicator
 SNR - Signal To Noise Ratio
 SSL - Secure Sockets Layer
 STDM - Statistical Time Division Multiplexing
@@ -156,6 +164,7 @@ TCP - Transmission Control Protocol
 TCP/IP - Transmission Control Protocol / Internet Protocol
 TDM - Time Division Multiplexing
 TELNET - 
+TLS - Transport Layer Security
 TPDU - Transport Protocol Data Unit
 
 
