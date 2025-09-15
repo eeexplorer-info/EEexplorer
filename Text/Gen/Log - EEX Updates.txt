@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 15 Sep 2025 ===------
+{
+== SCHOOL > REUNION
+- Page structure for 40th created and linked
+}
+
+
 ------=== 14 Sep 2025 ===------
 {
 == WORK n LIFE > HOBBIES > WOODWORK
