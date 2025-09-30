@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 30 Sep 2025 ===------
+{
+== ALUMNI > POSTS
+- Post 250930 - Your Brain, on Tech, SBS Insight added
+- Index of Posts updated
+
+== SCHOOL > PHOTO GALLERY
+- HEAD of SCHOOL option added
+== SCHOOL > RELATED
+- DEPARTMENTS > Individual Heads simplified
+}
+
+
 ------=== 23 Sep 2025 ===------
 {
 == ALUMNI > POSTS
