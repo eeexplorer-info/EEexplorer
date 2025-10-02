@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 02 Oct 2025 ===------
+{
+== ELSOC > PUBLICATIONS
+- Newsletter for Week 3 in Term 3 integrated
+}
+
+
 ------=== 30 Sep 2025 ===------
 {
 == ALUMNI > POSTS
@@ -9,6 +16,7 @@ Log - EEX Updates
 
 == SCHOOL > PHOTO GALLERY
 - HEAD of SCHOOL option added
+
 == SCHOOL > RELATED
 - DEPARTMENTS > Individual Heads simplified
 }
