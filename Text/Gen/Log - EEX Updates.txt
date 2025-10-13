@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 13 Oct 2025 ===------
+{
+== ELSOC > CAMPUS > AGM
+- Photo groups & pages added
+- QR code for page added
+}
+
+
 ------=== 07 Oct 2025 ===------
 {
 == ELSOC > CAMPUS > AGM
