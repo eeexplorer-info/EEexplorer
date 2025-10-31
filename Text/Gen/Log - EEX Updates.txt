@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 31 Oct 2025 ===------
+{
+== ALUMNI > POSTS
+- Nbr of Views for last 6 posts updated
+- Views for 2024 Thesis Poster Competition updated
+}
+
+
 ------=== 13 Oct 2025 ===------
 {
 == ELSOC > CAMPUS > AGM
