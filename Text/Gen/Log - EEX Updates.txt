@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 21 Nov 2025 ===------
+{
+SCHOOL > SOCIAL POSTS
+- Text & links to community posts populated
+- Big list split into sub-pages
+- Next year page structure started
+}
+
+
 ------=== 19 Nov 2025 ===------
 {
 SCHOOL > SOCIAL POSTS
