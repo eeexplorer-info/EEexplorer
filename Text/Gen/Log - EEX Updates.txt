@@ -1,10 +1,15 @@
 Log - EEX Updates
 
 
-------=== 25 Nov 2025 ===------
+------=== 27 Nov 2025 ===------
 {
+== ALUMNI > POSTS
+- Code for Links on pages to LI posts added
+
+
 == WORK n LIFE > QUOTES
-- from Peter Drucker updated
+- from Latin - updated
+- from Peter Drucker - updated
 }
 
 
