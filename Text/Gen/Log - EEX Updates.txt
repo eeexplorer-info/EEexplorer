@@ -1,6 +1,18 @@
 Log - EEX Updates
 
 
+------=== 30 Nov 2025 ===------
+{
+== ALUMNI > POSTS
+- Post 251130 - Results for Thesis Poster Competition added
+- Index of Posts updated
+- Posted Community - 5 more ElecEng people added
+
+== SCHOOL > POSTS
+- Posts by School on their LI Page updated
+}
+
+
 ------=== 27 Nov 2025 ===------
 {
 == ALUMNI > POSTS
