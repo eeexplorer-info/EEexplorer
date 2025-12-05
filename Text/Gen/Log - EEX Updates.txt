@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 05 Dec 2025 ===------
+{
+== SCHOOL > POSTS
+- Community Description & Rules added
+- Posts by School on their LI EEnT Community Page updated
+}
+
+
 ------=== 01 Dec 2025 ===------
 {
 SCHOOL > LOCAL EVENTS
