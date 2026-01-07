@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 07 Jan 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260107 - Welcome Back added
+- Index of Posts updated
+}
+
 ------=== 20 Dec 2025 ===------
 {
 == SCHOOL > POSTS
