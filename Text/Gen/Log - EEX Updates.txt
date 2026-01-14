@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 14 Jan 2026 ===------
+{
+== TOOLBOX > CALENDARS
+- Current, Next Previous updated
+
+== WORK n LIFE > HOBBIES
+- Menu & Tree structure started
+}
+
+
 ------=== 07 Jan 2026 ===------
 {
 == ALUMNI > POSTS
