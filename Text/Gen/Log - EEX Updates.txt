@@ -1,6 +1,32 @@
 Log - EEX Updates
 
 
+------=== 18 Jan 2026 ===------
+{
+== SCHOOL > CONTACTS
+- TEAM 4729 - EMU ROBOTICS information added
+
+== WORK n LIFE > HOBBIES
+- COUNTRIES, FITNESS, MUSIC GROUPS, SPORTS pages integrated
+
+SOCIAL
+- EMU ROBOTICS contact information expanded
+- MAGICIANS information expanded
+- PLAYING CARDS information expanded
+}
+
+
+------=== 17 Jan 2026 ===------
+{
+== WORK n LIFE > HOBBIES
+- Fortune Cookie section removed
+- QUOTE of the moment under Title added
+
+== WORK n LIFE > HOBBIES > PEOPLE(WARE)
+- QUOTE of the moment under Title added
+}
+
+
 ------=== 15 Jan 2026 ===------
 {
 == WORK n LIFE > HOBBIES
