@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 21 Jan 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260121 - Long Wknd & EE Innovative Help
+- Index of Posts updated
+
+== WORK n LIFE > HOBBIES > SOCIAL
+- Robotics Competition teams grouped together
+}
+
+
 ------=== 18 Jan 2026 ===------
 {
 == SCHOOL > CONTACTS
