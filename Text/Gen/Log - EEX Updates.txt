@@ -1,6 +1,23 @@
 Log - EEX Updates
 
 
+------=== 28 Jan 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260128 - Workplaces & Teamwork added
+- Index of Posts updated
+
+== CODE cleanup
+- All Meta-tags in Alumni posts cleaned-up
+
+== ELSOC > EVENT CALENDAR
+- Earlier event tree restructured
+
+== ELSOC > HONOUR BOARD
+- 2026 Exec names added
+}
+
+
 ------=== 21 Jan 2026 ===------
 {
 == ALUMNI > POSTS
