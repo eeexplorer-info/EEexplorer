@@ -1,6 +1,19 @@
 Log - EEX Updates
 
 
+------=== 31 Jan 2026 ===------
+{
+== SCHOOL > POSTS > COMMUNITY
+- Tables of  Posts restructured
+- Index with links created
+
+== WORK n LIFE > HOBBIES > SOCIAL CIRCLES
+- UNSW Contact information added for:
+-- EE&T (Alumni, Elsoc, School) 
+-- SYDNEY
+}
+
+
 ------=== 28 Jan 2026 ===------
 {
 == ALUMNI > POSTS
