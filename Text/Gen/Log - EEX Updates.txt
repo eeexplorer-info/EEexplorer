@@ -1,11 +1,13 @@
 Log - EEX Updates
 
 
-------=== 31 Jan 2026 ===------
+------=== 1 Feb 2026 ===------
 {
 == SCHOOL > POSTS > COMMUNITY
-- Tables of  Posts restructured
+- Tables of Posts restructured
 - Index with links created
+- some Keywords for  Index table added
+- All posts for tables added
 
 == WORK n LIFE > HOBBIES > SOCIAL CIRCLES
 - UNSW Contact information added for:
