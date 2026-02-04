@@ -903,8 +903,8 @@ details > summary {
 .dropbtnup {
 	background-color: var(--bgcolor-body);
 	 /* #04AA6D; */
-	color: lightgreen;
 	/* color: lightgreen; */
+	color: lightgray;
 	 /* white; */
 	padding: 
 	/* 0.875rem; */
@@ -947,7 +947,7 @@ details > summary {
   }
   
   /* Change color of dropdown links on hover */
-  .dropup-content a:hover {background-color:lightgreen;color:black}
+  .dropup-content a:hover {background-color:lightgray;color:black}
   /* .dropup-content a:hover {background-color:grey;color:lime} */
   /* .dropup-content a:hover {background-color:purple;} */
 	/* var(--bgcolor-body);} */
@@ -1165,13 +1165,14 @@ Found: 240707 */
 .topnav a:hover {
 	/* background-color: #ddd; */
 	/* color: white; */
-	background-color:lightgreen;color:black
+	background-color:lightgray;color:black
   }
 
   /* Add an active class to highlight the current page */
 .topnav a.active {
 	/* background-color: #04AA6D; */
-	background-color: lightgreen;
+	/* background-color: lightgreen; */
+	background-color: lightgray;
 	/* color: white; */
 	color: black;
   }

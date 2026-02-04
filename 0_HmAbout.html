@@ -30,7 +30,33 @@ Local: http://127.0.0.1:5500/0_About.html
 	<head>
 		<a name="AbtTop"></a>	
 		<nav>
-				<a name="Top"></a>	
+				<a name="Top"></a>
+			<!-- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp -->
+			<!-- 260204 -->
+			<div class="topnav" id="myTopnav">
+				<a href="index.html" class="active">HOME</a>
+				<div id="myLinks">
+				  <a href="#">---></a>
+				  <a href="#campus">C</a>
+				  <a href="#events">E</a>
+				  <a href="#honour">H</a>
+				  <a href="#publications">P</a>
+				  <a href="#graphics">S</a>					
+				  <a href="#network">S</a>
+				  <a href="#terms">T</a>
+				  <!-- <a href="/0_HmSearch.html">SEARCH_ENGINE</a> -->
+				  <!-- <a href="/1_SrchFaq.html">FAQ</a> -->
+				  <!-- <a href="/1_SrchQrCodes.html">QR-CODES</a> -->
+				  <!-- <a href="/0_HmSearch.html">CALENDARS</a> -->
+				  <hr>
+				  <!-- <a href="/0_HmUpdates.html">WHAT'S_NEW</a> -->
+				  <a href="/Images/Gen/Img_sml.webp">SHARE_QR</a>
+				  <hr>
+				</div>
+				<a href="javascript:void(0);" class="icon" onclick="myMenu()">&#9776
+				  <!-- <i class="fa fa-bars"></i> -->
+				</a>
+		  </div>
 		</nav>
 		<center>
 			<figure>
@@ -39,7 +65,7 @@ Local: http://127.0.0.1:5500/0_About.html
 				<script>showScrnWH();</script>
 
 				<!--<img src="Img_NotePad Pkt 230719mb_420p.webp" width="62%" height="50%" alt="Img_Notepad 640x610.webp">-->
-				<img id="img_pghdr" src="./Images/Gen/Img_AboutNotes sml.webp" alt="About Notes">
+				<img id="img_pghdr" src="/Images/Gen/Img_AboutNotes sml.webp" alt="About Notes">
 
 				<figcaption id="img_pghdr">
 					<a href="/index.html">HOME</a> > ABOUT
@@ -354,6 +380,8 @@ Local: http://127.0.0.1:5500/0_About.html
 			<table class="noborders">
 
 			</table> -->
+
+			<script src="/js/libMenu.js"></script>
 
 			<br><br><br><br><br>
 		</center>
