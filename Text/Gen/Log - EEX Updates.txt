@@ -1,6 +1,16 @@
 Log - EEX Updates
 
 
+------=== 4 Feb 2026 ===------
+{
+== HOME
+- Responsive Top Navigation Bar added
+
+== ELSOC
+- Responsive Top Navigation Bar added
+}
+
+
 ------=== 3 Feb 2026 ===------
 {
 == STATISTICS > WHAT'S NEW

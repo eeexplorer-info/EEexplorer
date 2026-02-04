@@ -17,6 +17,7 @@ Local: http://127.0.0.1:5500/0_HmElsoc.html
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" href="styles.css">
 	<link rel="stylesheet" href="css/queries.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<meta name="language" content="English">
 	<meta name="author" content="Robert Smith">
 	<title>ELSOC Activity</title>
@@ -24,6 +25,51 @@ Local: http://127.0.0.1:5500/0_HmElsoc.html
 	<head>
 		<nav>
 			<a name="Top"></a>	
+			<!-- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp -->
+			<!-- 260204 -->
+			<div class="topnav" id="myTopnav">
+				<a href="index.html" class="active">HOME</a>
+				<div id="myLinks">
+				  <a href="#">---></a>
+				  <a href="/0_HmElsoc.html#campus">CAMPUS_VISITS</a>
+				  <a href="/0_HmElsoc.html#events">EVENT_CALENDAR</a>
+				  <a href="/0_HmElsoc.html#honour">HONOUR_BOARD</a>
+				  <a href="/0_HmElsoc.html#publications">PUBLICATIONS</a>
+				  <a href="/0_HmElsoc.html#graphics">SOCIAL_GRAPHIICS</a>					
+				  <a href="/0_HmElsoc.html#network">SOCIAL_NETWORK</a>
+				  <a href="/0_HmElsoc.html#terms">TERM_CALENDAR</a>
+				  <!-- <a href="/0_HmSearch.html">SEARCH_ENGINE</a> -->
+				  <!-- <a href="/1_SrchFaq.html">FAQ</a> -->
+				  <!-- <a href="/1_SrchQrCodes.html">QR-CODES</a> -->
+				  <!-- <a href="/0_HmSearch.html">CALENDARS</a> -->
+				  <hr>
+				  <!-- <a href="/0_HmUpdates.html">WHAT'S_NEW</a> -->
+				  <a href="/Images/Gen/Qrc/Img_QR%20EEXEls%20sml.webp">SHARE_QR</a>
+				  <hr>
+				</div>
+				<a href="javascript:void(0);" class="icon" onclick="myMenu()">
+				  <i class="fa fa-bars"></i>
+				</a>
+		  </div>
+
+			<!-- https://www.w3schools.com/howto/howto_js_mobile_navbar.asp -->
+			<!-- <div class="mobile-container">
+				<div class="topnav">
+				  <a href="#home" class="active">Logo</a>
+				  <div id="myLinks">
+					<a href="/0_.html">CAMPUS_VISITS</a>
+					<a href="/0_.html">EVENT_CALENDAR</a>
+					<a href="/0_.html">HONOUR_BOARD</a>
+					<a href="/0_.html">PUBLICATIONS</a>
+					<a href="/0_.html">SOCIAL_GRAPHIICS</a>					
+					<a href="/0_.html">SOCIAL_NETWORK</a>
+					<a href="/0_.html">TERM_CALENDAR</a>
+				  </div>
+				  <a href="javascript:void(0);" class="icon" onclick="myMenu()">
+					<i class="fa fa-bars"></i>
+				  </a>
+				</div>
+			</div> -->
 		</nav>
 		<center>
 			<figure>
@@ -2420,6 +2466,8 @@ Local: http://127.0.0.1:5500/0_HmElsoc.html
 				<tr><td></td><td class="right"><a href="https://www.student.unsw.edu.au/calendar" target="_blank">ACADEMIC CALENDAR</a> (.edu.au</td></tr>
 				<tr><td><a href="#Top">TOP</a></td><td class="right">(<a href="/1_UnswTrmCals.html">EARLIER TERM</a> or <a href="/2_TbxCalTerms.html" target="_blank">OTHER</a>) CALENDARS</td></tr>
 			</table>
+
+			<script src="/js/libMenu.js"></script>
 
 		<br><br><br><br><br>
 	</center>
