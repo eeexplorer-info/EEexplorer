@@ -1155,7 +1155,8 @@ Found: 240707 */
 	display: block;
 	color: #f2f2f2;
 	text-align: center;
-	padding: 14px 16px;
+	/* padding: 14px 16px; */
+	padding: 7px 10px;
 	text-decoration: none;
 	/* font-size: 17px; */
 	font-size: 0.875rem;
@@ -1208,31 +1209,3 @@ Found: 240707 */
 	}
   } 
 
-
-
-  /* https://www.w3schools.com/css/css_tooltip.asp */
-  /* Tooltip container */
-.tooltip {
-	position: relative;
-	display: inline-block;
-	border-bottom: 1px dotted black; /* Add dots under the hoverable text */
-	cursor: pointer;
-  }
-  
-  /* Tooltip text */
-  .tooltiptext {
-	visibility: hidden; /* Hidden by default */
-	width: 130px;
-	background-color: black;
-	color: #ffffff;
-	text-align: center;
-	padding: 5px 0;
-	border-radius: 6px;
-	position: absolute;
-	z-index: 1; /* Ensure tooltip is displayed above content */
-  }
-  
-  /* Show the tooltip text on hover */
-  .tooltip:hover .tooltiptext {
-	visibility: visible;
-  }
