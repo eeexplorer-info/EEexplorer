@@ -1,10 +1,12 @@
 Log - EEX Updates
 
 
-------=== 5 Feb 2026 ===------
+------=== 6 Feb 2026 ===------
 {
 == Responsive Top Navigation Bar added
 - HOME, ALUMNI, ELSOC, SCHOOL, TOOLBOX, WORK & LIFE, YESTERYEAR
+- Toolbox sub menus added
+- Work & Life sub menus added
 
 - Same for Look-up pages
 - ABOUT, FAQ, INDEX, QR_CODES, SEARCH, SITE-MAP, UPDATES
