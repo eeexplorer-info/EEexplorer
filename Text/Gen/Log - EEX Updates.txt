@@ -1,12 +1,19 @@
 Log - EEX Updates
 
 
+------=== 12 Feb 2026 ===------
+{
+== SCHOOL > POSTS > COMMUNITY
+- All Keywords in indexes populated
+- Latest posts added
+}
+
+
 ------=== 10 Feb 2026 ===------
 {
 == ALUMNI > POSTS
 - Post 260210 - Magic of Electrical Engineers added
 - Index of Posts updated
-
 }
 
 
@@ -36,7 +43,7 @@ Log - EEX Updates
 == SCHOOL > POSTS > COMMUNITY
 - Tables of Posts restructured
 - Index with links created
-- some Keywords for  Index table added
+- some Keywords for Index table added
 - All posts for tables added
 
 == WORK n LIFE > HOBBIES > SOCIAL CIRCLES
