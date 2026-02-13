@@ -6,6 +6,7 @@ Log - EEX Updates
 == SCHOOL > POSTS > COMMUNITY
 - All Keywords in indexes populated
 - Latest posts added
+- QR Codes for 2025 and 2026 Index added
 }
 
 
