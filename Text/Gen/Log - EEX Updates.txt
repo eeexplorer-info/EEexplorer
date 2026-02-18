@@ -1,13 +1,19 @@
 Log - EEX Updates
 
 
-------=== 16 Feb 2026 ===------
+------=== 18 Feb 2026 ===------
 {
 == CODING
 - 'CHARTS & TABLES' added into SEARCH drop-up menus
 
+== TOOLBOX
+- Circuit Cookbook page skeleton added
+
 == TOOLBOX > CHARTS & TABLES
-- Tables separated into sub-pages with PRV & NXT navigation
+- Separated into sub-pages with PRV & NXT navigation
+- Geology page added
+- Vaccuum page added
+- All 22 sub-pages tested with fwd/prv link navigation
 }
 
 
