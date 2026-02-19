@@ -1,0 +1,354 @@
+<!-- 
+ElecEng Explorer - Toolbox / Charts & Tables
+Rob Smith
+19 Feb 2026
+File: 1_TbxChrtEnvt.html
+-->
+<!DOCTYPE HTML>
+<html lang="en">
+	<meta name="title" content="Charts & Tables">
+	<meta name="description" content="Reminder charts & tables covering discrete electronics, digital logic, chemistry, communication, environment, hardware, mathematics, physics, pin-outs, three phase and vacuum tubes.">
+	<meta name="keywords" content="catalogue data, chemistry, computer, connector, pin-outs, discrete, electronics, communication, logic gates, physics, three phase, vacuum tubes, weather, toolbox, chart, ee explorer">
+	<meta name="robots" content="index, follow">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="css/queries.css">
+	<meta name="language" content="English">
+	<meta name="author" content="Robert Smith">
+	<title>ChrtTbl - Environment</title>
+
+	<head>
+		<nav>
+			<a name="Top"></a>
+			<!-- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp -->
+			<!-- 260204 -->
+			<div class="topnav" id="myTopnav">
+				<!-- <a href="index.html" class="active">HOME</a> -->
+				<a href="index.html" title="Return Home">Home</a>
+				<div id="myLinks">
+					<a href="/1_SrchFaq.html" title="Branch or Path">FAQ</a>
+					<a href="#">|</a>
+					<a href="/0_HmToolbox.html">TOOLBOX</a>
+					<a href="/1_TbxChrt.html">CHARTS_&_TABLES</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtCatD.html">Catalog_Data</a>
+					<a href="/1_TbxChrtChem.html">Chemistry</a>
+					<a href="/1_TbxChrtCmpD.html">Cmptr_Data</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtCmpH.html">Cmptr_H/W</a>
+					<a href="/1_TbxChrtConP.html">Con._PinOuts</a>
+					<a href="/1_TbxChrtConT.html">Conv_Tables</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtEmS.html">EM_Spectrum</a>
+					<a href="/1_TbxChrtElBr.html">Elec_Branches</a>
+					<a href="/1_TbxChrtElPt.html">Elec_Parts</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtEnvt.html">Environment</a>
+					<a href="/1_TbxChrtGeo.html">Geology</a>
+					<a href="/1_TbxChrtHmnC.html">Human_Comms</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtLgGt.html">Logic_Gates</a>
+					<a href="/1_TbxChrtMath.html">Maths</a>
+					<a href="/1_TbxChrtPhys.html">Physics</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtRadS.html">Radio_Spectrum</a>
+					<a href="/1_TbxChrtTelC.html">Telecoms</a>
+					<a href="/1_TbxChrtThPh.html">3-Phase</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtUnCn.html">Univ_Constants</a>
+					<a href="/1_TbxChrtVcTb.html">Vacuum_Tubes</a>
+					<a href="/1_TbxChrtWthr.html">Weather</a>
+					<a href="#">|</a>
+					<a href="/1_TbxChrtWirR.html">Wiring Rules</a>
+					<a href="/1_TbxChrtWsHw.html">Wkshp_H/W</a>
+					<a href="#">|</a>
+					<!-- <a href="/Images/Gen/Img_sml.webp">Share_QR</a> -->
+					<a href="#">|</a>
+				</div>
+				<a href="javascript:void(0);" class="icon" onclick="myMenu()">&#9776
+				<!-- <i class="fa fa-bars"></i> -->
+				</a>
+			</div>
+		</nav>
+		<center>
+			<figure>
+				<h2>ElecEng EXPLORER</h2>
+				<!--<img src="Img_Under Construction.webp" width="25%" height="50%" alt="Under Construction">-->
+				<!-- <img id="img_pghdr" src="./Images/Tbx/Img_ChartsnTablesDbl sml.webp" alt="Charts & Tables Double"> -->
+				<figcaption id="img_pghdr">
+					<a href="/index.html">HOME</a> >
+					<a href="/0_HmToolbox.html">TOOLBOX</a> > 
+					<a href="/1_TbxChrt.html">CHARTS & TABLES</a> > ENVIRONMENT
+				</figcaption>
+			</figure>
+		</center>
+	</head>
+
+	<body>
+		<center>
+			<br><br>
+			<a name="envt"></a>
+			<h5>ENVIRONMENT</h5>
+			<br><br>
+			<table class="noborders">
+				<tr>
+					<td class="leftWT"><a href="/1_TbxCalDT.html">PRV</a> --Tool-- <a href="/1_TbxCheat.html">NXT</a></td>
+					<td class="rightWT"><a href="/1_TbxChrtElPt.html">PRV</a> --ChrtTbl-- <a href="/1_TbxChrtGeo.html">NXT</a></td></tr>
+			</table>
+
+			<table class="noborders">
+				<tr><td></td><td class="right">Toggle to Show/Hide</td></tr>
+				<tr><td></td><td class="right">Refresh page to Hide All</td></tr>
+				<tr><td></td><td><details><summary>DANGEROUS GOODS</summary>
+					<table>
+						<tr><td></td><td><hr></td></tr>
+						<!-- Dangerous Goods wiki https://en.wikipedia.org/wiki/Dangerous_goods -->
+						<!-- Ausralian Dangerous Goods Code wiki https://en.wikipedia.org/wiki/Australian_Dangerous_Goods_Code -->
+						<tr><td colspan="2" class="right">AUSTRALIAN <a href="https://en.wikipedia.org/wiki/Australian_Dangerous_Goods_Code" target="_blank">DANGEROUS GOODS CODE</a> - Wiki (.org</td></tr>
+						<tr><td colspan="2" class="right"><a href="https://en.wikipedia.org/wiki/Dangerous_goods" target="_blank">DANGEROUS GOODS</a> - Wiki (.org</td></tr>
+						<!-- <tr><td></td></td><td></td><td><a href="" target="_blank">WIKI</a> (.org</td></tr> -->
+						<th>HAZARD<br>CLASS</th><th>TITLE</th>
+						<tr><td>1</td><td>Explosive substances and artciles</td></tr>
+						<tr><td>2</td><td>Gases</td></tr>
+						<tr><td colspan="2"><hr></td></tr>
+						<tr><td>3</td><td>Flammable Liquids</td></tr>
+						<tr><td>4.1</td><td>Flammable Solids, self-reactive substances and solid desensitized explosives</td></tr>
+						<tr><td colspan="2"><hr></td></tr>
+						<tr><td>4.2</td><td>Substances liable to spontaneous combustion</td></tr>
+						<tr><td>4.3</td><td>Substances which, in contact with water, emit flammable and/or toxic gas</td></tr>
+						<tr><td colspan="2"><hr></td></tr>
+						<tr><td>5.1</td><td>Oxidizing substances</td></tr>
+						<tr><td>5.2</td><td>Organic peroxides</td></tr>
+						<tr><td colspan="2"><hr></td></tr>
+						<tr><td>6.1</td><td>Toxic substances</td></tr>
+						<tr><td>6.2</td><td>Infectious substances</td></tr>
+						<tr><td colspan="2"><hr></td></tr>
+						<tr><td>7</td><td>Radioactive material</td></tr>
+						<tr><td>8</td><td>Corrosive substances</td></tr>
+						<tr><td colspan="2"><hr></td></tr>
+						<tr><td>9</td><td>Miscellaneous dangeropus substances and articles</td></tr>
+
+						<tr><td></td><td><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr>
+				<tr><td></td><td><details><summary>HAZARDOUS CHEMICALS</summary>
+					<table>
+						<tr><td></td><td colspan="2"><hr></td></tr>
+						<tr><td colspan="3" class="right">NCEC's <a href="https://web.archive.org/web/20181104130219/https://d18hkfaesybon0.cloudfront.net/ncec/media/assets/downloads/ncec-emergency-action-code-list-2017.pdf" target="_blank">EAC LIST</a> 2017 (.net</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/Hazchem" target="_blank">HAZCHEM</a> - Wiki (.org</td></tr>
+						<tr><td></td><td><br></td></tr>
+						
+						<th>FIRE<br>SUPPRESSION<br><br>Nbr</th><th>Ltr</th><th>ACTION</th>
+						<tr><td class="center">1</td><td class="center">.</td><td>Coarse water spray</td></tr>
+						<tr><td class="center">2</td><td class="center">.</td><td>Water fog or fine spray</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">3</td><td class="center">.</td><td>Foam</td></tr>
+						<tr><td class="center">4</td><td class="center">.</td><td>Dry agent - never water</td></tr>
+						<!-- <tr><td colspan="3"><hr></td></tr> -->
+						<tr><td><br></td></tr>
+					</table>
+					<table>
+						<th>Nbr</th><th>SAFETY<br>PARAMETER<br><br>Ltr</th><th>ACTION</th>
+						<tr><td class="center">.</td><td class="center">E</td><td>Consider evacuation</td></tr>
+						<tr><td class="center">.</td><td class="center">P, R</td><td>Full Protection, Dilute</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">.</td><td class="center">S, T</td><td>BA Protection, dilute</td></tr>
+						<tr><td class="center">.</td><td class="center">W, X</td><td>Full Protection, Contain</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">.</td><td class="center">V</td><td>Substance is Violent</td></tr>
+						<tr><td class="center">.</td><td class="center">Y,Z</td><td>BA Protection, Contain</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center"></td><td class="center"></td><td>BA = Breathing Apparatus</td></tr>
+						<!-- <tr><td colspan="3"><hr></td></tr> -->
+						<tr><td><br></td></tr>
+
+						<tr><td></td><td colspan="2"><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr>
+
+				<tr><td></td><td><details><summary>HAZCHEM EXAMPLES</summary>
+					<table>
+						<tr><td></td><td colspan="2"><hr></td></tr>
+						<tr><td colspan="3" class="right">NCEC's <a href="https://web.archive.org/web/20181104130219/https://d18hkfaesybon0.cloudfront.net/ncec/media/assets/downloads/ncec-emergency-action-code-list-2017.pdf" target="_blank">EAC LIST</a> 2017 (.net</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/Hazchem" target="_blank">HAZCHEM</a> - Wiki (.org</td></tr>
+						<tr><td colspan="3" class="right">EAC = Emergency Action Code</td></tr>
+						<tr><td></td><td><br></td></tr>
+						<th>EAC<br><br>Nbr, Ltr (,Ltr)</th><th>EXAMPLE<br>SUBSTANCE<br><br>UN Number</th><th>EXAMPLE<br>ACTION</th>
+						<tr><td><br></td></tr>
+						<tr><td>4WE</td><td>.<br></td><td>.</td></tr>
+						<tr><td>4X</td><td>.</td><td>Use dry agent only, substance is not violent, full PPE essential, contain spill</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>3Z</td><td>.<br></td><td>.</td></tr>
+						<tr><td>3YE</td><td>PETROL FUEL<br>1270</td><td>Use foam or dry agent, substance reacts violently/is explosive, BA use is essential, evacuate vicinity, contain spill</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>2YE</td><td>LP GAS<br>1075</td><td>.</td></tr>
+						<tr><td>2YE</td><td>ETHANOL<br></td><td>.</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>2XE</td><td>ANHYDROUS AMMONIA<br>1005</td><td>.</td></tr>
+						<tr><td>2X</td><td>CHLORINE<br></td><td>.</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>2T</td><td>CARBON DIOXIDE<br>2817</td><td>.</td></tr>
+						<tr><td>2T</td><td>ARGON<br>1951</td><td>.</td></tr>						
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>2R</td><td>.</td><td>Use fog, foam or dry agent, substance is not violent, use full PPE, dilute spill</td></tr>
+						<tr><td>2R</td><td>SULPHURIC ACID - CORROSIVE 8<br>1830</td><td>.</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>2R</td><td>SODIUM HYDROXIDE<br>1024</td><td>.</td></tr>
+						<tr><td>2P</td><td>LIQUID MEDICAL OXYGEN<br>1073</td><td>.</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td>1Y</td><td>AMMONIUM NITRATE<br>1942</td><td>.</td></tr>
+						<tr><td>1SE</td><td>.</td><td>Use jets, fog, foam or dry agent; BA for fire only; evacuate vicinity; dilute spill</td></tr>
+						<!-- <tr><td>2</td><td>.<br></td><td>.</td></tr> -->
+						<!-- <tr><td>2</td><td>.<br></td><td>.</td></tr> -->
+						<!-- <tr><td>2</td><td>.<br></td><td>.</td></tr> -->
+						<!-- <tr><td>2</td><td>.<br></td><td>.</td></tr> -->	
+						<tr><td></td><td colspan="2"><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr>
+
+				<tr><td></td><td><details><summary>IP RATINGS</summary>
+					<table>
+						<tr><td></td><td colspan="2"><hr></td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/IP_code" target="_blank">IP CODE</a> - Wiki (.org</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://www.engineeringtoolbox.com/ip-ingress-protection-d_452.html" target="_blank">INGRESS PROTECTION</a> (.com</td></tr>
+						<tr><td></td><td><br></td></tr>
+						<th>Against<br>SOLID<br><br>1st</th><th>2nd</th><th>BRIEF DESCRIPTION</th>
+						<tr><td class="center">0</td><td class="center">.</td><td>None</td></tr>
+						<tr><td class="center">1</td><td class="center">.</td><td>Protected (>50mm, hands)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">2</td><td class="center">.</td><td>Screen Protected (>12mm, fingers)</td></tr>
+						<tr><td class="center">3</td><td class="center">.</td><td>? (>2.5mm, tools)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">4</td><td class="center">.</td><td>? (>1mm, wires & tools)</td></tr>
+						<tr><td class="center">5</td><td class="center">.</td><td>Dust Proof (no harmful deposits)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">6</td><td class="center">.</td><td>Dust Tight</td></tr>
+						<tr><td class="center">7</td><td class="center">.</td><td>None</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">8</td><td class="center">.</td><td>None</td></tr>
+						<!-- <tr><td colspan="3"><hr></td></tr> -->
+						<tr><td><br></td></tr>
+					</table>
+					<table>
+						<th>1st</th><th>Against<br>LIQUID<br><br>2nd</th><th>BRIEF DESCRIPTION</th>
+						<tr><td class="center">.</td><td class="center">0</td><td>None</td></tr>
+						<tr><td class="center">.</td><td class="center">1</td><td>? (Vertical falling drops of water)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">.</td><td class="center">2</td><td>Drip Proof (direct sprays &lt 15° frm vert)</td></tr>
+						<tr><td class="center">.</td><td class="center">3</td><td> Weatherproof (&lt 60° frm vert)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">.</td><td class="center">4</td><td>Rain Proof (all directions)</td></tr>
+						<tr><td class="center">.</td><td class="center">5</td><td>? (frm low pressure jets)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">.</td><td class="center">6</td><td>Hose Proof (frm high pressure jets)</td></tr>
+						<tr><td class="center">.</td><td class="center">7</td><td>Water Tight (immersion 150mm .. 1m)</td></tr>
+						<tr><td colspan="3"><hr></td></tr>
+						<tr><td class="center">.</td><td class="center">8</td><td>Submersible (continuous at depth)</td></tr>
+						<!-- <tr><td colspan="3"><hr></td></tr> -->
+
+						<tr><td></td><td colspan="2"><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr>
+				
+				<tr><td></td><td><details><summary>RADIATION</summary>
+					<table>
+						<!-- <tr><td></td><td><hr></td></tr> -->
+						<tr><td></td><td colspan="2"><hr></td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/Australian_Radiation_Protection_and_Nuclear_Safety_Agency" target="_blank">AUSTRALIAN AGENCY</a> - Wiki (.org</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/Dosimeter" target="_blank">DOSIMETER</a> - Wiki (.org</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/Radiation" target="_blank">RADIATION</a> - Wiki (.org</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://www.ozemedicine.com/wiki/doku.php?id=radiation_emergencies" target="_blank">EMERGENCIES</a> (AUS) - (.com</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://en.wikipedia.org/wiki/Radiation_protection" target="_blank">PROTECTION</a> - Wiki (.org</td></tr>
+						<tr><td colspan="3" class="right"><a href="https://htm.fandom.com/wiki/Radiation_Safety" target="_blank">SAFETY</a> - (.com</td></tr>
+
+						<tr><td></td><td><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr>
+				<!-- <tr><td></td><td><details><summary>C</summary>
+					<table>
+						<tr><td></td><td><hr></td></tr>
+
+						<tr><td></td><td><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr> -->
+				<!-- <tr><td><hr></td></tr> -->
+				<!-- <tr><td></td><td><details><summary>D</summary>
+					<table>
+						<tr><td></td><td><hr></td></tr>
+
+						<tr><td></td><td><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr> -->
+				<!-- <tr><td></td><td><details><summary>E</summary>
+					<table>
+						<tr><td></td><td><hr></td></tr>
+
+						<tr><td></td><td><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr> -->
+				<!-- <tr><td></td><td><details><summary>F</summary>
+					<table>
+						<tr><td></td><td><hr></td></tr>
+
+						<tr><td></td><td><br><a href="#Top">TOP<hr></a></td></tr>
+					</table>
+				</details></td></tr> -->
+			</table>
+			<table class="noborders"><tr><td><br></td></tr></table>
+			<table class="noborders">
+				<tr>
+					<td class="leftWT"><a href="/1_TbxCalDT.html">PRV</a> --Tool-- <a href="/1_TbxCheat.html">NXT</a></td>
+					<td class="rightWT"><a href="/1_TbxChrtElPt.html">PRV</a> --ChrtTbl-- <a href="/1_TbxChrtGeo.html">NXT</a></td></tr>
+			</table>
+			<table class="noborders"><tr><td class="leftWT"><a href="#Top">TOP</a></td></tr></table>
+
+			<br><br><br><br><br>
+		</center>
+		<script src="/js/libMenu.js"></script>
+	</body>
+
+	<footer>
+		<nav class="fixed-nav-bar-btm">
+			<center>
+				<div class="dropup">
+					<button class="dropbtnup">BRANCHES</button>
+					<div class="dropup-content">
+						<a href="/0_HmAlumni.html">ALUMNI</a>
+						<a href="/0_HmElsoc.html">ELSOC</a>
+						<a href="/0_HmSchool.html">SCHOOL</a>
+						<hr>
+						<a href="/0_HmToolbox.html">TOOLBOX</a>
+						<a href="/0_HmWork+Life.html">WORK & LIFE</a>
+						<a href="/0_HmYesterYear.html">YESTER-YEAR</a>
+						<hr>
+						<a href="/index.html">HOME</a>
+						<hr>
+					</div>
+				</div>
+
+				<div class="dropup">
+					<button class="dropbtnup">SEARCH</button>
+					<div class="dropup-content">
+						<a href="/0_HmSearch.html" target="_blank">ENGINE</a>
+						<a href="/1_SrchFaq.html" target="_blank">FAQ</a>
+						<a href="/1_SrchQrCodes.html" target="_blank">QR-CODES</a>
+						<hr>
+						<a href="/1_TbxCalDT.html" target="_blank">CALENDARS</a>
+						<a href="/1_TbxChrt.html" target="_blank">CHARTS_&_TABLES</a>
+					</div>
+				</div>
+
+				<!-- 250424 https://www.qr-code-generator.com/  -->
+				<!-- <div class="dropup">
+					<button class="dropbtnup">SHARE</button>
+					<div class="dropup-content">
+						<a class="center"><img id="img_pgqr" src="/Images/Gen/Qrc/Img_QR EExTbxCh sml.webp" alt="QR Code for Charts & Tables"><hr>NOT SETUP yet</a>
+					</div>
+				</div> -->
+			</center>
+		</nav>
+	</footer>
+</html>
