@@ -1,13 +1,22 @@
 Log - EEX Updates
 
 
-------=== 20 Feb 2026 ===------
+------=== 23 Feb 2026 ===------
 {
+== ALUMNI > POSTS
+- Next post skeleton setup
+- Views/counts for this year updated
+
+== SCHOOL > POSTS > COMMUNITY
+- All Keywords in indexes populated
+- Latest 11 posts added
+
 == TOOLBOX > CHARTS & TABLES
-- Environment (Goods, Hazchem, IP code, PPE, Radiation) added
+- ENVIRONMENT (Goods, Hazchem, IP code, PPE, Radiation) added
+
 == TOOLBOX > CHARTS & TABLES
 - WORKSHOP HARDWARE >
--- Tape Measures (1", 6", 144") added
+-- Tape Measures (1", 6", 12", 48", 144") added
 }
 
 
