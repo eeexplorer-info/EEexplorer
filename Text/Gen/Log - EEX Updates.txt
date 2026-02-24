@@ -1,6 +1,22 @@
 Log - EEX Updates
 
 
+------=== 24 Feb 2026 ===------
+{
+== ELSOC
+- Term Calendars for 2026 updated
+
+== SCHOOL
+- Term Calendars for 2026 updated
+
+== TOOLBOX > CALENDAR & CLOCK
+- Dropdown menu organised & access made quicker
+
+== UNSW
+- Term Calendars for 2026 updated
+}
+
+
 ------=== 23 Feb 2026 ===------
 {
 == ALUMNI > POSTS
