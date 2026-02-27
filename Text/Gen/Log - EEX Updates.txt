@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 27 Feb 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260227 - Background Cycles, New Members, Possible Thoughts added
+- Index of Posts updated
+}
+
+
 ------=== 24 Feb 2026 ===------
 {
 == ELSOC
@@ -11,6 +19,7 @@ Log - EEX Updates
 
 == TOOLBOX > CALENDAR & CLOCK
 - Dropdown menu organised & access made quicker
+- Term Calendars for 2026 updated
 
 == UNSW
 - Term Calendars for 2026 updated
