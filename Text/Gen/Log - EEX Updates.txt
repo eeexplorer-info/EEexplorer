@@ -1,6 +1,17 @@
 Log - EEX Updates
 
 
+------=== 12 Mar 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260312 - International Women's Day, Craftsmanship, Unix in ElecEng, Bell Labs & Unix added
+- Index of Posts updated
+
+== TOOLBOX > CHARTS & TABLES
+- MATHEMATICS menu system simplified
+}
+
+
 ------=== 27 Feb 2026 ===------
 {
 == ALUMNI > POSTS
