@@ -1,6 +1,15 @@
 Log - EEX Updates
 
 
+------=== 15 Mar 2026 ===------
+{
+== ELSOC > PUBLICATIONS
+- NEWSLETTERS
+-- tables restructured
+-- Term 1 Nbr 1 added
+- WIRED_IN issue 01 from FB added
+}
+
 ------=== 12 Mar 2026 ===------
 {
 == ALUMNI > POSTS
