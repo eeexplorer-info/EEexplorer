@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 29 Mar 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260329 - Background Cycles #2 -- New Members -- Emu Robotics Results -- Gravity at Work -- Unix Philosophy
+- Index of Posts updated
+}
+
+
 ------=== 15 Mar 2026 ===------
 {
 == ELSOC > PUBLICATIONS
@@ -9,6 +17,7 @@ Log - EEX Updates
 -- Term 1 Nbr 1 added
 - WIRED_IN issue 01 from FB added
 }
+
 
 ------=== 12 Mar 2026 ===------
 {
