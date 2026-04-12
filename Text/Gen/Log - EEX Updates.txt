@@ -1,6 +1,14 @@
 Log - EEX Updates
 
 
+------=== 11 Apr 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260411 - EMU Robotics in NYC -- Feedback for UNSW Engg -- Solving for the Unknown -- Story: Flat Car Battery 
+- Index of Posts updated
+}
+
+
 ------=== 29 Mar 2026 ===------
 {
 == ALUMNI > POSTS
@@ -27,125 +35,5 @@ Log - EEX Updates
 
 == TOOLBOX > CHARTS & TABLES
 - MATHEMATICS menu system simplified
-}
-
-
-------=== 27 Feb 2026 ===------
-{
-== ALUMNI > POSTS
-- Post 260227 - Background Cycles, New Members, Possible Thoughts added
-- Index of Posts updated
-}
-
-
-------=== 24 Feb 2026 ===------
-{
-== ELSOC
-- Term Calendars for 2026 updated
-
-== SCHOOL
-- Term Calendars for 2026 updated
-
-== TOOLBOX > CALENDAR & CLOCK
-- Dropdown menu organised & access made quicker
-- Term Calendars for 2026 updated
-
-== UNSW
-- Term Calendars for 2026 updated
-}
-
-
-------=== 23 Feb 2026 ===------
-{
-== ALUMNI > POSTS
-- Next post skeleton setup
-- Views/counts for this year updated
-
-== SCHOOL > POSTS > COMMUNITY
-- All Keywords in indexes populated
-- Latest 11 posts added
-
-== TOOLBOX > CHARTS & TABLES
-- ENVIRONMENT (Goods, Hazchem, IP code, PPE, Radiation) added
-
-== TOOLBOX > CHARTS & TABLES
-- WORKSHOP HARDWARE >
--- Tape Measures (1", 6", 12", 48", 144") added
-}
-
-
-------=== 18 Feb 2026 ===------
-{
-== CODING
-- 'CHARTS & TABLES' added into SEARCH drop-up menus
-
-== TOOLBOX
-- Circuit Cookbook page skeleton added
-
-== TOOLBOX > CHARTS & TABLES
-- Separated into sub-pages with PRV & NXT navigation
-- Geology page added
-- Vaccuum page added
-- All 22 sub-pages tested with fwd/prv link navigation
-}
-
-
-------=== 14 Feb 2026 ===------
-{
-== SEARCH > FAQ > FAVOURITES
-- Social Posts from SCHOOL Community added
-}
-
-
-------=== 12 Feb 2026 ===------
-{
-== SCHOOL > POSTS > COMMUNITY
-- All Keywords in indexes populated
-- Latest posts added
-- QR Codes for 2025 and 2026 Index added
-}
-
-
-------=== 10 Feb 2026 ===------
-{
-== ALUMNI > POSTS
-- Post 260210 - Magic of Electrical Engineers added
-- Index of Posts updated
-}
-
-
-------=== 6 Feb 2026 ===------
-{
-== Responsive Top Navigation Bar added
-- HOME, ALUMNI, ELSOC, SCHOOL, TOOLBOX, WORK & LIFE, YESTERYEAR
-- Toolbox sub menus added
-- Work & Life sub menus added
-
-- Same for Look-up pages
-- ABOUT, FAQ, INDEX, QR_CODES, SEARCH, SITE-MAP, UPDATES
-}
-
-
-------=== 3 Feb 2026 ===------
-{
-== STATISTICS > WHAT'S NEW
-- Log to reflect current month changes
-- PDF of earlier updates created
-}
-
-
-
-------=== 1 Feb 2026 ===------
-{
-== SCHOOL > POSTS > COMMUNITY
-- Tables of Posts restructured
-- Index with links created
-- some Keywords for Index table added
-- All posts for tables added
-
-== WORK n LIFE > HOBBIES > SOCIAL CIRCLES
-- UNSW Contact information added for:
--- EE&T (Alumni, Elsoc, School) 
--- SYDNEY
 }
 
