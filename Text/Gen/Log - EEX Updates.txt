@@ -1,10 +1,15 @@
 Log - EEX Updates
 
 
-------=== 15 Jun 2026 ===------
+------=== 14 Jun 2026 ===------
 {
-In progress: - Post 260615 -- 
+In progress: - Post 260615 -- Industry night wrap-up -- Elsoc Alumni Night update
 In progress: - Index of Posts updated
+
+== SCHOOL > RELATED
+- Menu structure reorganised
+- WORKSPACES > MAKER_SPACE branch added
+-- entry for search engine added
 }
 
 
@@ -26,7 +31,7 @@ In progress: - Index of Posts updated
 ------=== 18 May 2026 ===------
 {
 == ALUMNI > POSTS
-- Post 260518 - Elsoc Industry night -- Elsoc Alumni Noght -- School Community Posts
+- Post 260518 - Elsoc Industry night -- Elsoc Alumni Night -- School Community Posts
 - Index of Posts updated
 }
 
