@@ -1,0 +1,90 @@
+Log - EEX Updates
+
+
+------=== 16 Jun 2026 ===------
+{
+Post 260616 -- Industry night wrap-up -- Elsoc Alumni Night update
+In progress: - Index of Posts updated
+
+== SCHOOL > RELATED
+- Menu structure reorganised
+- WORKSPACES > MAKER_SPACE branch added
+-- entry for search engine added
+}
+
+
+------=== 11 Jun 2026 ===------
+{
+== SEARCH > FAQs
+- Added AI descriptions of this site by ChatGPT and Claude
+}
+
+
+------=== 02 Jun 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 2606028 -- Reminder: Industry Night -- Informative Answer -- Created Questions 
+- Quote: Sherlock Holmes
+- Index of Posts updated
+}
+
+------=== 18 May 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260518 - Elsoc Industry night -- Elsoc Alumni Night -- School Community Posts
+- Index of Posts updated
+}
+
+
+------=== 07 May 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260507 - Mother's Day -- Influential Women -- Movie & TV Series -- Engineering Nominations 
+- Index of Posts updated
+}
+
+
+------=== 22 Apr 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260422 - ANZAC Day -- EMU Robotics Results -- Workplace Quotes
+- Index of Posts updated
+}
+
+
+------=== 11 Apr 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260411 - EMU Robotics in NYC -- Feedback for UNSW Engg -- Solving for the Unknown -- Story: Flat Car Battery 
+- Index of Posts updated
+}
+
+
+------=== 29 Mar 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260329 - Background Cycles #2 -- New Members -- Emu Robotics Results -- Gravity at Work -- Unix Philosophy
+- Index of Posts updated
+}
+
+
+------=== 15 Mar 2026 ===------
+{
+== ELSOC > PUBLICATIONS
+- NEWSLETTERS
+-- tables restructured
+-- Term 1 Nbr 1 added
+- WIRED_IN issue 01 from FB added
+}
+
+
+------=== 12 Mar 2026 ===------
+{
+== ALUMNI > POSTS
+- Post 260312 - International Women's Day, Craftsmanship, Unix in ElecEng, Bell Labs & Unix added
+- Index of Posts updated
+
+== TOOLBOX > CHARTS & TABLES
+- MATHEMATICS menu system simplified
+}
+
