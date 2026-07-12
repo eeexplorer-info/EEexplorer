@@ -1,10 +1,15 @@
 Log - EEX Updates
 
 
+------=== 12 Jul 2026 ===------
+{
+== ALUMNI > POSTS
+- Section: Wrap-up: Elsoc-Alumni night -- Recognised People -- Apologies -- Contacted -- Japanese Sayings -- President's Words 
+- Index of Posts updated
+}
+
+
 ------=== 24 Jun 2026 ===------
-
-. . . In Progress . . .
-
 {
 == ALUMNI > POSTS
 - Post 260624 -- Reminder Elsoc-Alumni Night -- Tips > Undergrad -- Tips > Alumni -- James Bott & Peter Vickery (Industry Night )
