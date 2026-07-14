@@ -1,10 +1,12 @@
 Log - EEX Updates
 
 
-------=== 13 Jul 2026 ===------
+------=== 14 Jul 2026 ===------
 {
 == ALUMNI > POSTS
 - Big Index of links (PDF, EEx, LI) for 2026, 2025 and 2024 activated
+- 2025 Elsoc-Alumni night page style updated
+- Images for 'Post - EEAlm 260713' added
 }
 
 
