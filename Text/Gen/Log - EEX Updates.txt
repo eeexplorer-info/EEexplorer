@@ -1,6 +1,13 @@
 Log - EEX Updates
 
 
+------=== 18 Jul 2026 ===------
+{
+== ELSOC
+- Menu structure for Campus Vists tidied up
+}
+
+
 ------=== 14 Jul 2026 ===------
 {
 == ALUMNI > POSTS
