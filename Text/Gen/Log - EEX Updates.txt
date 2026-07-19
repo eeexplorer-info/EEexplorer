@@ -1,9 +1,12 @@
 Log - EEX Updates
 
 
-------=== 18 Jul 2026 ===------
+------=== 19 Jul 2026 ===------
 {
+== ALUMNI > POSTS
+- View counts for 2026 so far updated
 == ELSOC
+- Alumni Night page links activated
 - Menu structure for Campus Vists tidied up
 }
 
