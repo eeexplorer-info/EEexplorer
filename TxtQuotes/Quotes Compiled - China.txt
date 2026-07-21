@@ -1,5 +1,5 @@
 Quotes Compiled - China
-Latest: 16 Dec 2025
+Latest: 21 Jul 2026
 
 
 "He who blames others has a long way to go on his journey.
@@ -21,8 +21,8 @@ He who blames no one has arrived."
 
 
 "If an archer shoots just for fun, he has his skill.
-If he shoots for score, his hands tremble and his breather is uneasy.
-If he shoots for a golden price, he becomes mad and blind.
+If he shoots for score, his hands tremble and his breathe is uneasy.
+If he shoots for a golden prize, he becomes mad and blind.
 His skill has not lessened, but the vision of the target changed him."
 / Old Chinese Poem /
 
@@ -55,12 +55,10 @@ His skill has not lessened, but the vision of the target changed him."
 ~~ Chinese Proverb
 
 
-"Better a diamond with a flaw than a pebble without one."
-~~ Chinese Proverb
-
-
+Six Million Dollar Man 5x20
+[hh:mm]
 "Old Chinese Proverb says, If you chase two rabbits, you end up getting none."
---- Six Million Dollar Man 5x20x @ hh:mm
+
 
 
 "The best time to plant a tree was twenty years ago, the second best time is right now."
@@ -75,7 +73,10 @@ His skill has not lessened, but the vision of the target changed him."
 ~~ Chinese Proverb
 
 
-"When someone teaches you or mentors you for a day, you respect him / her as a father / mother for a lifetime. The words sifu or shifu literally mean teacher, shi, and father, fu. / mother, simo. The Chinese proverb is ????,???? (yi ri wei shi, zhong shen wei fu)."
+"When someone teaches you or mentors you for a day, you respect him / her as a father / mother for a lifetime.
+:
+The words sifu or shifu literally mean teacher, shi, and father, fu. / mother, simo.
+:The Chinese proverb is ????,???? (yi ri wei shi, zhong shen wei fu)."
 ~~ Keni Lee Burgess
 
 
