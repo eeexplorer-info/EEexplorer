@@ -1,10 +1,28 @@
 Log - EEX Updates
 
 
+------=== 22 Jul 2026 ===------
+{
+== ELSOC > PUBLICATIONS
+- WIRED_IN issue 2, issue 3 and issue 4 from FB added
+
+== SEARCH > FAQs
+- Branch table activated
+- Pathway table activated
+
+== UPDATE RECORD - What's New?
+- Entries restructured and links activated
+
+== WORK n LIFE > PEOPLEWARE > QUOTES
+- Entries resrtuctured
+}
+
+
 ------=== 19 Jul 2026 ===------
 {
 == ALUMNI > POSTS
 - View counts for 2026 so far updated
+
 == ELSOC
 - Alumni Night page links activated
 - Menu structure for Campus Vists tidied up
@@ -80,6 +98,9 @@ Log - EEX Updates
 == ALUMNI > POSTS
 - Post 260507 - Mother's Day -- Influential Women -- Movie & TV Series -- Engineering Nominations 
 - Index of Posts updated
+
+== ELSOC > PUBLICATIONS > NEWSLETTERS
+- Term 1 Wk 10 added (PDF)
 }
 
 
@@ -88,6 +109,9 @@ Log - EEX Updates
 == ALUMNI > POSTS
 - Post 260422 - ANZAC Day -- EMU Robotics Results -- Workplace Quotes
 - Index of Posts updated
+
+== ELSOC > PUBLICATIONS > NEWSLETTERS
+- Term 1 Wk 10 added
 }
 
 
