@@ -610,6 +610,11 @@ a:active, summary:active {
 	background-color: black;
 }
 
+.colourWtBdy{
+	color: white;
+	background-color: var(--bgcolor-body);
+}
+
 .colourBkYw {
 	color: black;
 	background-color: var(--bgcolor-h4);
