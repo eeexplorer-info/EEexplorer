@@ -1,11 +1,13 @@
-Quotes Compiled - Persia-Iran
+﻿Quotes Compiled - Persia-Iran
+Last: 13 Oct 2026
+
+// Saadi Shirazii - Persian Poet, 13th Century
+
 
 
 "If you have no trouble, buy a goat."
 -- Persian Proverb
 
-
-// Saadi Shirazii - Persian Poet, 13th Century
 
 "Whatever is produced in haste goes easily to waste."
 / Saadi /
@@ -27,7 +29,7 @@ Quotes Compiled - Persia-Iran
 / Saadi Shirazi /
 
 
-"He who learns the rules of wisdom, without conforming to them in his life, is like a man who laboured in his fields, but dud not sow."
+"He who learns the rules of wisdom, without conforming to them in his life, is like a man who laboured in his fields, but did not sow."
 -- Saadi Shirazi
 
 
@@ -47,7 +49,6 @@ Quotes Compiled - Persia-Iran
 -- Saadi Shirazi
 
 
-
 "Green wood can be bent. But once it becomes dry, it can only be straightened by fire."
 -- Saadi Shirazi
 
@@ -57,13 +58,13 @@ Quotes Compiled - Persia-Iran
 
 
 "Have patience. All things are difficult before they become easy."
-/ Saadi ShiraSaadi Shirazii /
+/ Saadi Shirazi /
 
 
 "Ten beggars can sleep on one rug, but two kings feel uncomfortable in one country."
 / Saadi /
 :
-"Saadi ShiraSaadi Shirazii, better known by his pen name Saadi, also known as Sadi of Shira. Saadi Shirazi, was a major Persian poet and prose writer of the medieval period. He is recogniSaadi Shirazied for the quality of his writings and for the depth of his social and moral thoughts."
+"Saadi Shirazi, better known by his pen name Saadi, also known as Sadi of Shira. Saadi Shirazi, was a major Persian poet and prose writer of the medieval period. He is recogniSaads for the quality of his writings and for the depth of his social and moral thoughts."
 
 
 "Intellect takes you to the door, but it doesn't take you into the house."
@@ -72,6 +73,6 @@ Quotes Compiled - Persia-Iran
 "Shams-i Tabrizi was a Persian poet, who is credited as the spiritual instructor of Rumi and is referenced with great reverence in Rumi's poetic collection, in particular Diwan-i Shams-i Tabrizi.
 :
 Born: 1185, Tabriz, Iran
-Died: 1248 (aged 62�63), Khoy, Iran
+Died: 1248 (aged 62-63), Khoy, Iran
 Resting place: Khoy, Iran
 Occupation: Weaver, Poet, Philosopher, Teacher
