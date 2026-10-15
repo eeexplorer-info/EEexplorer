@@ -474,6 +474,7 @@ https://www.w3schools.com/howto/howto_js_filter_lists.asp
 	padding: 10px;
 	text-decoration: none; /* Remove default text underline */
 	font-size: 1rem;
+	font-size: 0.875rem;
 	color: white;  /* Add a white text color */
 	display: block; /* Make it into a block element to fill the whole list */
   }
@@ -975,8 +976,8 @@ details > summary {
 	display: grid;
 	/* original */
 	/* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
-	/* grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); */
-	grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+	/* grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); */
 	grid-gap: 30px;
 }
 
